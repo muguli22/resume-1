@@ -1,0 +1,344 @@
+{
+    "name": "Mike Acord",
+
+  "meta": {
+    "format": "FRESH@0.6.0",
+    "version": "0.1.0"
+  },
+
+  "info": {
+    "label": "Experienced Microsoft Architect, Consultant",
+    "characterClass": "Programmer",
+    "brief": "**Seasoned application developer and solutions consultant with over 14 years of experience in designing, developing, and implementing database and web applications using Microsoft technologies. Specialties include C#, ASP.Net MVC, SQL Server development and administration and SharePoint deployment, development and administration."
+  },
+
+  "contact": {
+    "website": "http://mikeacord.com",
+    "email": "acordmike@gmail.com",
+    "other": [
+      {
+        "label": "Mobile Phone",
+        "flavor": "phone",
+        "value": "1-920-224-4584"
+      }
+    ]
+  },
+
+  "location": {
+    "city": "Appleton",
+    "region": "WI",
+    "country": "US"
+  },
+
+  "projects": [
+    {
+      "title": "HackMyResume",
+      "category": "FOSS",
+      "role": "contributor",
+      "url": "http://please.hackmyresume.com",
+      "start": "2015-09",
+      "repo": "https://github.com/hacksalot/hackmyresume",
+      "description": "A resume authoring and analysis tool for OS X, Linux, and Windows.",
+      "summary": "Exemplar user for HackMyResume and FluentCV!",
+      "keywords": ["JavaScript", "Node.js", "cross-platform", "JSON"],
+      "media": [
+        {
+          "category": "download",
+          "url": "https://www.npmjs.com/package/hackmyresume"
+        }
+      ]
+    },
+    {
+      "title": "Augmented Android",
+      "category": "commercial",
+      "role": "co-creator",
+      "url": "http://project.website.com",
+      "repo": "http://repo.website.com",
+      "description": "An augmented reality app for Android.",
+      "start": "2012-02",
+      "end": "2014-01",
+      "summary": "Performed flagship product conceptualization and development.",
+      "keywords": ["Android", "Java", "Xamarin"]
+    },
+    {
+      "title": "Blog",
+      "category": "personal",
+      "role": "creator",
+      "url": "http://myblog.jane.com/blog",
+      "description": "My programming blog. Powered by Jekyll.",
+      "summary": "Conceptualization, design, development, and deployment.",
+      "keywords": ["Jekyll", "Ruby", "HTML 5", "JavaScript", "HTTP", "LAMP"]
+    }
+  ],
+
+  "social": [
+
+    {
+      "label": "GitHub",
+      "network": "GitHub",
+      "user": "acordmike",
+      "url": "https://github.com/acordmike"
+    },
+
+    {
+      "label": "LinkedIn",
+      "network": "LinkedIn",
+      "user": "michaelacord",
+      "url": "https://www.linkedin.com/in/michaelacord"
+    }
+  ],
+
+  "employment": {
+
+    "summary": "7+ years industry IT and software development experience.",
+
+    "history": [
+
+      {
+        "employer": "Area 52",
+        "url": "https://area52.io/does-not-exist",
+        "position": "Head Code Ninja",
+        "summary": "Development team manager for [**Quantum Diorama**](https://en.wikipedia.org/wiki/Vaporware), a distributed molecular modeling and analysis suite for Linux and OS X.",
+        "start": "2013-09",
+        "keywords": ["Agile","PM","C","C++","R","OpenGL","Boost","MySQL","PostgreSQL","JIRA"],
+        "highlights": ["Managed a 5-person development team", "Accomplishment 2", "Etc."]
+      },
+
+      {
+        "employer": "Veridian Dynamics",
+        "url": "https://en.wikipedia.org/wiki/Better_Off_Ted#Plot",
+        "position": "Principal Developer",
+        "summary": "Developer on numerous projects culminating in technical lead role for the [Jabberwocky project](http://betteroffted.wikia.com/wiki/Jabberwocky) and promotion to principal developer.",
+        "start": "2011-07",
+        "end": "2013-08",
+        "keywords": ["C++","C","Linux","R","Clojure"],
+        "highlights": ["Managed a 5-person development team", "Accomplishment 2", "Etc."]
+      },
+
+      {
+        "employer": "Stark Industries",
+        "position": "IT Administrator",
+        "summary": "Junior programmer with heavy code responsibilities. Promoted to intermediate role after 6 months.",
+        "start": "2008-10",
+        "end": "2011-06",
+        "keywords": ["Novell","Active Directory","Linux","Windows"],
+        "highlights": ["Promoted to intermediate developer after 6 months", "Accomplishment 2", "Etc."]
+      },
+
+      {
+        "employer": "Dunder Mifflin",
+        "position": "Intern",
+        "summary": "Performed IT administration and deployments for Dunder Mifflin.",
+        "start": "2008-06",
+        "end": "2008-09",
+        "keywords": ["Novell","Active Directory","Linux","Windows"],
+        "highlights": ["Supervised roll-out of Dunder Mifflin Infinity website.", "Performed mission-critical system backups and ", "Etc."]
+      }
+    ]
+
+  },
+
+  "education": {
+
+    "summary": "",
+
+    "level": "degree",
+
+    "degree": "BSCS",
+
+    "history": [
+
+      {
+        "institution": "Cornell University",
+        "title": "BSCS",
+        "url": "https://www.cornell.edu/",
+        "start": "2005-09",
+        "end": "2008-05",
+        "grade": "3.5",
+        "summary": "A multiline summary of the education.",
+        "curriculum": ["Course 1", "Course 2", "Course 2"]
+      },
+
+      {
+        "institution": "Medfield College",
+        "title": "",
+        "url": "https://en.wikipedia.org/wiki/Medfield_College",
+        "start": "2003-09",
+        "end": "2005-06",
+        "grade": "3.2",
+        "summary": "A multiline summary of the education.",
+        "curriculum": ["Course 1", "Course 2", "Course 2"]
+      }
+    ]
+
+  },
+
+  "service": {
+
+    "summary": "Active US Army Reserve member and Technology for Tots technical consultant and volunteer coordinator.",
+
+    "history": [
+      {
+        "flavor": "volunteer",
+        "position": "Technical Consultant",
+        "organization": "Technology for Tots",
+        "url": "http://technology-for-tots.org",
+        "start": "2003-11",
+        "end": "2005-06",
+        "summary": "Summary of this volunteer stint.",
+        "highlights": ["Accomplishment 1", "Accomplishment 2", "etc"]
+      },
+      {
+        "flavor": "military",
+        "position": "NCO",
+        "organization": "US Army Reserves",
+        "url": "http://www.usar.army.mil/",
+        "start": "1999-11",
+        "end": "2003-06",
+        "summary": "Summary of this military stint.",
+        "highlights": ["Accomplishment 1", "Accomplishment 2", "etc"]
+      }
+    ]
+
+  },
+
+  "skills": {
+
+    "sets": [
+      {
+        "name": "Web",
+        "level": "advanced",
+        "skills": [
+          "JavaScript", "HTML 5", "CSS", "LAMP", "MVC", "REST"
+        ]
+      },
+      {
+        "name": "JavaScript",
+        "level": "master",
+        "skills": [
+          "Node.js", "Angular.js", "jQuery", "Bootstrap", "React.js", "Backbone.js"
+        ]
+      },
+      {
+        "name": "Database",
+        "level": "intermediate",
+        "skills": [
+          "MySQL", "PostgreSQL", "NoSQL", "ORM", "Hibernate"
+        ]
+      },
+      {
+        "name": "Cloud",
+        "level": "intermediate",
+        "skills": [
+          "AWS", "EC2", "RDS", "S3", "Azure", "Dropbox"
+        ]
+      },
+      {
+        "name": "Project",
+        "level": "beginner",
+        "skills": [
+          "Agile", "TFS", "JIRA", "GitHub", "Unified Process", "MS Project"
+        ]
+      }
+    ],
+
+    "list": [
+      {
+        "name": "C++",
+        "id": "1",
+        "summary": "Optional summary of your experience with the skill.",
+        "level": "9",
+        "years": 7,
+        "proof": "http://myblog.com/interesting-cplusplus-post"
+      },
+      {
+        "name": "Ruby",
+        "id": "2",
+        "summary": "Optional summary of your experience with the skill.",
+        "level": "9",
+        "years": 7,
+        "proof": "http://myblog.com/interesting-cplusplus-post"
+      },
+      {
+        "name": "Xcode",
+        "summary": "Xcode 6 development.",
+        "level": "5",
+        "years": "3"
+      },
+      {
+        "name": "Linux",
+        "summary": "Optional summary of your experience with the skill.",
+        "level": "advanced",
+        "years": "4+"
+      },
+      {
+        "name": "Agile",
+        "summary": "Optional summary of your experience with the skill.",
+        "level": "B+",
+        "years": 2
+      }
+    ]
+  },
+
+  "recognition": [
+    {
+      "flavor": "award",
+      "from": "Google",
+      "title": "Honorable Mention",
+      "event": "Summer of Code",
+      "date": "2012"
+    },
+    {
+      "flavor": "honor",
+      "from": "Cornell University",
+      "title": "Summa cum laude",
+      "event": "graduation",
+      "date": "2012"
+    }
+  ],
+
+ 
+  "languages": [
+    {
+      "language": "English",
+      "level": "Native"
+    }
+  ],
+
+  "governance": [
+    {
+      "flavor": "board",
+      "role": "Member",
+      "organization": "The Mommies Network",
+      "url": "http://themommiesnetwork.org",
+      "start": "2008-02",
+      "end": "2010-01",
+      "summary": "Since 2008 I've been a full-time member of the board of directors for TMN."
+    },
+    {
+      "flavor": "committee",
+      "role": "Academic Contributor",
+      "organization": "Khronos Group",
+      "url": "https://www.khronos.org",
+      "start": "2015-01",
+      "highlights": [
+        "Participated in GORFF standardization process (Draft 2)."
+      ]
+    }
+  ],
+
+  "interests": [
+    {
+      "name": "reading",
+      "summary": "Jane is a fan of mystery novels and courtroom dramas including Agatha Christie and John Grisham.",
+      "keywords": [ "mystery", "Agatha Christie", "John Grisham" ]
+    },
+    {
+      "name": "hiking",
+      "summary": "Jane enjoys hiking, light mountain climbing, and has four summits under her belt!"
+    },
+    {
+      "name": "yoga"
+    }
+  ]
+}
