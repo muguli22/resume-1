@@ -9,7 +9,7 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
         "validate": "hackmyresume VALIDATE ./src/resume.json",
-        "build": "hackmyresume BUILD src/resume.json TO README.md && hackmyresume BUILD src/resume.json TO dist/mikeacord_resume.doc dist/mikeacord_resume.pdf -t positive"
+        "build": "hackmyresume BUILD src/resume.json TO README.md && hackmyresume BUILD src/resume.json TO dist/mikeacord_resume.doc dist/mikeacord_resume.pdf -t positive --pdf phantom"
     },
     "author": "Mike Acord",
     "license": "ISC"
