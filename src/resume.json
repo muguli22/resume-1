@@ -1,0 +1,294 @@
+{
+    "name": "Mike Acord",
+
+    "meta": {
+        "format": "FRESH@0.6.0",
+        "version": "0.1.0"
+    },
+
+    "info": {
+        "label": "Experienced Microsoft Architect, Consultant",
+        "characterClass": "Programmer",
+        "brief": "Seasoned application developer and solutions consultant with over 14 years of experience in designing, developing, and implementing database and web applications using Microsoft technologies. Specialties include C#, ASP.Net MVC, SQL Server development and administration and SharePoint deployment, development and administration."
+    },
+
+    "contact": {
+        "website": "http://mikeacord.com",
+        "email": "acordmike@gmail.com",
+        "other": [{
+            "label": "Mobile Phone",
+            "flavor": "phone",
+            "value": "1-920-224-4584"
+        }]
+    },
+
+    "location": {
+        "city": "Appleton",
+        "region": "WI",
+        "country": "US"
+    },
+
+    "social": [{
+        "label": "LinkedIn",
+        "network": "LinkedIn",
+        "user": "michaelacord",
+        "url": "https://www.linkedin.com/in/michaelacord"
+    }],
+
+    "employment": {
+
+        "summary": "Seasoned application developer and solutions consultant with over 14 years of experience in designing, developing, and implementing database and web applications using Microsoft technologies. Specialties include C#, ASP.Net MVC, SQL Server development and administration and SharePoint deployment, development and administration.",
+
+        "history": [
+
+            {
+                "employer": "Omni Resources",
+                "url": "http://www.omniresources.com",
+                "position": "Senior Solutions Architect, Consultant",
+                "summary": "Senior Microsoft Architect, building solutions for clients",
+                "start": "2012-07",
+                "keywords": ["Agile", "C#", "DevOps", "Javascript", "ASP.Net MVC", "SQL Server", "Analysis Services", "Integration Services", "SharePoint", "Azure", "Business Intelligence", "Office365", "TFS Administration"],
+                "highlights": ["Led team creating web-based report designer and high-performance report execution engine for a student management system",
+                    "Worked on team developing a dealer showcase website in Azure using ASP.Net MVC, web services and Backbone.JS",
+                    "Developed new data warehouse for an insurance company using SQL Server, AWS and Redshift.",
+                    "Developed a flexible interview building and reporting application for a health outcome reporting company",
+                    "Internal systems management and administration"
+                ]
+            },
+
+            {
+                "employer": "Heartland Business Systems (Avastone)",
+                "url": "http://www.hbs.net",
+                "position": "SharePoint/Business Intelligence Technical Lead / Consultant",
+                "summary": "Designing and developing custom .Net, Business Intelligence and SharePoint solutions for businesses. Management technical consulting team.",
+                "start": "2008-06",
+                "end": "2012-07",
+                "keywords": ["C#", "Javascript", "ASP.Net MVC", "SQL Server", "Analysis Services", "Integration Services", "Sharepoint", "Business Intelligence"],
+                "highlights": ["School District teacher evaluation system developed in SharePoint, .Net and javascript",
+                    "County health reporting and analytics system developed in ASP.Net MVC",
+                    "School District website rewrite developed in SharePoint",
+                    "New product workflow application developed in InfoPath",
+                    "Data Warehouse developed on SQL Server database and Analysis Services",
+                    "Numerous SharePoint implementations, upgrades and custom development projects"
+                ]
+            },
+
+            {
+                "employer": "Fujitsu Consulting",
+                "position": "Business Intelligence Consultant",
+                "summary": "Senior BI Consultant building data integration solutions.",
+                "start": "2006-08",
+                "end": "2008-04",
+                "keywords": ["Novell", "Active Directory", "Linux", "Windows"],
+                "highlights": ["Designing and developing data migration strategy from legacy system"]
+            },
+
+            {
+                "employer": "Dunder Mifflin",
+                "position": "Intern",
+                "summary": "Performed IT administration and deployments for Dunder Mifflin.",
+                "start": "2008-06",
+                "end": "2008-09",
+                "keywords": ["Novell", "Active Directory", "Linux", "Windows"],
+                "highlights": ["Supervised roll-out of Dunder Mifflin Infinity website.", "Performed mission-critical system backups and ", "Etc."]
+            }
+        ]
+
+    },
+
+    "education": {
+
+        "summary": "",
+
+        "level": "degree",
+
+        "degree": "BSCS",
+
+        "history": [
+
+            {
+                "institution": "Cornell University",
+                "title": "BSCS",
+                "url": "https://www.cornell.edu/",
+                "start": "2005-09",
+                "end": "2008-05",
+                "grade": "3.5",
+                "summary": "A multiline summary of the education.",
+                "curriculum": ["Course 1", "Course 2", "Course 2"]
+            },
+
+            {
+                "institution": "Medfield College",
+                "title": "",
+                "url": "https://en.wikipedia.org/wiki/Medfield_College",
+                "start": "2003-09",
+                "end": "2005-06",
+                "grade": "3.2",
+                "summary": "A multiline summary of the education.",
+                "curriculum": ["Course 1", "Course 2", "Course 2"]
+            }
+        ]
+
+    },
+
+    "service": {
+
+        "summary": "Active US Army Reserve member and Technology for Tots technical consultant and volunteer coordinator.",
+
+        "history": [{
+                "flavor": "volunteer",
+                "position": "Technical Consultant",
+                "organization": "Technology for Tots",
+                "url": "http://technology-for-tots.org",
+                "start": "2003-11",
+                "end": "2005-06",
+                "summary": "Summary of this volunteer stint.",
+                "highlights": ["Accomplishment 1", "Accomplishment 2", "etc"]
+            },
+            {
+                "flavor": "military",
+                "position": "NCO",
+                "organization": "US Army Reserves",
+                "url": "http://www.usar.army.mil/",
+                "start": "1999-11",
+                "end": "2003-06",
+                "summary": "Summary of this military stint.",
+                "highlights": ["Accomplishment 1", "Accomplishment 2", "etc"]
+            }
+        ]
+
+    },
+
+    "skills": {
+
+        "sets": [{
+                "name": "Web",
+                "level": "advanced",
+                "skills": [
+                    "JavaScript", "HTML 5", "CSS", "LAMP", "MVC", "REST"
+                ]
+            },
+            {
+                "name": "JavaScript",
+                "level": "master",
+                "skills": [
+                    "Node.js", "Angular.js", "jQuery", "Bootstrap", "React.js", "Backbone.js"
+                ]
+            },
+            {
+                "name": "Database",
+                "level": "intermediate",
+                "skills": [
+                    "MySQL", "PostgreSQL", "NoSQL", "ORM", "Hibernate"
+                ]
+            },
+            {
+                "name": "Cloud",
+                "level": "intermediate",
+                "skills": [
+                    "AWS", "EC2", "RDS", "S3", "Azure", "Dropbox"
+                ]
+            },
+            {
+                "name": "Project",
+                "level": "beginner",
+                "skills": [
+                    "Agile", "TFS", "JIRA", "GitHub", "Unified Process", "MS Project"
+                ]
+            }
+        ],
+
+        "list": [{
+                "name": "C++",
+                "id": "1",
+                "summary": "Optional summary of your experience with the skill.",
+                "level": "9",
+                "years": 7,
+                "proof": "http://myblog.com/interesting-cplusplus-post"
+            },
+            {
+                "name": "Ruby",
+                "id": "2",
+                "summary": "Optional summary of your experience with the skill.",
+                "level": "9",
+                "years": 7,
+                "proof": "http://myblog.com/interesting-cplusplus-post"
+            },
+            {
+                "name": "Xcode",
+                "summary": "Xcode 6 development.",
+                "level": "5",
+                "years": "3"
+            },
+            {
+                "name": "Linux",
+                "summary": "Optional summary of your experience with the skill.",
+                "level": "advanced",
+                "years": "4+"
+            },
+            {
+                "name": "Agile",
+                "summary": "Optional summary of your experience with the skill.",
+                "level": "B+",
+                "years": 2
+            }
+        ]
+    },
+
+    "recognition": [{
+            "flavor": "award",
+            "from": "Google",
+            "title": "Honorable Mention",
+            "event": "Summer of Code",
+            "date": "2012"
+        },
+        {
+            "flavor": "honor",
+            "from": "Cornell University",
+            "title": "Summa cum laude",
+            "event": "graduation",
+            "date": "2012"
+        }
+    ],
+
+
+    "languages": [{
+        "language": "English",
+        "level": "Native"
+    }],
+
+    "governance": [{
+            "flavor": "board",
+            "role": "Member",
+            "organization": "The Mommies Network",
+            "url": "http://themommiesnetwork.org",
+            "start": "2008-02",
+            "end": "2010-01",
+            "summary": "Since 2008 I've been a full-time member of the board of directors for TMN."
+        },
+        {
+            "flavor": "committee",
+            "role": "Academic Contributor",
+            "organization": "Khronos Group",
+            "url": "https://www.khronos.org",
+            "start": "2015-01",
+            "highlights": [
+                "Participated in GORFF standardization process (Draft 2)."
+            ]
+        }
+    ],
+
+    "interests": [{
+            "name": "reading",
+            "summary": "Jane is a fan of mystery novels and courtroom dramas including Agatha Christie and John Grisham.",
+            "keywords": ["mystery", "Agatha Christie", "John Grisham"]
+        },
+        {
+            "name": "hiking",
+            "summary": "Jane enjoys hiking, light mountain climbing, and has four summits under her belt!"
+        },
+        {
+            "name": "yoga"
+        }
+    ]
+}
