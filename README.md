@@ -4,7 +4,7 @@ Email: acordmike@gmail.com
 
 Web: http://mikeacord.com
 
-**Seasoned application developer and solutions consultant with over 14 years of experience in designing, developing, and implementing database and web applications using Microsoft technologies. Specialties include C#, ASP.Net MVC, SQL Server development and administration and SharePoint deployment, development and administration.
+Seasoned application developer and solutions consultant with over 14 years of experience in designing, developing, and implementing database and web applications using Microsoft technologies. Specialties include C#, ASP.Net MVC, SQL Server development and administration and SharePoint deployment, development and administration.
 
 ## SKILLS
 
@@ -16,26 +16,29 @@ Web: http://mikeacord.com
 
 ## EMPLOYMENT
 
-### *Head Code Ninja*, [Area 52](https://area52.io/does-not-exist) (2013-09 — Present)
+### *Senior Solutions Architect, Consultant*, [Omni Resources](http://www.omniresources.com) (2012-07 — Present)
 
-Development team manager for [**Quantum Diorama**](https://en.wikipedia.org/wiki/Vaporware), a distributed molecular modeling and analysis suite for Linux and OS X.
-  - Managed a 5-person development team
-  - Accomplishment 2
-  - Etc.
+Senior Microsoft Architect, building solutions for clients
+  - Led team creating web-based report designer and high-performance report execution engine for a student management system
+  - Worked on team developing a dealer showcase website in Azure using ASP.Net MVC, web services and Backbone.JS
+  - Developed new data warehouse for an insurance company using SQL Server, AWS and Redshift.
+  - Developed a flexible interview building and reporting application for a health outcome reporting company
+  - Internal systems management and administration
 
-### *Principal Developer*, [Veridian Dynamics](https://en.wikipedia.org/wiki/Better_Off_Ted#Plot) (2011-07 — 2013-08)
+### *SharePoint/Business Intelligence Technical Lead / Consultant*, [Heartland Business Systems (Avastone)](http://www.hbs.net) (2008-06 — 2012-07)
 
-Developer on numerous projects culminating in technical lead role for the [Jabberwocky project](http://betteroffted.wikia.com/wiki/Jabberwocky) and promotion to principal developer.
-  - Managed a 5-person development team
-  - Accomplishment 2
-  - Etc.
+Designing and developing custom .Net, Business Intelligence and SharePoint solutions for businesses. Management technical consulting team.
+  - School District teacher evaluation system developed in SharePoint, .Net and javascript
+  - County health reporting and analytics system developed in ASP.Net MVC
+  - School District website rewrite developed in SharePoint
+  - New product workflow application developed in InfoPath
+  - Data Warehouse developed on SQL Server database and Analysis Services
+  - Numerous SharePoint implementations, upgrades and custom development projects
 
-### *IT Administrator*, Stark Industries (2008-10 — 2011-06)
+### *Business Intelligence Consultant*, Fujitsu Consulting (2006-08 — 2008-04)
 
-Junior programmer with heavy code responsibilities. Promoted to intermediate role after 6 months.
-  - Promoted to intermediate developer after 6 months
-  - Accomplishment 2
-  - Etc.
+Senior BI Consultant building data integration solutions.
+  - Designing and developing data migration strategy from legacy system
 
 ### *Intern*, Dunder Mifflin (2008-06 — 2008-09)
 
@@ -44,23 +47,6 @@ Performed IT administration and deployments for Dunder Mifflin.
   - Performed mission-critical system backups and 
   - Etc.
 
-
-## PROJECTS
-
-### *Contributor*, [HackMyResume](http://please.hackmyresume.com) (2015-09 — Present)
-
-A resume authoring and analysis tool for OS X, Linux, and Windows.
-Exemplar user for HackMyResume and FluentCV!
-
-### *Co-creator*, [Augmented Android](http://project.website.com) (2012-02 — 2014-01)
-
-An augmented reality app for Android.
-Performed flagship product conceptualization and development.
-
-### *Creator*, [Blog](http://myblog.jane.com/blog) (??? — Present)
-
-My programming blog. Powered by Jekyll.
-Conceptualization, design, development, and deployment.
 
 
 ## GOVERNANCE

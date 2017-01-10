@@ -1,14 +1,16 @@
 {
-  "name": "mike.acord.resume",
-  "version": "1.0.0",
-  "description": "Mike Acord's Resume",
-  "dependencies": {
-    "hackmyresume": "^1.8.0"
-  },
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Mike Acord",
-  "license": "ISC"
+    "name": "mike.acord.resume",
+    "version": "1.0.0",
+    "description": "Mike Acord's Resume",
+    "dependencies": {
+        "hackmyresume": "^1.8.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "validate": "hackmyresume VALIDATE ./src/resume.json",
+        "build": "hackmyresume BUILD src/resume.json TO README.md"
+    },
+    "author": "Mike Acord",
+    "license": "ISC"
 }
