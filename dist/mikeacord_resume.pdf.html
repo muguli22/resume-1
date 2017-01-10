@@ -1,573 +1,343 @@
-
 <!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8">
-
     <title>Mike Acord</title>
-
-    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-
-
-    <style>* {
-  box-sizing: border-box;
-}
-
-main {
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+    <style>html, body, main, section, header, ul, p, h1, h2, h3 {
+  font-family: Calibri, 'Open Sans', sans-serif;
+  font-size: 14px;
+  margin: 0; padding: 0;
   display: block;
 }
 
-body {
-  font-family: 'Helvetica Neue', 'Helvetica', 'Segoe UI', 'Calibri', 'sans-serif';
-  font-size: 15px;
-  color: #333;
-  line-height: 1.42857143;
-  background-color: #F0F0F0;
-  margin: 0;
-  padding: 0;
-}
-
-/* Typical page borders are awkward when rendered to PDF. */
-body {
-  background-color: #FFFFFF;
-}
-
-/* Adobe or wkhtmltopdf has issues with the <main> tag, so we use <div> for
-the PDF case, <main> for the HTML case, and style both via an ID. */
-#main {
-  background-color: #FFF;
-  margin: 10px;
-  padding: 10px;
-  border: 1px solid #E6E6E6;
-}
-
-body > #main {
-  border: none;
-}
-
-#container > header {
-  padding-top: 6em;
-  padding-bottom: 1em;
-}
-
-body.pdf #container > header {
-  padding: 0;
-}
-
-#main > #container > section {
-  margin-left: 5em;
-  position: relative;
-  display: block;
-}
-
-span.fa
-{
-  position: absolute;
-  top: 4px;
-  left: -50px;
-  font-size: 30px;
-  color: #BFC1C3;
-}
-
-hr {
-  margin-top: 20px;
-  margin-bottom: 20px;
-  border: 0;
-  border-top: 1px solid #EEE;
-}
-
-.tenure, .keywords {
-  font-size: 75%;
-}
-
-h1 {
-  margin: 0;
-  font-size: 46px;
-}
-
-h2 {
-  font-size: 24px;
-  color: #BFC1C3;
-  text-transform: uppercase;
-  font-weight: normal;
-}
-
-h3 {
-  margin-bottom: 0;
-  font-size: 18px;
-}
-
-a, a:visited {
-  color: #428BCA;
+a {
+  color: #0064BD;
   text-decoration: none;
-  font-weight: bold;
+}
+
+a:visited {
+  color: #7B0796;
 }
 
 a:hover {
   text-decoration: underline;
 }
 
-.defunct {
-  color: #989898;
+h1 {
+  text-transform: uppercase;
+  font-size:
+}
+
+h2 {
+  text-transform: uppercase;
+  color: #898989;
+  font-size: 2em;
+  position: relative;
+  font-weight: 400;
+}
+
+h3 {
+  font-size: 1em;
+  margin-top: 0;
+  width: 66%;
+  float: left;
+}
+
+table {
+  width: 100%;
+  text-transform: uppercase;
+  font-size: 1.3em;
+}
+
+td:first-child {
+  text-align: right;
+  color: #A9A9A9;
+  /*letter-spacing: 5px;*/
   font-weight: bold;
 }
 
-#summary > p > strong {
-  font-size: 1.25em;
+td:last-child {
+  text-align: justify; /* HTML justification sucks, but in this case... */
 }
 
-
-.label-keyword {
-  display: inline-block;
-  background: #7eb0db;
-  color: white;
-  font-size: 0.9em;
-  padding: 5px;
-  border: 1px solid #357ebd;
-  border-radius: 5px;
-  margin-top: 2px;
+hr {
+  display: none;
 }
 
-.card-skills {
-    position: relative;
-}
-.card-nested {
-    min-height: 0;
-    margin-bottom: 10px;
-    border-width: 1px 0 0 0;
-}
-.card {
-    background: #FFF;
-    border-radius: 3px;
-    padding: 10px;
-}
-
-.skill-level {
-  border-radius: 3px;
-  position: absolute;
-  top: 10px;
-  bottom: 10px;
-  left: 0;
-  width: 10px;
-  box-shadow: inset 0 0 1px rgba(0, 0, 0, 0.5);
-}
-.skill-level .skill-progress {
-  position: absolute;
-  border-radius: 3px;
-  bottom: 0;
-  width: 100%;
-  -webkit-transition: height 1s ease;
-}
-.skill-level .skill-progress.beginner {
-  height: 50%;
-  background: #e74c3c;
-}
-.skill-level .skill-progress.intermediate {
-  height: 70%;
-  background: #f1c40f;
-}
-.skill-level .skill-progress.advanced {
-  height: 80%;
-  background: #428bca;
-}
-.skill-level .skill-progress.master {
-  height: 95%;
-  background: #5cb85c;
-}
-.skill-info {
-  margin-left: 10px;
-}
-@media (max-width: 480px) {
-  .skill-info {
-    margin-left: 20px;
-  }
-}
-
-.list-unstyled {
-  padding-left: 0;
-  list-style: none;
-}
-
-.card-skills {
-  position: relative;
-}
-
-.space-top {
-    margin-top: 10px;
-}
-
-#container {
+main {
+  padding: 15px;
   max-width: 800px;
   margin: 0 auto;
 }
 
-#elevator-pitch {
-  text-align: center;
-  font-size: 24px;
-  color: #BFC1C3;
-  text-transform: uppercase;
-  font-weight: normal;
+section {
+  margin-top: 1em;
 }
 
-.res-label {
-  font-style: italic;
+section > div {
+  margin-top: 1em;
+  overflow: hidden; /* Clear floated children */
+}
+
+section > div p {
+  clear: both;
+}
+
+section > header {
+  position: relative;
+}
+
+li {
+  margin-left: 2em;
+}
+
+p, li {
+  text-align: justify;
+}
+
+.tenure {
+  float: right;
+}
+
+thead {
+  display: none;
+}
+
+main > header {
+  width: 100%;
+  float: left;
+  margin-bottom: 1em;
+}
+
+h1 {
+  float: left;
+}
+
+h1, h2, .label {
+  font-size: 2.5em;
+  text-transform: uppercase;
+  font-weight: 300;
+  font-family: 'Open Sans', 'Segoe UI', sans-serif;
+}
+
+#contact {
+ clear: both;
+ float: right;
+}
+
+header > span.fa {
+  text-align: center;
+  margin-right: 3px;
+  position: absolute;
+  width: 40px;
+  top: 10px;
+  font-size: 30px;
+  /*transform: translateX(-110%); PDF no likey */
+  margin-left: -50px;
+  color: #DADADA;
+}
+
+.label {
+  float: right;
+  color: #DADADA;
+}
+
+#summary {
+  color: #717171;
+  font-size: 1.25em;
 }
 </style>
-
-
   </head>
-
-
   <body>
-    <main id="main"> 
-      <div id="container">
+    <main>
       <header>
-
-
-        <h1>Mike Acord</h1>
-
-        <div id="contact">
-          
-          
-          
-        </div>
+        <h1>Mike <span style="color: #C00000;">Acord</span></h1>
+        <span class="label">Experienced Software Architect</span>
+        <p id="contact">
+          <span class="email"><a href="mailto:acordmike@gmail.com">acordmike@gmail.com</a></span>
+          <span class="phone">1-920-224-4584</span>
+          <span class="website"><a href="http://www.mikeacord.com"><a href="http://www.mikeacord.com">http://www.mikeacord.com</a></a></span>
+        </p>
       </header>
 
 
-
-
-<hr>
-<section id="summary">
-    <header>
-      <span class="fa fa-lg fa-info"></span>  <h2>info</h2>
-    </header>
-    Seasoned application developer and solutions consultant with over 14 years of experience in designing, developing, and implementing database and web applications using Microsoft technologies. Specialties include C#, ASP.Net MVC, SQL Server development and administration and SharePoint deployment, development and administration.
-</section>
+      <section id="summary">
+        Seasoned application developer and solutions consultant with over 14 years of experience in designing, developing, and implementing database and web applications using Microsoft technologies. Specialties include C#, ASP.Net MVC, SQL Server development and administration and SharePoint deployment, development and administration.
+      </section>
 
 
 
+      
+      <hr>
+      <section id="skills">
+          <header>
+            <span class="fa fa-lg fa-code"></span>  <h2>skills</h2>
+          </header>
+        <table>
+          <thead>
+            <tr>
+              <th>Skill</th>
+              <th>Keywords</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td style="width: 25%;">Web</td>
+              <td class="keywords">JavaScript HTML 5 CSS LAMP MVC REST CSS </td>
+            </tr>
+            <tr>
+              <td style="width: 25%;">JavaScript</td>
+              <td class="keywords">Angular.js jQuery Backbone.js </td>
+            </tr>
+            <tr>
+              <td style="width: 25%;">Database</td>
+              <td class="keywords">SQL Server TSQL Integration Services Analysis Services Reporting Services </td>
+            </tr>
+            <tr>
+              <td style="width: 25%;">Cloud</td>
+              <td class="keywords">Azure </td>
+            </tr>
+            <tr>
+              <td style="width: 25%;">Project</td>
+              <td class="keywords">Agile TFS </td>
+            </tr>
+            <tr>
+              <td style="width: 25%;">DevOps</td>
+              <td class="keywords">TFS Team City Octopus Deploy </td>
+            </tr>
+            <tr>
+              <td style="width: 25%;">SharePoint</td>
+              <td class="keywords">Administration Development Office 365 </td>
+            </tr>
+          </tbody>
+        </table>
+      </section>
 
-<hr>
-<section id="skills">
-  <header>
-  <h2>Skills</h2>
-  </header>
-  <span class="fa fa-lg fa-code"></span>
-  <ul class="list-unstyled">
-      <li class="card card-nested card-skills">
-        <div class="skill-level" rel="tooltip" title="advanced" data-placement="left">
-          <div class="skill-progress advanced"></div>
-        </div>
-        <div class="skill-info">
-          <strong>Web</strong>
-          <div class="space-top labels">
-                <span class="label label-keyword">JavaScript</span>
-                <span class="label label-keyword">HTML 5</span>
-                <span class="label label-keyword">CSS</span>
-                <span class="label label-keyword">LAMP</span>
-                <span class="label label-keyword">MVC</span>
-                <span class="label label-keyword">REST</span>
+      
+      <hr>
+      <section id="employment">
+          <header>
+            <span class="fa fa-lg fa-building"></span>  <h2>employment</h2>
+          </header>
+      
+          <div>
+            <h3><em>Senior Solutions Architect, Consultant</em>,
+              <a href="http://www.omniresources.com">Omni Resources</a>
+              </h3>
+              <span class="tenure">2012-07 — Present</span>
+            <p><p>Senior Microsoft Architect, building solutions for clients</p>
+      </p>
+            <ul>
+              <li>Led team creating web-based report designer and high-performance report execution engine for a student management system</li>
+              <li>Worked on team developing a dealer showcase website in Azure using ASP.Net MVC, web services and Backbone.JS</li>
+              <li>Developed new data warehouse for an insurance company using SQL Server, AWS and Redshift.</li>
+              <li>Developed a flexible interview building and reporting application for a health outcome reporting company</li>
+              <li>Internal systems management and administration</li>
+            </ul>
+            <span class="keywords">Agile C# DevOps Javascript ASP.Net MVC SQL Server Analysis Services Integration Services SharePoint Azure Business Intelligence Office365 TFS Administration </span>      
           </div>
-        </div>
-      </li>
-      <li class="card card-nested card-skills">
-        <div class="skill-level" rel="tooltip" title="master" data-placement="left">
-          <div class="skill-progress master"></div>
-        </div>
-        <div class="skill-info">
-          <strong>JavaScript</strong>
-          <div class="space-top labels">
-                <span class="label label-keyword">Node.js</span>
-                <span class="label label-keyword">Angular.js</span>
-                <span class="label label-keyword">jQuery</span>
-                <span class="label label-keyword">Bootstrap</span>
-                <span class="label label-keyword">React.js</span>
-                <span class="label label-keyword">Backbone.js</span>
+          <div>
+            <h3><em>SharePoint/Business Intelligence Technical Lead / Consultant</em>,
+              <a href="http://www.hbs.net">Heartland Business Systems (Avastone)</a>
+              </h3>
+              <span class="tenure">2008-06 — 2012-07</span>
+            <p><p>Designing and developing custom .Net, Business Intelligence and SharePoint solutions for businesses. Management technical consulting team.</p>
+      </p>
+            <ul>
+              <li>School District teacher evaluation system developed in SharePoint, .Net and javascript</li>
+              <li>County health reporting and analytics system developed in ASP.Net MVC</li>
+              <li>School District website rewrite developed in SharePoint</li>
+              <li>New product workflow application developed in InfoPath</li>
+              <li>Data Warehouse developed on SQL Server database and Analysis Services</li>
+              <li>Numerous SharePoint implementations, upgrades and custom development projects</li>
+            </ul>
+            <span class="keywords">C# Javascript ASP.Net MVC SQL Server Analysis Services Integration Services Sharepoint Business Intelligence </span>      
           </div>
-        </div>
-      </li>
-      <li class="card card-nested card-skills">
-        <div class="skill-level" rel="tooltip" title="intermediate" data-placement="left">
-          <div class="skill-progress intermediate"></div>
-        </div>
-        <div class="skill-info">
-          <strong>Database</strong>
-          <div class="space-top labels">
-                <span class="label label-keyword">MySQL</span>
-                <span class="label label-keyword">PostgreSQL</span>
-                <span class="label label-keyword">NoSQL</span>
-                <span class="label label-keyword">ORM</span>
-                <span class="label label-keyword">Hibernate</span>
+          <div>
+            <h3><em>Business Intelligence Consultant</em>,
+              Fujitsu Consulting
+              </h3>
+              <span class="tenure">2006-08 — 2008-04</span>
+            <p><p>Senior BI Consultant building data integration solutions.</p>
+      </p>
+            <ul>
+              <li>Designing and developing data migration strategy from legacy system</li>
+            </ul>
+            <span class="keywords">SSIS SQL Server ASP.Net C# Reporting Services </span>      
           </div>
-        </div>
-      </li>
-      <li class="card card-nested card-skills">
-        <div class="skill-level" rel="tooltip" title="intermediate" data-placement="left">
-          <div class="skill-progress intermediate"></div>
-        </div>
-        <div class="skill-info">
-          <strong>Cloud</strong>
-          <div class="space-top labels">
-                <span class="label label-keyword">AWS</span>
-                <span class="label label-keyword">EC2</span>
-                <span class="label label-keyword">RDS</span>
-                <span class="label label-keyword">S3</span>
-                <span class="label label-keyword">Azure</span>
-                <span class="label label-keyword">Dropbox</span>
+          <div>
+            <h3><em>Business Intelligence Consultant</em>,
+              Compuware
+              </h3>
+              <span class="tenure">2005-05 — 2006-07</span>
+            <p><p>Performed IT administration and deployments for Dunder Mifflin.</p>
+      </p>
+            <ul>
+              <li>SQL Server development and optimization</li>
+              <li>MS Access development</li>
+              <li>Crystal Reports development</li>
+            </ul>
+            <span class="keywords">SQL Server MS Access Crystal Reports </span>      
           </div>
-        </div>
-      </li>
-      <li class="card card-nested card-skills">
-        <div class="skill-level" rel="tooltip" title="beginner" data-placement="left">
-          <div class="skill-progress beginner"></div>
-        </div>
-        <div class="skill-info">
-          <strong>Project</strong>
-          <div class="space-top labels">
-                <span class="label label-keyword">Agile</span>
-                <span class="label label-keyword">TFS</span>
-                <span class="label label-keyword">JIRA</span>
-                <span class="label label-keyword">GitHub</span>
-                <span class="label label-keyword">Unified Process</span>
-                <span class="label label-keyword">MS Project</span>
+          <div>
+            <h3><em>Systems Analyst</em>,
+              DRS Power &amp;amp; Control Technologies
+              </h3>
+              <span class="tenure">2001-08 — 2005-08</span>
+            <p><p>Internal application development and support</p>
+      </p>
+            <ul>
+              <li>Gather and analyze business requirements</li>
+              <li>Use application development methodologies to create internal business applications</li>
+              <li>Lead cross-functional, multi-site teams to facilitate and improve business processes using technology</li>
+              <li>Provide managers with business intelligence from raw data</li>
+            </ul>
+            <span class="keywords">SQL Server DTS ASP VB.Net </span>      
           </div>
-        </div>
-      </li>
-  </ul>
-</section>
+      </section>
 
+      
 
+      
+      <hr>
+      <section id="education">
+          <header>
+            <span class="fa fa-lg fa-mortar-board"></span>  <h2>education</h2>
+          </header>
+          <div>
+            <h3><em>MS in Management-Electronic Business</em>, University of Wisconsin-Milwaukee</h3>
+            <span class="tenure">2002-08 — 2003-12</span>
+            
+            
+          </div>
+          <div>
+            <h3><em>Business and Computer Systems, International Business</em>, Milwaukee School of Engineering</h3>
+            <span class="tenure">1998-08 — 2002-05</span>
+            
+            
+          </div>
+      </section>
 
+      
 
+      
 
+      
 
+      
 
+      
 
+      
 
+      
 
-<hr>
-<section id="employment">
-    <header>
-      <span class="fa fa-lg fa-building"></span>  <h2>employment</h2>
-    </header>
+      
 
-<div>
-  <h3><em>Senior Solutions Architect, Consultant</em>,
-    <a href="http://www.omniresources.com">Omni Resources</a>
-    </h3>
-    <span class="tenure">2012-07 — Present</span>
-    | <span class="keywords">Agile C# DevOps Javascript ASP.Net MVC SQL Server Analysis Services Integration Services SharePoint Azure Business Intelligence Office365 TFS Administration </span>
-  <p><p>Senior Microsoft Architect, building solutions for clients</p>
-</p>
-  <ul>
-    <li>Led team creating web-based report designer and high-performance report execution engine for a student management system</li>
-    <li>Worked on team developing a dealer showcase website in Azure using ASP.Net MVC, web services and Backbone.JS</li>
-    <li>Developed new data warehouse for an insurance company using SQL Server, AWS and Redshift.</li>
-    <li>Developed a flexible interview building and reporting application for a health outcome reporting company</li>
-    <li>Internal systems management and administration</li>
-  </ul>
-</div>
-<div>
-  <h3><em>SharePoint/Business Intelligence Technical Lead / Consultant</em>,
-    <a href="http://www.hbs.net">Heartland Business Systems (Avastone)</a>
-    </h3>
-    <span class="tenure">2008-06 — 2012-07</span>
-    | <span class="keywords">C# Javascript ASP.Net MVC SQL Server Analysis Services Integration Services Sharepoint Business Intelligence </span>
-  <p><p>Designing and developing custom .Net, Business Intelligence and SharePoint solutions for businesses. Management technical consulting team.</p>
-</p>
-  <ul>
-    <li>School District teacher evaluation system developed in SharePoint, .Net and javascript</li>
-    <li>County health reporting and analytics system developed in ASP.Net MVC</li>
-    <li>School District website rewrite developed in SharePoint</li>
-    <li>New product workflow application developed in InfoPath</li>
-    <li>Data Warehouse developed on SQL Server database and Analysis Services</li>
-    <li>Numerous SharePoint implementations, upgrades and custom development projects</li>
-  </ul>
-</div>
-<div>
-  <h3><em>Business Intelligence Consultant</em>,
-    Fujitsu Consulting
-    </h3>
-    <span class="tenure">2006-08 — 2008-04</span>
-    | <span class="keywords">Novell Active Directory Linux Windows </span>
-  <p><p>Senior BI Consultant building data integration solutions.</p>
-</p>
-  <ul>
-    <li>Designing and developing data migration strategy from legacy system</li>
-  </ul>
-</div>
-<div>
-  <h3><em>Intern</em>,
-    Dunder Mifflin
-    </h3>
-    <span class="tenure">2008-06 — 2008-09</span>
-    | <span class="keywords">Novell Active Directory Linux Windows </span>
-  <p><p>Performed IT administration and deployments for Dunder Mifflin.</p>
-</p>
-  <ul>
-    <li>Supervised roll-out of Dunder Mifflin Infinity website.</li>
-    <li>Performed mission-critical system backups and </li>
-    <li>Etc.</li>
-  </ul>
-</div>
-</section>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<hr>
-<section id="education">
-    <header>
-      <span class="fa fa-lg fa-mortar-board"></span>  <h2>education</h2>
-    </header>
-<div>
-<h3><em>BSCS</em>,
-<a href="https://www.cornell.edu/">Cornell University</a>
-</h3>
-<span class="tenure">2005-09 — 2008-05</span>
-| <span class="keywords">Course 1 Course 2 Course 2 </span>
-<p>A multiline summary of the education.</p>
-
-</div>
-<div>
-<h3>
-<a href="https://en.wikipedia.org/wiki/Medfield_College">Medfield College</a>
-</h3>
-<span class="tenure">2003-09 — 2005-06</span>
-| <span class="keywords">Course 1 Course 2 Course 2 </span>
-<p>A multiline summary of the education.</p>
-
-</div>
-</section>
-
-
-
-
-
-
-<hr>
-<section id="governance">
-    <header>
-      <span class="fa fa-lg fa-balance-scale"></span>  <h2>governance</h2>
-    </header>
-
-<div>
-<h3><em>Member</em>,
-<a href="http://themommiesnetwork.org">The Mommies Network</a>
-</h3>
-<span class="tenure">2008-02 — 2010-01</span>
-<p>Since 2008 I&#39;ve been a full-time member of the board of directors for TMN.</p>
-
-</div>
-<div>
-<h3><em>Academic Contributor</em>,
-<a href="https://www.khronos.org">Khronos Group</a>
-</h3>
-<span class="tenure">2015-01 — Present</span>
-
-<ul>
-  <li>Participated in GORFF standardization process (Draft 2).</li>
-</ul>
-</div>
-</section>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<hr>
-<section id="service">
-    <header>
-      <span class="fa fa-lg fa-child"></span>  <h2>service</h2>
-    </header>
-    <div>
-    <h3><em>Technical Consultant</em>,
-      <a href="http://technology-for-tots.org">Technology for Tots</a>
-    </h3>
-    <span class="tenure">2003-11 — 2005-06</span>
-    <p><p>Summary of this volunteer stint.</p>
-</p>
-    <ul>
-      <li>Accomplishment 1</li>
-      <li>Accomplishment 2</li>
-      <li>etc</li>
-    </ul>
-    </div>
-    <div>
-    <h3><em>NCO</em>,
-      <a href="http://www.usar.army.mil/">US Army Reserves</a>
-    </h3>
-    <span class="tenure">1999-11 — 2003-06</span>
-    <p><p>Summary of this military stint.</p>
-</p>
-    <ul>
-      <li>Accomplishment 1</li>
-      <li>Accomplishment 2</li>
-      <li>etc</li>
-    </ul>
-    </div>
-</section>
-<hr>
-<section id="recognition">
-    <header>
-      <span class="fa fa-lg fa-trophy"></span>  <h2>recognition</h2>
-    </header>
-    <div>
-    <h3><em>Honorable Mention</em>, Google</h3>
-    <span class="tenure">2012</span>
-    
-    </div>
-    <div>
-    <h3><em>Summa cum laude</em>, Cornell University</h3>
-    <span class="tenure">2012</span>
-    
-    </div>
-</section>
-<hr>
-<section id="interests">
-    <header>
-      <span class="fa fa-lg fa-bicycle"></span>  <h2>interests</h2>
-    </header>
-    <div>
-    <h3><em>reading</em></h3>
-    <span class="tenure">Current</span>
-    <p>Jane is a fan of mystery novels and courtroom dramas including Agatha Christie and John Grisham.</p>
+      
 
     </div>
-    <div>
-    <h3><em>hiking</em></h3>
-    <span class="tenure">Current</span>
-    <p>Jane enjoys hiking, light mountain climbing, and has four summits under her belt!</p>
-
-    </div>
-    <div>
-    <h3><em>yoga</em></h3>
-    <span class="tenure">Current</span>
-    
-    </div>
-</section>
-
-      </div>
-    </main>
-  </body>
+  </main>
 </html>

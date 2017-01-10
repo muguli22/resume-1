@@ -1,0 +1,237 @@
+{
+
+    "name": "",
+
+    "meta": {
+        "format": "FRESH@0.6.0",
+        "version": "0.3.0"
+    },
+
+    "info": {
+        "label": "",
+        "characterClass": "",
+        "brief": "",
+        "image": ""
+    },
+
+    "disposition": {
+        "travel": 0,
+        "authorization": "",
+        "commitment": [],
+        "remote": false,
+        "relocation": {
+            "willing": false,
+            "destinations": []
+        }
+    },
+
+    "contact": {
+        "website": "",
+        "phone": "",
+        "email": "",
+        "other": []
+    },
+
+    "location": {
+        "address": "",
+        "city": "",
+        "region": "",
+        "code": "",
+        "country": ""
+    },
+
+    "employment": {
+        "summary": "",
+        "history": [{
+            "employer": "",
+            "url": "",
+            "position": "",
+            "summary": "",
+            "start": "",
+            "end": "",
+            "keywords": [],
+            "highlights": []
+        }]
+    },
+
+    "projects": [{
+        "title": "",
+        "url": "",
+        "repo": "",
+        "media": [],
+        "role": "",
+        "summary": "",
+        "description": "",
+        "highlights": [],
+        "keywords": []
+    }],
+
+    "skills": {
+        "sets": [{
+            "name": "",
+            "level": "",
+            "skills": []
+        }],
+        "list": []
+    },
+
+    "service": {
+        "summary": "",
+        "history": [{
+            "category": "",
+            "position": "",
+            "organization": "",
+            "url": "",
+            "start": "",
+            "end": "",
+            "summary": "",
+            "highlights": []
+        }]
+    },
+
+    "education": {
+        "summary": "",
+        "title": "",
+        "level": "",
+        "degree": "",
+        "history": [{
+            "institution": "",
+            "title": "",
+            "area": "",
+            "studyType": "",
+            "url": "",
+            "start": "",
+            "end": "",
+            "grade": "",
+            "summary": "",
+            "location": "",
+            "curriculum": [],
+            "keywords": [],
+            "highlights": []
+        }]
+    },
+
+    "social": [{
+        "label": "",
+        "network": "",
+        "user": "",
+        "url": ""
+    }],
+
+    "recognition": [{
+        "category": "",
+        "from": "",
+        "title": "",
+        "url": "",
+        "date": "",
+        "summary": ""
+    }],
+
+    "writing": [{
+        "title": "",
+        "category": "",
+        "date": "",
+        "publisher": {
+            "name": "",
+            "url": ""
+        },
+        "url": "",
+        "summary": ""
+    }],
+
+    "reading": [{
+        "title": "",
+        "category": "",
+        "url": "",
+        "author": "",
+        "date": "",
+        "summary": ""
+    }],
+
+    "speaking": [{
+        "title": "",
+        "event": "",
+        "summary": "",
+        "location": "",
+        "date": "",
+        "highlights": [],
+        "keywords": []
+    }],
+
+    "governance": [{
+        "summary": "",
+        "category": "",
+        "role": "",
+        "organization": "",
+        "start": "",
+        "end": "",
+        "keywords": [],
+        "highlights": []
+    }],
+
+    "languages": [{
+        "language": "",
+        "level": "",
+        "years": 0
+    }],
+
+    "samples": [{
+        "title": "",
+        "summary": "",
+        "url": "",
+        "date": "",
+        "highlights": [],
+        "keywords": []
+    }],
+
+    "references": [{
+        "name": "",
+        "role": "",
+        "category": "",
+        "private": true,
+        "summary": "",
+        "contact": [{
+            "label": "",
+            "category": "",
+            "value": ""
+        }]
+    }],
+
+    "testimonials": [{
+        "name": "",
+        "category": "",
+        "quote": "",
+        "private": false
+    }],
+
+    "interests": [{
+        "name": "",
+        "summary": "",
+        "keywords": []
+    }],
+
+    "extracurricular": [{
+        "title": "",
+        "activity": "",
+        "location": "",
+        "start": "",
+        "end": ""
+    }],
+
+    "affiliation": {
+        "summary": "",
+        "history": [{
+            "category": "",
+            "organization": "",
+            "role": "",
+            "url": "",
+            "start": "",
+            "end": "",
+            "summary": "",
+            "location": "",
+            "highlights": [],
+            "keywords": []
+        }]
+    }
+
+}

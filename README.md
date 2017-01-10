@@ -1,18 +1,20 @@
 Mike Acord
 ============
 Email: acordmike@gmail.com
-
-Web: http://mikeacord.com
+Tel: 1-920-224-4584
+Web: http://www.mikeacord.com
 
 Seasoned application developer and solutions consultant with over 14 years of experience in designing, developing, and implementing database and web applications using Microsoft technologies. Specialties include C#, ASP.Net MVC, SQL Server development and administration and SharePoint deployment, development and administration.
 
 ## SKILLS
 
-  - Web: JavaScript HTML 5 CSS LAMP MVC REST 
-  - JavaScript: Node.js Angular.js jQuery Bootstrap React.js Backbone.js 
-  - Database: MySQL PostgreSQL NoSQL ORM Hibernate 
-  - Cloud: AWS EC2 RDS S3 Azure Dropbox 
-  - Project: Agile TFS JIRA GitHub Unified Process MS Project 
+  - Web: JavaScript HTML 5 CSS LAMP MVC REST CSS 
+  - JavaScript: Angular.js jQuery Backbone.js 
+  - Database: SQL Server TSQL Integration Services Analysis Services Reporting Services 
+  - Cloud: Azure 
+  - Project: Agile TFS 
+  - DevOps: TFS Team City Octopus Deploy 
+  - SharePoint: Administration Development Office 365 
 
 ## EMPLOYMENT
 
@@ -40,37 +42,37 @@ Designing and developing custom .Net, Business Intelligence and SharePoint solut
 Senior BI Consultant building data integration solutions.
   - Designing and developing data migration strategy from legacy system
 
-### *Intern*, Dunder Mifflin (2008-06 — 2008-09)
+### *Business Intelligence Consultant*, Compuware (2005-05 — 2006-07)
 
 Performed IT administration and deployments for Dunder Mifflin.
-  - Supervised roll-out of Dunder Mifflin Infinity website.
-  - Performed mission-critical system backups and 
-  - Etc.
+  - SQL Server development and optimization
+  - MS Access development
+  - Crystal Reports development
+
+### *Systems Analyst*, DRS Power & Control Technologies (2001-08 — 2005-08)
+
+Internal application development and support
+  - Gather and analyze business requirements
+  - Use application development methodologies to create internal business applications
+  - Lead cross-functional, multi-site teams to facilitate and improve business processes using technology
+  - Provide managers with business intelligence from raw data
 
 
 
 ## GOVERNANCE
 
-### *Member*, [The Mommies Network](http://themommiesnetwork.org) 
+### *Member*, [Celebration Children's Center](http://appletondaycare.com) 
 
-Since 2008 I've been a full-time member of the board of directors for TMN.
-
-### *Academic Contributor*, [Khronos Group](https://www.khronos.org) 
-
-- Participated in GORFF standardization process (Draft 2).
-
+Daycare board member.
 
 
 ## EDUCATION
 
-### [Cornell University](https://www.cornell.edu/) (2005-09 — 2008-05)
-
-A multiline summary of the education.
+### [University of Wisconsin-Milwaukee](https://www.uwm.edu/) (2002-08 — 2003-12)
 
 
-### [Medfield College](https://en.wikipedia.org/wiki/Medfield_College) (2003-09 — 2005-06)
 
-A multiline summary of the education.
+### [Milwaukee School of Engineering](http://www.msoe.edu) (1998-08 — 2002-05)
 
 
 
@@ -78,40 +80,19 @@ A multiline summary of the education.
 
 
 
-## SERVICE
 
-### *Technical Consultant*, [Technology for Tots](http://technology-for-tots.org) (2003-11 — 2005-06)
-
-Summary of this volunteer stint.
-  - Accomplishment 1
-  - Accomplishment 2
-  - etc
-
-### *NCO*, [US Army Reserves](http://www.usar.army.mil/) (1999-11 — 2003-06)
-
-Summary of this military stint.
-  - Accomplishment 1
-  - Accomplishment 2
-  - etc
-
-
-## RECOGNITION
-
-### Honorable Mention, Google (Jan 2012)
-
-### Summa cum laude, Cornell University (Jan 2012)
 
 
 
 
 ## INTERESTS
 
-- READING: mystery Agatha Christie John Grisham 
-Jane is a fan of mystery novels and courtroom dramas including Agatha Christie and John Grisham.
+- READING
 
-- HIKING
-Jane enjoys hiking, light mountain climbing, and has four summits under her belt!
+- RUNNING
 
-- YOGA
+- PALEO DIET
+
+- COACHING CHILDREN
 
 

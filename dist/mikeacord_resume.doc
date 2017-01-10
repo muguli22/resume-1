@@ -479,7 +479,7 @@
           <w:rPr>
             <w:color w:val="DADADA"/>
           </w:rPr>
-          <w:t>Experienced Microsoft Architect, Consultant</w:t>
+          <w:t>Experienced Software Architect</w:t>
         </w:r>
       </w:p>
       <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="00505903" wsp:rsidP="00C146CA">
@@ -508,7 +508,7 @@
           <w:rPr>
             <w:sz w:val="16"/>
           </w:rPr>
-          <w:t></w:t>
+          <w:t>1-920-224-4584</w:t>
         </w:r>
         <w:r>
           <w:rPr>
@@ -516,13 +516,13 @@
           </w:rPr>
           <w:t> - </w:t>
         </w:r>
-        <w:hlink w:dest="http://mikeacord.com">
+        <w:hlink w:dest="http://www.mikeacord.com">
           <w:r wsp:rsidRPr="003876BF">
             <w:rPr>
               <w:rStyle w:val="Hyperlink"/>
               <w:sz w:val="16"/>
             </w:rPr>
-            <w:t>http://mikeacord.com</w:t>
+            <w:t>http://www.mikeacord.com</w:t>
           </w:r>
         </w:hlink>
       </w:p>
@@ -582,7 +582,7 @@
               <w:caps/>
               <w:spacing w:val="22"/>
             </w:rPr>
-            <w:t>JavaScript  HTML 5  CSS  LAMP  MVC  REST</w:t>
+            <w:t>JavaScript  HTML 5  CSS  LAMP  MVC  REST  CSS</w:t>
           </w:r>
         </w:p>
       </w:tc>
@@ -619,7 +619,7 @@
               <w:caps/>
               <w:spacing w:val="22"/>
             </w:rPr>
-            <w:t>Node.js  Angular.js  jQuery  Bootstrap  React.js  Backbone.js</w:t>
+            <w:t>Angular.js  jQuery  Backbone.js</w:t>
           </w:r>
         </w:p>
       </w:tc>
@@ -656,7 +656,7 @@
               <w:caps/>
               <w:spacing w:val="22"/>
             </w:rPr>
-            <w:t>MySQL  PostgreSQL  NoSQL  ORM  Hibernate</w:t>
+            <w:t>SQL Server  TSQL  Integration Services  Analysis Services  Reporting Services</w:t>
           </w:r>
         </w:p>
       </w:tc>
@@ -693,7 +693,7 @@
               <w:caps/>
               <w:spacing w:val="22"/>
             </w:rPr>
-            <w:t>AWS  EC2  RDS  S3  Azure  Dropbox</w:t>
+            <w:t>Azure</w:t>
           </w:r>
         </w:p>
       </w:tc>
@@ -730,7 +730,81 @@
               <w:caps/>
               <w:spacing w:val="22"/>
             </w:rPr>
-            <w:t>Agile  TFS  JIRA  GitHub  Unified Process  MS Project</w:t>
+            <w:t>Agile  TFS</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+    </w:tr>
+
+
+    <w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33">
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="3000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:pPr>
+            <w:jc w:val="right"/>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:caps/>
+              <w:color w:val="989898"/>
+            </w:rPr>
+            <w:t>DevOps</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="8000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:rPr>
+              <w:caps/>
+              <w:spacing w:val="22"/>
+            </w:rPr>
+            <w:t>TFS  Team City  Octopus Deploy</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+    </w:tr>
+
+
+    <w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33">
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="3000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:pPr>
+            <w:jc w:val="right"/>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:caps/>
+              <w:color w:val="989898"/>
+            </w:rPr>
+            <w:t>SharePoint</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="8000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:rPr>
+              <w:caps/>
+              <w:spacing w:val="22"/>
+            </w:rPr>
+            <w:t>Administration  Development  Office 365</w:t>
           </w:r>
         </w:p>
       </w:tc>
@@ -1079,11 +1153,11 @@
         </w:tabs>
       </w:pPr>
       <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:t>Intern, </w:t>
+        <w:t>Business Intelligence Consultant, </w:t>
       </w:r>
       
         <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
-          <w:t>Dunder Mifflin</w:t>
+          <w:t>Compuware</w:t>
         </w:r>
       
       <w:r wsp:rsidR="00EA0B64">
@@ -1093,7 +1167,7 @@
         <w:rPr>
           <w:rStyle w:val="FromTo"/>
         </w:rPr>
-        <w:t>Jun 2008 — Sep 2008</w:t>
+        <w:t>May 2005 — Jul 2006</w:t>
       </w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
@@ -1118,7 +1192,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Supervised roll-out of Dunder Mifflin Infinity website.</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>SQL Server development and optimization</w:t></w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
       <w:pPr>
@@ -1133,7 +1207,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Performed mission-critical system backups and</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>MS Access development</w:t></w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
       <w:pPr>
@@ -1148,7 +1222,106 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Etc.</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>Crystal Reports development</w:t></w:r>
+    </w:p>
+
+  </wx:sub-section>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:t>Systems Analyst, </w:t>
+      </w:r>
+      
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:t>DRS Power &amp;amp; Control Technologies</w:t>
+        </w:r>
+      
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>Aug 2001 — Aug 2005</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Internal application development and support</w:t></w:r>
+    </w:p>
+
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Gather and analyze business requirements</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Use application development methodologies to create internal business applications</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Lead cross-functional, multi-site teams to facilitate and improve business processes using technology</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Provide managers with business intelligence from raw data</w:t></w:r>
     </w:p>
 
   </wx:sub-section>
@@ -1198,12 +1371,12 @@
         <w:t>Member, </w:t>
       </w:r>
 
-      <w:hlink w:dest="http://themommiesnetwork.org">
+      <w:hlink w:dest="http://appletondaycare.com">
         <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
           <w:rPr>
             <w:rStyle w:val="Hyperlink"/>
           </w:rPr>
-          <w:t>The Mommies Network</w:t>
+          <w:t>Celebration Children&amp;apos;s Center</w:t>
         </w:r>
       </w:hlink>
       <w:r wsp:rsidR="00EA0B64">
@@ -1213,7 +1386,7 @@
         <w:rPr>
           <w:rStyle w:val="FromTo"/>
         </w:rPr>
-        <w:t>2008-02 — 2010-01</w:t>
+        <w:t>2014-08 — 2016-08</w:t>
       </w:r>
     </w:p>
 
@@ -1223,61 +1396,9 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Since 2008 I&apos;ve been a full-time member of the board of directors for TMN.</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>Daycare board member.</w:t></w:r>
     </w:p>
 
-
-  </wx:sub-section>
-
-
-  <wx:sub-section>
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
-      <w:pPr>
-        <w:pStyle w:val="Heading2"/>
-        <w:tabs>
-          <w:tab w:val="right" w:pos="9360"/>
-        </w:tabs>
-      </w:pPr>
-
-      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:t>Academic Contributor, </w:t>
-      </w:r>
-
-      <w:hlink w:dest="https://www.khronos.org">
-        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
-          <w:rPr>
-            <w:rStyle w:val="Hyperlink"/>
-          </w:rPr>
-          <w:t>Khronos Group</w:t>
-        </w:r>
-      </w:hlink>
-      <w:r wsp:rsidR="00EA0B64">
-        <w:tab/>
-      </w:r>
-      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:rPr>
-          <w:rStyle w:val="FromTo"/>
-        </w:rPr>
-        <w:t>2015-01 — Present</w:t>
-      </w:r>
-    </w:p>
-
-
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
-      <w:pPr>
-        <w:pStyle w:val="ListParagraph"/>
-        <w:listPr>
-          <w:ilvl w:val="0"/>
-          <w:ilfo w:val="1"/>
-          <wx:t wx:val="•"/>
-          <wx:font wx:val="Calibri"/>
-        </w:listPr>
-        <w:rPr>
-          <w:sz-cs w:val="20"/>
-        </w:rPr>
-      </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Participated in GORFF standardization process (Draft 2).</w:t></w:r>
-    </w:p>
 
   </wx:sub-section>
 
@@ -1321,12 +1442,12 @@
           <w:tab w:val="right" w:pos="9360"/>
         </w:tabs>
       </w:pPr>
-      <w:hlink w:dest="https://www.cornell.edu/">
+      <w:hlink w:dest="https://www.uwm.edu/">
         <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
           <w:rPr>
             <w:rStyle w:val="Hyperlink"/>
           </w:rPr>
-          <w:t>Cornell University</w:t>
+          <w:t>University of Wisconsin-Milwaukee</w:t>
         </w:r>
       </w:hlink>
       <w:r wsp:rsidR="00EA0B64">
@@ -1336,7 +1457,7 @@
         <w:rPr>
           <w:rStyle w:val="FromTo"/>
         </w:rPr>
-        <w:t>2005 — 2008</w:t>
+        <w:t>2002 — 2003</w:t>
       </w:r>
     </w:p>
 
@@ -1352,12 +1473,12 @@
           <w:tab w:val="right" w:pos="9360"/>
         </w:tabs>
       </w:pPr>
-      <w:hlink w:dest="https://en.wikipedia.org/wiki/Medfield_College">
+      <w:hlink w:dest="http://www.msoe.edu">
         <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
           <w:rPr>
             <w:rStyle w:val="Hyperlink"/>
           </w:rPr>
-          <w:t>Medfield College</w:t>
+          <w:t>Milwaukee School of Engineering</w:t>
         </w:r>
       </w:hlink>
       <w:r wsp:rsidR="00EA0B64">
@@ -1367,213 +1488,10 @@
         <w:rPr>
           <w:rStyle w:val="FromTo"/>
         </w:rPr>
-        <w:t>2003 — 2005</w:t>
+        <w:t>1998 — 2002</w:t>
       </w:r>
     </w:p>
 
-
-  </wx:sub-section>
-
-
-</wx:sub-section>
-
-
-      <wx:sub-section>
-
-      <wx:pBdrGroup>
-        <wx:borders>
-          <wx:top wx:val="solid" wx:bdrwidth="15" wx:space="1" wx:color="EEEEEE"/>
-        </wx:borders>
-        <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00693C5A" wsp:rsidP="00C146CA">
-          <w:pPr>
-            <w:pStyle w:val="Heading1"/>
-            <w:ind w:left="-720"/>      
-          </w:pPr>
-          <w:r>
-            <w:pict>
-              <w:binData w:name="wordml://03000005.png" xml:space="preserve">iVBORw0KGgoAAAANSUhEUgAAACoAAAAqCAMAAADyHTlpAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMxQTFRFv8HDv8HEv8jXv8HOv8LSv8TTv8zdv8LKv8bT3czIwcHDwcTM18bDxcHDw8zdx8HD08bDw8HDw8rZ3drbz8TDycHDzcHDw8LDwc7ixdLqzdzxxdLoxdTs1ePx0eH72+n//dzO79LG89bK+9rM997Q5drb/9zO7dbK5c7G/+nV++XT/+3X//Hf//HZ///d/+fT//nq///q8////fXx8+/z+///4f//9///6f///f//7/////Xk8fv///Hk/fXo5ef1///7///x6fX/////TAOGGAAAALpJREFUSMft1NcOgjAUBuCDe4Hixr33Xohb+/7vZCnEKC3ShEv4b5om30Xzn5wC4g741Keu6CqegGSdh65TgCM0OGgLSAKbv3S72yPUNmjwYN6ZdCyCpKKOQUNHNBGhrLFpFwtJnaYJVXQJ4RObnjPE9mR8ZC+6FCp2b70a9tbP3TVKWhog9pNfaS3r21ok1essbyfpEcwLJq06TmtRNKniZSqUuGlk4Hm6xCtQc6SPoRxtPkcQe7n4s96JF4yPwZXEugAAAABJRU5ErkJggk==</w:binData>
-              <v:shape id="_x0000_i1029" type="#_x0000_t75" style="width:31.5pt;height:31.5pt">
-                <v:imagedata src="wordml://03000005.png" o:title="fa-child"/>
-              </v:shape>
-            </w:pict>
-          </w:r>
-          <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-            <w:t>SERVICE</w:t>
-          </w:r>
-        </w:p>
-      </wx:pBdrGroup>
-
-
-  <wx:sub-section>
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
-      <w:pPr>
-        <w:pStyle w:val="Heading2"/>
-        <w:tabs>
-          <w:tab w:val="right" w:pos="9360"/>
-        </w:tabs>
-      </w:pPr>
-      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:t>Technical Consultant, </w:t>
-      </w:r>
-      <w:hlink w:dest="http://technology-for-tots.org">
-        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
-          <w:rPr>
-            <w:rStyle w:val="Hyperlink"/>
-          </w:rPr>
-          <w:t>Technology for Tots</w:t>
-        </w:r>
-      </w:hlink>
-      <w:r wsp:rsidR="00EA0B64">
-        <w:tab/>
-      </w:r>
-      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:rPr>
-          <w:rStyle w:val="FromTo"/>
-        </w:rPr>
-        <w:t>Nov 2003 — Jun 2005</w:t>
-      </w:r>
-    </w:p>
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
-      <w:pPr>
-        <w:rPr>
-          <w:sz-cs w:val="20"/>
-        </w:rPr>
-      </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Summary of this volunteer stint.</w:t></w:r>
-    </w:p>
-
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
-      <w:pPr>
-        <w:pStyle w:val="ListParagraph"/>
-        <w:listPr>
-          <w:ilvl w:val="0"/>
-          <w:ilfo w:val="1"/>
-          <wx:t wx:val="•"/>
-          <wx:font wx:val="Calibri"/>
-        </w:listPr>
-        <w:rPr>
-          <w:sz-cs w:val="20"/>
-        </w:rPr>
-      </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Accomplishment 1</w:t></w:r>
-    </w:p>
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
-      <w:pPr>
-        <w:pStyle w:val="ListParagraph"/>
-        <w:listPr>
-          <w:ilvl w:val="0"/>
-          <w:ilfo w:val="1"/>
-          <wx:t wx:val="•"/>
-          <wx:font wx:val="Calibri"/>
-        </w:listPr>
-        <w:rPr>
-          <w:sz-cs w:val="20"/>
-        </w:rPr>
-      </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Accomplishment 2</w:t></w:r>
-    </w:p>
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
-      <w:pPr>
-        <w:pStyle w:val="ListParagraph"/>
-        <w:listPr>
-          <w:ilvl w:val="0"/>
-          <w:ilfo w:val="1"/>
-          <wx:t wx:val="•"/>
-          <wx:font wx:val="Calibri"/>
-        </w:listPr>
-        <w:rPr>
-          <w:sz-cs w:val="20"/>
-        </w:rPr>
-      </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>etc</w:t></w:r>
-    </w:p>
-
-  </wx:sub-section>
-
-
-  <wx:sub-section>
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
-      <w:pPr>
-        <w:pStyle w:val="Heading2"/>
-        <w:tabs>
-          <w:tab w:val="right" w:pos="9360"/>
-        </w:tabs>
-      </w:pPr>
-      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:t>NCO, </w:t>
-      </w:r>
-      <w:hlink w:dest="http://www.usar.army.mil/">
-        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
-          <w:rPr>
-            <w:rStyle w:val="Hyperlink"/>
-          </w:rPr>
-          <w:t>US Army Reserves</w:t>
-        </w:r>
-      </w:hlink>
-      <w:r wsp:rsidR="00EA0B64">
-        <w:tab/>
-      </w:r>
-      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:rPr>
-          <w:rStyle w:val="FromTo"/>
-        </w:rPr>
-        <w:t>Nov 1999 — Jun 2003</w:t>
-      </w:r>
-    </w:p>
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
-      <w:pPr>
-        <w:rPr>
-          <w:sz-cs w:val="20"/>
-        </w:rPr>
-      </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Summary of this military stint.</w:t></w:r>
-    </w:p>
-
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
-      <w:pPr>
-        <w:pStyle w:val="ListParagraph"/>
-        <w:listPr>
-          <w:ilvl w:val="0"/>
-          <w:ilfo w:val="1"/>
-          <wx:t wx:val="•"/>
-          <wx:font wx:val="Calibri"/>
-        </w:listPr>
-        <w:rPr>
-          <w:sz-cs w:val="20"/>
-        </w:rPr>
-      </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Accomplishment 1</w:t></w:r>
-    </w:p>
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
-      <w:pPr>
-        <w:pStyle w:val="ListParagraph"/>
-        <w:listPr>
-          <w:ilvl w:val="0"/>
-          <w:ilfo w:val="1"/>
-          <wx:t wx:val="•"/>
-          <wx:font wx:val="Calibri"/>
-        </w:listPr>
-        <w:rPr>
-          <w:sz-cs w:val="20"/>
-        </w:rPr>
-      </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Accomplishment 2</w:t></w:r>
-    </w:p>
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
-      <w:pPr>
-        <w:pStyle w:val="ListParagraph"/>
-        <w:listPr>
-          <w:ilvl w:val="0"/>
-          <w:ilfo w:val="1"/>
-          <wx:t wx:val="•"/>
-          <wx:font wx:val="Calibri"/>
-        </w:listPr>
-        <w:rPr>
-          <w:sz-cs w:val="20"/>
-        </w:rPr>
-      </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>etc</w:t></w:r>
-    </w:p>
 
   </wx:sub-section>
 
@@ -1585,106 +1503,9 @@
 
       
 
-      <wx:sub-section>
-
-      <wx:pBdrGroup>
-        <wx:borders>
-          <wx:top wx:val="solid" wx:bdrwidth="15" wx:space="1" wx:color="EEEEEE"/>
-        </wx:borders>
-        <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00693C5A" wsp:rsidP="00C146CA">
-          <w:pPr>
-            <w:pStyle w:val="Heading1"/>
-            <w:ind w:left="-720"/>      
-          </w:pPr>
-          <w:r>
-            <w:pict>
-              <w:binData w:name="wordml://03000007.png" xml:space="preserve">iVBORw0KGgoAAAANSUhEUgAAACoAAAAqCAMAAADyHTlpAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAUFQTFRFv8HDv8HEv8bVv8HOv8HMv8HKv8zdv8LSv8TTv8TSv8jZv8HGv8LIv8LQv8LKv8HI08zOz8zOz87TzcHDy8HDwcHDw8LEwcLE1cTDzcLDw87f18jExcHDx8LDwcTK3dTM0djb08LD0cbDw8rVwczdzdzxzdz/xdLmw9Dk0djkzdrw0droz97xwdDky9jo3eXw2+/w2e3/0+P/z+H/0+P71ePx7dLI79LG/dzO4crD4czE99zO89bK49LM8drO5dTM7dbK99rM5dDI7+HX///d8+/Z/eHQ//Xb//Xd8e3Z7+Pd//Hf///5/f/////77///4f//+/Pw8+/w9fX76f/////q6fv////o+f//+//////x6///9fv///nm4/Po//nu+fv/4+Ps///k/fXx8+/s9/n/6/n/5f//+fHw8/P5////sapGIwAAASVJREFUSMdjyCIaMIwqHVVKB6U+zgKCMCCk74tHqZ8ZAxJgVMWj1EUYWSkDkz/RSpkDsCoNDAICVxEUpSwGIMFgNKVuogy4AKshqlJzBkYxIEBTJQ4UEmVQQ1fKhulW9pCsrFAJopRy+GNTasHAGZaVFS6BopQrIivLXYTRCFWphySDemSWnyWKUo2srCgrBs5otMCyFmWQismyQYkt46xYaQZuE/RwBcUpj6YncsDyxtnKMDBq+WLElp+dDJZA5TPFGrHx9rJoCuW0E3AmwkAveVi08SskBuNP2n4OELXcOkTkAkeQWoS/8SlNUoSGPmGl4HjQJSobhkoQaWpyihM4pvSCUvEr9VZCClXlNDxKQ1FTlkoE0dmQN50qSv0ygpBBJqpbAYc7NrM+qyXXAAAAAElFTkSuQmCC</w:binData>
-              <v:shape id="_x0000_i1031" type="#_x0000_t75" style="width:31.5pt;height:31.5pt">
-                <v:imagedata src="wordml://03000007.png" o:title="fa-trophy"/>
-              </v:shape>
-            </w:pict>
-          </w:r>
-          <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-            <w:t>RECOGNITION</w:t>
-          </w:r>
-        </w:p>
-      </wx:pBdrGroup>
-
-
-  <wx:sub-section>
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
-      <w:pPr>
-        <w:pStyle w:val="Heading2"/>
-        <w:tabs>
-          <w:tab w:val="right" w:pos="9360"/>
-        </w:tabs>
-      </w:pPr>
       
-        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
-          <w:t>Honorable Mention</w:t>
-        </w:r>
+
       
-      <w:r wsp:rsidR="00EA0B64">
-        <w:tab/>
-      </w:r>
-      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:rPr>
-          <w:rStyle w:val="FromTo"/>
-        </w:rPr>
-        <w:t>2012-01</w:t>
-      </w:r>
-    </w:p>
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
-      <w:pPr>
-        <w:rPr>
-          <w:sz-cs w:val="20"/>
-        </w:rPr>
-      </w:pPr>
-      
-    </w:p>
-
-
-  </wx:sub-section>
-
-
-  <wx:sub-section>
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
-      <w:pPr>
-        <w:pStyle w:val="Heading2"/>
-        <w:tabs>
-          <w:tab w:val="right" w:pos="9360"/>
-        </w:tabs>
-      </w:pPr>
-      
-        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
-          <w:t>Summa cum laude</w:t>
-        </w:r>
-      
-      <w:r wsp:rsidR="00EA0B64">
-        <w:tab/>
-      </w:r>
-      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:rPr>
-          <w:rStyle w:val="FromTo"/>
-        </w:rPr>
-        <w:t>2012-01</w:t>
-      </w:r>
-    </w:p>
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
-      <w:pPr>
-        <w:rPr>
-          <w:sz-cs w:val="20"/>
-        </w:rPr>
-      </w:pPr>
-      
-    </w:p>
-
-
-  </wx:sub-section>
-
-
-</wx:sub-section>
-
 
       
 
@@ -1727,11 +1548,16 @@
       <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
         <w:t>reading</w:t>
       </w:r>
-      <w:r wsp:rsidR="00EA0B64">
-        <w:tab/>
-      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
       <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:t>mystery, Agatha Christie, John Grisham</w:t>
+        <w:t>running</w:t>
       </w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
@@ -1742,7 +1568,7 @@
         </w:tabs>
       </w:pPr>
       <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:t>hiking</w:t>
+        <w:t>paleo diet</w:t>
       </w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
@@ -1753,7 +1579,7 @@
         </w:tabs>
       </w:pPr>
       <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:t>yoga</w:t>
+        <w:t>coaching children</w:t>
       </w:r>
     </w:p>
 

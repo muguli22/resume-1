@@ -7,19 +7,24 @@
     },
 
     "info": {
-        "label": "Experienced Microsoft Architect, Consultant",
+        "label": "Experienced Software Architect",
         "characterClass": "Programmer",
         "brief": "Seasoned application developer and solutions consultant with over 14 years of experience in designing, developing, and implementing database and web applications using Microsoft technologies. Specialties include C#, ASP.Net MVC, SQL Server development and administration and SharePoint deployment, development and administration."
     },
 
+    "disposition": {
+        "travel": 10,
+        "authorization": "citizen",
+        "commitment": ["permanent", "full-time"],
+        "relocation": {
+            "willing": false
+        }
+    },
+
     "contact": {
-        "website": "http://mikeacord.com",
+        "website": "http://www.mikeacord.com",
         "email": "acordmike@gmail.com",
-        "other": [{
-            "label": "Mobile Phone",
-            "flavor": "phone",
-            "value": "1-920-224-4584"
-        }]
+        "phone": "1-920-224-4584"
     },
 
     "location": {
@@ -79,18 +84,28 @@
                 "summary": "Senior BI Consultant building data integration solutions.",
                 "start": "2006-08",
                 "end": "2008-04",
-                "keywords": ["Novell", "Active Directory", "Linux", "Windows"],
+                "keywords": ["SSIS", "SQL Server", "ASP.Net", "C#", "Reporting Services"],
                 "highlights": ["Designing and developing data migration strategy from legacy system"]
             },
 
             {
-                "employer": "Dunder Mifflin",
-                "position": "Intern",
+                "employer": "Compuware",
+                "position": "Business Intelligence Consultant",
                 "summary": "Performed IT administration and deployments for Dunder Mifflin.",
-                "start": "2008-06",
-                "end": "2008-09",
-                "keywords": ["Novell", "Active Directory", "Linux", "Windows"],
-                "highlights": ["Supervised roll-out of Dunder Mifflin Infinity website.", "Performed mission-critical system backups and ", "Etc."]
+                "start": "2005-05",
+                "end": "2006-07",
+                "keywords": ["SQL Server", "MS Access", "Crystal Reports"],
+                "highlights": ["SQL Server development and optimization", "MS Access development", "Crystal Reports development"]
+            },
+
+            {
+                "employer": "DRS Power & Control Technologies",
+                "position": "Systems Analyst",
+                "summary": "Internal application development and support",
+                "start": "2001-08",
+                "end": "2005-08",
+                "keywords": ["SQL Server", "DTS", "ASP", "VB.Net"],
+                "highlights": ["Gather and analyze business requirements", "Use application development methodologies to create internal business applications", "Lead cross-functional, multi-site teams to facilitate and improve business processes using technology", "Provide managers with business intelligence from raw data"]
             }
         ]
 
@@ -102,58 +117,25 @@
 
         "level": "degree",
 
-        "degree": "BSCS",
+        "degree": "MS",
 
         "history": [
 
             {
-                "institution": "Cornell University",
-                "title": "BSCS",
-                "url": "https://www.cornell.edu/",
-                "start": "2005-09",
-                "end": "2008-05",
-                "grade": "3.5",
-                "summary": "A multiline summary of the education.",
-                "curriculum": ["Course 1", "Course 2", "Course 2"]
+                "institution": "University of Wisconsin-Milwaukee",
+                "title": "MS in Management-Electronic Business",
+                "url": "https://www.uwm.edu/",
+                "start": "2002-08",
+                "end": "2003-12"
             },
 
             {
-                "institution": "Medfield College",
-                "title": "",
-                "url": "https://en.wikipedia.org/wiki/Medfield_College",
-                "start": "2003-09",
-                "end": "2005-06",
-                "grade": "3.2",
-                "summary": "A multiline summary of the education.",
-                "curriculum": ["Course 1", "Course 2", "Course 2"]
-            }
-        ]
-
-    },
-
-    "service": {
-
-        "summary": "Active US Army Reserve member and Technology for Tots technical consultant and volunteer coordinator.",
-
-        "history": [{
-                "flavor": "volunteer",
-                "position": "Technical Consultant",
-                "organization": "Technology for Tots",
-                "url": "http://technology-for-tots.org",
-                "start": "2003-11",
-                "end": "2005-06",
-                "summary": "Summary of this volunteer stint.",
-                "highlights": ["Accomplishment 1", "Accomplishment 2", "etc"]
-            },
-            {
-                "flavor": "military",
-                "position": "NCO",
-                "organization": "US Army Reserves",
-                "url": "http://www.usar.army.mil/",
-                "start": "1999-11",
-                "end": "2003-06",
-                "summary": "Summary of this military stint.",
-                "highlights": ["Accomplishment 1", "Accomplishment 2", "etc"]
+                "institution": "Milwaukee School of Engineering",
+                "title": "Business and Computer Systems, International Business",
+                "url": "http://www.msoe.edu",
+                "start": "1998-08",
+                "end": "2002-05",
+                "grade": "3.2"
             }
         ]
 
@@ -165,92 +147,53 @@
                 "name": "Web",
                 "level": "advanced",
                 "skills": [
-                    "JavaScript", "HTML 5", "CSS", "LAMP", "MVC", "REST"
+                    "JavaScript", "HTML 5", "CSS", "LAMP", "MVC", "REST", "CSS"
                 ]
             },
             {
                 "name": "JavaScript",
-                "level": "master",
+                "level": "advanced",
                 "skills": [
-                    "Node.js", "Angular.js", "jQuery", "Bootstrap", "React.js", "Backbone.js"
+                    "Angular.js", "jQuery", "Backbone.js"
                 ]
             },
             {
                 "name": "Database",
-                "level": "intermediate",
+                "level": "master",
                 "skills": [
-                    "MySQL", "PostgreSQL", "NoSQL", "ORM", "Hibernate"
+                    "SQL Server", "TSQL", "Integration Services", "Analysis Services", "Reporting Services"
                 ]
             },
             {
                 "name": "Cloud",
-                "level": "intermediate",
+                "level": "advanced",
                 "skills": [
-                    "AWS", "EC2", "RDS", "S3", "Azure", "Dropbox"
+                    "Azure"
                 ]
             },
             {
                 "name": "Project",
-                "level": "beginner",
-                "skills": [
-                    "Agile", "TFS", "JIRA", "GitHub", "Unified Process", "MS Project"
-                ]
-            }
-        ],
-
-        "list": [{
-                "name": "C++",
-                "id": "1",
-                "summary": "Optional summary of your experience with the skill.",
-                "level": "9",
-                "years": 7,
-                "proof": "http://myblog.com/interesting-cplusplus-post"
-            },
-            {
-                "name": "Ruby",
-                "id": "2",
-                "summary": "Optional summary of your experience with the skill.",
-                "level": "9",
-                "years": 7,
-                "proof": "http://myblog.com/interesting-cplusplus-post"
-            },
-            {
-                "name": "Xcode",
-                "summary": "Xcode 6 development.",
-                "level": "5",
-                "years": "3"
-            },
-            {
-                "name": "Linux",
-                "summary": "Optional summary of your experience with the skill.",
                 "level": "advanced",
-                "years": "4+"
+                "skills": [
+                    "Agile", "TFS"
+                ]
             },
             {
-                "name": "Agile",
-                "summary": "Optional summary of your experience with the skill.",
-                "level": "B+",
-                "years": 2
+                "name": "DevOps",
+                "level": "advanced",
+                "skills": [
+                    "TFS", "Team City", "Octopus Deploy"
+                ]
+            },
+            {
+                "name": "SharePoint",
+                "level": "advanced",
+                "skills": [
+                    "Administration", "Development", "Office 365"
+                ]
             }
         ]
     },
-
-    "recognition": [{
-            "flavor": "award",
-            "from": "Google",
-            "title": "Honorable Mention",
-            "event": "Summer of Code",
-            "date": "2012"
-        },
-        {
-            "flavor": "honor",
-            "from": "Cornell University",
-            "title": "Summa cum laude",
-            "event": "graduation",
-            "date": "2012"
-        }
-    ],
-
 
     "languages": [{
         "language": "English",
@@ -258,37 +201,26 @@
     }],
 
     "governance": [{
-            "flavor": "board",
-            "role": "Member",
-            "organization": "The Mommies Network",
-            "url": "http://themommiesnetwork.org",
-            "start": "2008-02",
-            "end": "2010-01",
-            "summary": "Since 2008 I've been a full-time member of the board of directors for TMN."
-        },
-        {
-            "flavor": "committee",
-            "role": "Academic Contributor",
-            "organization": "Khronos Group",
-            "url": "https://www.khronos.org",
-            "start": "2015-01",
-            "highlights": [
-                "Participated in GORFF standardization process (Draft 2)."
-            ]
-        }
-    ],
+        "flavor": "board",
+        "role": "Member",
+        "organization": "Celebration Children's Center",
+        "url": "http://appletondaycare.com",
+        "start": "2014-08",
+        "end": "2016-08",
+        "summary": "Daycare board member."
+    }],
 
     "interests": [{
-            "name": "reading",
-            "summary": "Jane is a fan of mystery novels and courtroom dramas including Agatha Christie and John Grisham.",
-            "keywords": ["mystery", "Agatha Christie", "John Grisham"]
+            "name": "reading"
         },
         {
-            "name": "hiking",
-            "summary": "Jane enjoys hiking, light mountain climbing, and has four summits under her belt!"
+            "name": "running"
         },
         {
-            "name": "yoga"
+            "name": "paleo diet"
+        },
+        {
+            "name": "coaching children"
         }
     ]
 }
