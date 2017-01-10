@@ -61,9 +61,8 @@ Internal application development and support
 
 ## GOVERNANCE
 
-### *Member*, [Celebration Children's Center](http://appletondaycare.com) 
+### *Board Member*, [Celebration Children's Center](http://appletondaycare.com) 
 
-Daycare board member.
 
 
 ## EDUCATION

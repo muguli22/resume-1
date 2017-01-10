@@ -202,12 +202,11 @@
 
     "governance": [{
         "flavor": "board",
-        "role": "Member",
+        "role": "Board Member",
         "organization": "Celebration Children's Center",
         "url": "http://appletondaycare.com",
         "start": "2014-08",
-        "end": "2016-08",
-        "summary": "Daycare board member."
+        "end": "2016-08"
     }],
 
     "interests": [{
