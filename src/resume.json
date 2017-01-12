@@ -3,7 +3,7 @@
 
     "meta": {
         "format": "FRESH@0.6.0",
-        "version": "0.1.0"
+        "version": "0.2.0"
     },
 
     "info": {
@@ -42,7 +42,7 @@
 
     "employment": {
 
-        "summary": "Seasoned application developer and solutions consultant with over 14 years of experience in designing, developing, and implementing database and web applications using Microsoft technologies. Specialties include C#, ASP.Net MVC, SQL Server development and administration and SharePoint deployment, development and administration.",
+        "summary": "Seasoned application developer and solutions consultant with over 14 years of experience in designing, developing, and implementing database and web applications using Microsoft technologies. Specialties include C#, ASP.Net MVC, SQL Server development, and administration and SharePoint deployment, development and administration.",
 
         "history": [
 
@@ -55,9 +55,9 @@
                 "keywords": ["Agile", "C#", "DevOps", "Javascript", "ASP.Net MVC", "SQL Server", "Analysis Services", "Integration Services", "SharePoint", "Azure", "Business Intelligence", "Office365", "TFS Administration"],
                 "highlights": ["Led team creating web-based report designer and high-performance report execution engine for a student management system",
                     "Worked on team developing a dealer showcase website in Azure using ASP.Net MVC, web services and Backbone.JS",
-                    "Developed new data warehouse for an insurance company using SQL Server, AWS and Redshift.",
+                    "Developed new data warehouse for an insurance company using SQL Server, AWS and Redshift",
                     "Developed a flexible interview building and reporting application for a health outcome reporting company",
-                    "Internal systems management and administration"
+                    "Managed and administrated internal systems and applications"
                 ]
             },
 
@@ -65,37 +65,43 @@
                 "employer": "Heartland Business Systems (Avastone)",
                 "url": "http://www.hbs.net",
                 "position": "SharePoint/Business Intelligence Technical Lead / Consultant",
-                "summary": "Designing and developing custom .Net, Business Intelligence and SharePoint solutions for businesses. Management technical consulting team.",
+                "summary": "Designed and developed custom .Net, Business Intelligence and SharePoint solutions for businesses, managed technical consulting team",
                 "start": "2008-06",
                 "end": "2012-07",
                 "keywords": ["C#", "Javascript", "ASP.Net MVC", "SQL Server", "Analysis Services", "Integration Services", "Sharepoint", "Business Intelligence"],
-                "highlights": ["School District teacher evaluation system developed in SharePoint, .Net and javascript",
-                    "County health reporting and analytics system developed in ASP.Net MVC",
-                    "School District website rewrite developed in SharePoint",
-                    "New product workflow application developed in InfoPath",
-                    "Data Warehouse developed on SQL Server database and Analysis Services",
-                    "Numerous SharePoint implementations, upgrades and custom development projects"
+                "highlights": ["Developed school teacher evaluation system in SharePoint, .Net and javascript",
+                    "Created health reporting and analytics system in ASP.Net MVC",
+                    "Designed and created school district website in SharePoint",
+                    "Developed new product workflow application in InfoPath",
+                    "Designed and developed a data warehouse on SQL Server database and Analysis Services",
+                    "Implemented numerous SharePoint installations, upgrades and custom development projects"
                 ]
             },
 
             {
                 "employer": "Fujitsu Consulting",
                 "position": "Business Intelligence Consultant",
-                "summary": "Senior BI Consultant building data integration solutions.",
+                "summary": "Senior BI Consultant building data integration solutions",
                 "start": "2006-08",
                 "end": "2008-04",
                 "keywords": ["SSIS", "SQL Server", "ASP.Net", "C#", "Reporting Services"],
-                "highlights": ["Designing and developing data migration strategy from legacy system"]
+                "highlights": ["Designed and developed data migration strategy from legacy system using Integration Services",
+                    "Created real-time data integration from new web application back to legacy mainframe",
+                    "Developed reporting services reports"
+                ]
             },
 
             {
                 "employer": "Compuware",
                 "position": "Business Intelligence Consultant",
-                "summary": "Performed IT administration and deployments for Dunder Mifflin.",
+                "summary": "SQL Server development consulting",
                 "start": "2005-05",
                 "end": "2006-07",
                 "keywords": ["SQL Server", "MS Access", "Crystal Reports"],
-                "highlights": ["SQL Server development and optimization", "MS Access development", "Crystal Reports development"]
+                "highlights": ["Developed and optimized SQL Server applications",
+                    "Developed bill of materials cost reporting application in MS Access",
+                    "Developed Crystal Reports"
+                ]
             },
 
             {
@@ -105,7 +111,11 @@
                 "start": "2001-08",
                 "end": "2005-08",
                 "keywords": ["SQL Server", "DTS", "ASP", "VB.Net"],
-                "highlights": ["Gather and analyze business requirements", "Use application development methodologies to create internal business applications", "Lead cross-functional, multi-site teams to facilitate and improve business processes using technology", "Provide managers with business intelligence from raw data"]
+                "highlights": ["Gathered and analyzed business requirements",
+                    "Used application development methodologies to create internal business applications",
+                    "Led cross-functional, multi-site teams to facilitate and improve business processes",
+                    "Created an Operational Data Store from mainframe data and Crystal Reports to the analyze data"
+                ]
             }
         ]
 
@@ -131,11 +141,10 @@
 
             {
                 "institution": "Milwaukee School of Engineering",
-                "title": "Business and Computer Systems, International Business",
+                "title": "BS in Business and Computer Systems, International Business",
                 "url": "http://www.msoe.edu",
                 "start": "1998-08",
-                "end": "2002-05",
-                "grade": "3.2"
+                "end": "2002-05"
             }
         ]
 
@@ -207,19 +216,5 @@
         "url": "http://appletondaycare.com",
         "start": "2014-08",
         "end": "2016-08"
-    }],
-
-    "interests": [{
-            "name": "reading"
-        },
-        {
-            "name": "running"
-        },
-        {
-            "name": "paleo diet"
-        },
-        {
-            "name": "coaching children"
-        }
-    ]
+    }]
 }

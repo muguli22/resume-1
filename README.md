@@ -23,39 +23,41 @@ Seasoned application developer and solutions consultant with over 14 years of ex
 Senior Microsoft Architect, building solutions for clients
   - Led team creating web-based report designer and high-performance report execution engine for a student management system
   - Worked on team developing a dealer showcase website in Azure using ASP.Net MVC, web services and Backbone.JS
-  - Developed new data warehouse for an insurance company using SQL Server, AWS and Redshift.
+  - Developed new data warehouse for an insurance company using SQL Server, AWS and Redshift
   - Developed a flexible interview building and reporting application for a health outcome reporting company
-  - Internal systems management and administration
+  - Managed and administrated internal systems and applications
 
 ### *SharePoint/Business Intelligence Technical Lead / Consultant*, [Heartland Business Systems (Avastone)](http://www.hbs.net) (2008-06 — 2012-07)
 
-Designing and developing custom .Net, Business Intelligence and SharePoint solutions for businesses. Management technical consulting team.
-  - School District teacher evaluation system developed in SharePoint, .Net and javascript
-  - County health reporting and analytics system developed in ASP.Net MVC
-  - School District website rewrite developed in SharePoint
-  - New product workflow application developed in InfoPath
-  - Data Warehouse developed on SQL Server database and Analysis Services
-  - Numerous SharePoint implementations, upgrades and custom development projects
+Designed and developed custom .Net, Business Intelligence and SharePoint solutions for businesses, managed technical consulting team
+  - Developed school teacher evaluation system in SharePoint, .Net and javascript
+  - Created health reporting and analytics system in ASP.Net MVC
+  - Designed and created school district website in SharePoint
+  - Developed new product workflow application in InfoPath
+  - Designed and developed a data warehouse on SQL Server database and Analysis Services
+  - Implemented numerous SharePoint installations, upgrades and custom development projects
 
 ### *Business Intelligence Consultant*, Fujitsu Consulting (2006-08 — 2008-04)
 
-Senior BI Consultant building data integration solutions.
-  - Designing and developing data migration strategy from legacy system
+Senior BI Consultant building data integration solutions
+  - Designed and developed data migration strategy from legacy system using Integration Services
+  - Created real-time data integration from new web application back to legacy mainframe
+  - Developed reporting services reports
 
 ### *Business Intelligence Consultant*, Compuware (2005-05 — 2006-07)
 
-Performed IT administration and deployments for Dunder Mifflin.
-  - SQL Server development and optimization
-  - MS Access development
-  - Crystal Reports development
+SQL Server development consulting
+  - Developed and optimized SQL Server applications
+  - Developed bill of materials cost reporting application in MS Access
+  - Developed Crystal Reports
 
 ### *Systems Analyst*, DRS Power & Control Technologies (2001-08 — 2005-08)
 
 Internal application development and support
-  - Gather and analyze business requirements
-  - Use application development methodologies to create internal business applications
-  - Lead cross-functional, multi-site teams to facilitate and improve business processes using technology
-  - Provide managers with business intelligence from raw data
+  - Gathered and analyzed business requirements
+  - Used application development methodologies to create internal business applications
+  - Led cross-functional, multi-site teams to facilitate and improve business processes
+  - Created an Operational Data Store from mainframe data and Crystal Reports to the analyze data
 
 
 
@@ -67,7 +69,7 @@ Internal application development and support
 
 ## EDUCATION
 
-### [University of Wisconsin-Milwaukee](https://www.uwm.edu/) (2002-08 — 2003-12)
+### [University of Wisconsin-Milwaukee](http://www.uwm.edu/) (2002-08 — 2003-12)
 
 
 
@@ -82,16 +84,5 @@ Internal application development and support
 
 
 
-
-
-## INTERESTS
-
-- READING
-
-- RUNNING
-
-- PALEO DIET
-
-- COACHING CHILDREN
 
 
