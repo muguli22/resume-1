@@ -4,7 +4,7 @@ Email: acordmike@gmail.com
 Tel: 1-920-224-4584
 Web: https://www.mikeacord.com
 
-Seasoned application developer and solutions consultant with over 14 years of experience in designing, developing, and implementing database and web applications using Microsoft technologies. Specialties include C#, ASP.Net MVC, SQL Server development and administration and SharePoint deployment, development and administration.
+Seasoned application developer and solutions consultant with over 14 years of experience in designing, developing, and implementing database and web applications using Microsoft technologies. Specialties include C#, ASP.Net MVC, SQL Server development and administration and SharePoint deployment, development and administration. Certified in Microsoft Certified Solutions Developer: Web Applications.
 
 ## SKILLS
 
