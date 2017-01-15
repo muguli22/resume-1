@@ -1,0 +1,178 @@
+{
+  "basics": {
+    "name": "Mike Acord",
+    "label": "Senior Software Architect",
+    "summary": "Seasoned application developer and solutions consultant with over 14 years of experience in designing, developing, and implementing database and web applications using Microsoft technologies. Specialties include C#, ASP.Net MVC, SQL Server development and administration and SharePoint deployment, development and administration.",
+    "website": "http://www.mikeacord.com",
+    "phone": "1-920-224-4584",
+    "email": "acordmike@gmail.com",
+    "picture": "acordmike.jpg",
+    "location": {
+      "city": "Appleton",
+      "countryCode": "US",
+      "region": "WI"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "michaelacord",
+        "url": "https://www.linkedin.com/in/michaelacord"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Omni Resources",
+      "website": "http://www.omniresources.com",
+      "position": "Senior Solutions Architect, Consultant",
+      "startDate": "2012-07-01",
+      "summary": "Senior Microsoft Architect, building solutions for clients",
+      "highlights": [
+        "Led team creating web-based report designer and high-performance report execution engine for a student management system",
+        "Worked on team developing a dealer showcase website in Azure using ASP.Net MVC, web services and Backbone.JS",
+        "Developed new data warehouse for an insurance company using SQL Server, AWS and Redshift",
+        "Developed a flexible interview building and reporting application for a health outcome reporting company",
+        "Managed and administrated internal systems and applications"
+      ]
+    },
+    {
+      "company": "Heartland Business Systems (Avastone)",
+      "website": "http://www.hbs.net",
+      "position": "SharePoint/Business Intelligence Technical Lead / Consultant",
+      "startDate": "2008-06-01",
+      "endDate": "2012-06-30",
+      "summary": "Designed and developed custom .Net, Business Intelligence and SharePoint solutions for businesses, managed technical consulting team",
+      "highlights": [
+        "Developed school teacher evaluation system in SharePoint, .Net and javascript",
+        "Created health reporting and analytics system in ASP.Net MVC",
+        "Designed and created school district website in SharePoint",
+        "Developed new product workflow application in InfoPath",
+        "Designed and developed a data warehouse on SQL Server database and Analysis Services",
+        "Implemented numerous SharePoint installations, upgrades and custom development projects"
+      ]
+    },
+    {
+      "company": "Fujitsu Consulting",
+      "position": "Business Intelligence Consultant",
+      "startDate": "2006-08",
+      "endDate": "2008-04",
+      "summary": "Senior BI Consultant building data integration solutions",
+      "highlights": [
+        "Designed and developed data migration strategy from legacy system using Integration Services",
+        "Created real-time data integration from new web application back to legacy mainframe",
+        "Developed reporting services reports"
+      ]
+    },
+    {
+      "company": "Compuware",
+      "position": "Business Intelligence Consultant",
+      "startDate": "2005-05",
+      "endDate": "2006-07",
+      "summary": "SQL Server development consulting",
+      "highlights": [
+        "Developed and optimized SQL Server applications",
+        "Developed bill of materials cost reporting application in MS Access",
+        "Developed Crystal Reports"
+      ]
+    },
+    {
+      "company": "DRS Power & Control Technologies",
+      "position": "Systems Analyst",
+      "startDate": "2001-08",
+      "endDate": "2005-08",
+      "summary": "Internal application development and support",
+      "highlights": [
+        "Gathered and analyzed business requirements",
+        "Used application development methodologies to create internal business applications",
+        "Led cross-functional, multi-site teams to facilitate and improve business processes",
+        "Created an Operational Data Store from mainframe data and Crystal Reports to the analyze data"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Wisconsin-Milwaukee",
+      "startDate": "2002-08",
+      "endDate": "2003-12"
+    },
+    {
+      "institution": "Milwaukee School of Engineering",
+      "startDate": "1998-08",
+      "endDate": "2002-05"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web",
+      "level": "advanced",
+      "keywords": [
+        "JavaScript",
+        "HTML 5",
+        "CSS",
+        "LAMP",
+        "MVC",
+        "REST",
+        "CSS"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "advanced",
+      "keywords": [
+        "Angular.js",
+        "jQuery",
+        "Backbone.js"
+      ]
+    },
+    {
+      "name": "Database",
+      "level": "master",
+      "keywords": [
+        "SQL Server",
+        "TSQL",
+        "Integration Services",
+        "Analysis Services",
+        "Reporting Services"
+      ]
+    },
+    {
+      "name": "Cloud",
+      "level": "advanced",
+      "keywords": [
+        "Azure"
+      ]
+    },
+    {
+      "name": "Project",
+      "level": "advanced",
+      "keywords": [
+        "Agile",
+        "TFS"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "level": "advanced",
+      "keywords": [
+        "TFS",
+        "Team City",
+        "Octopus Deploy"
+      ]
+    },
+    {
+      "name": "SharePoint",
+      "level": "advanced",
+      "keywords": [
+        "Administration",
+        "Development",
+        "Office 365"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "level": "Native"
+    }
+  ]
+}

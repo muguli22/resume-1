@@ -9,7 +9,8 @@
     "info": {
         "label": "Senior Software Architect",
         "characterClass": "Programmer",
-        "brief": "Seasoned application developer and solutions consultant with over 14 years of experience in designing, developing, and implementing database and web applications using Microsoft technologies. Specialties include C#, ASP.Net MVC, SQL Server development and administration and SharePoint deployment, development and administration."
+        "brief": "Seasoned application developer and solutions consultant with over 14 years of experience in designing, developing, and implementing database and web applications using Microsoft technologies. Specialties include C#, ASP.Net MVC, SQL Server development and administration and SharePoint deployment, development and administration.",
+        "image": "acordmike.jpg"
     },
 
     "disposition": {
@@ -22,7 +23,7 @@
     },
 
     "contact": {
-        "website": "http://www.mikeacord.com",
+        "website": "https://www.mikeacord.com",
         "email": "acordmike@gmail.com",
         "phone": "1-920-224-4584"
     },
@@ -67,7 +68,7 @@
                 "position": "SharePoint/Business Intelligence Technical Lead / Consultant",
                 "summary": "Designed and developed custom .Net, Business Intelligence and SharePoint solutions for businesses, managed technical consulting team",
                 "start": "2008-06",
-                "end": "2012-07",
+                "end": "2012-06-30",
                 "keywords": ["C#", "Javascript", "ASP.Net MVC", "SQL Server", "Analysis Services", "Integration Services", "Sharepoint", "Business Intelligence"],
                 "highlights": ["Developed school teacher evaluation system in SharePoint, .Net and javascript",
                     "Created health reporting and analytics system in ASP.Net MVC",

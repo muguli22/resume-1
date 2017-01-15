@@ -3,13 +3,15 @@
     "version": "1.0.0",
     "description": "Mike Acord's Resume",
     "dependencies": {
-        "hackmyresume": "^1.8.0"
+        "hackmyresume": "^1.8.0",
+        "jsonresume-theme-eloquent": "^3.0.1"
     },
     "devDependencies": {},
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
         "validate": "hackmyresume VALIDATE ./src/resume.json",
-        "build": "hackmyresume BUILD src/resume.json TO README.md && hackmyresume BUILD src/resume.json TO out/mikeacord_resume.doc out/mikeacord_resume.pdf dist/index.html -t positive --pdf phantom"
+        "build": "hackmyresume BUILD src/resume.json TO README.md && hackmyresume BUILD src/resume.json TO out/mikeacord_resume.doc out/mikeacord_resume.pdf -t positive --pdf phantom",
+        "build:html": "hackmyresume BUILD src/resume.json TO out/resume.json && node src/buildhtml.js"
     },
     "author": "Mike Acord",
     "license": "ISC"
