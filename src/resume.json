@@ -81,6 +81,7 @@
 
             {
                 "employer": "Fujitsu Consulting",
+                "url": "http://www.fujitsu.com",
                 "position": "Business Intelligence Consultant",
                 "summary": "Senior BI Consultant building data integration solutions",
                 "start": "2006-08",
@@ -94,6 +95,7 @@
 
             {
                 "employer": "Compuware",
+                "url": "http://www.compuware.com",
                 "position": "Business Intelligence Consultant",
                 "summary": "SQL Server development consulting",
                 "start": "2005-05",
@@ -107,6 +109,7 @@
 
             {
                 "employer": "DRS Power & Control Technologies",
+                "url": "http://www.drs.com/",
                 "position": "Systems Analyst",
                 "summary": "Internal application development and support",
                 "start": "2001-08",

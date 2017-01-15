@@ -3,7 +3,7 @@
     "name": "Mike Acord",
     "label": "Senior Software Architect",
     "summary": "Seasoned application developer and solutions consultant with over 14 years of experience in designing, developing, and implementing database and web applications using Microsoft technologies. Specialties include C#, ASP.Net MVC, SQL Server development and administration and SharePoint deployment, development and administration.",
-    "website": "http://www.mikeacord.com",
+    "website": "https://www.mikeacord.com",
     "phone": "1-920-224-4584",
     "email": "acordmike@gmail.com",
     "picture": "acordmike.jpg",
@@ -25,7 +25,7 @@
       "company": "Omni Resources",
       "website": "http://www.omniresources.com",
       "position": "Senior Solutions Architect, Consultant",
-      "startDate": "2012-07-01",
+      "startDate": "2012-07",
       "summary": "Senior Microsoft Architect, building solutions for clients",
       "highlights": [
         "Led team creating web-based report designer and high-performance report execution engine for a student management system",
@@ -39,7 +39,7 @@
       "company": "Heartland Business Systems (Avastone)",
       "website": "http://www.hbs.net",
       "position": "SharePoint/Business Intelligence Technical Lead / Consultant",
-      "startDate": "2008-06-01",
+      "startDate": "2008-06",
       "endDate": "2012-06-30",
       "summary": "Designed and developed custom .Net, Business Intelligence and SharePoint solutions for businesses, managed technical consulting team",
       "highlights": [
@@ -53,6 +53,7 @@
     },
     {
       "company": "Fujitsu Consulting",
+      "website": "http://www.fujitsu.com",
       "position": "Business Intelligence Consultant",
       "startDate": "2006-08",
       "endDate": "2008-04",
@@ -65,6 +66,7 @@
     },
     {
       "company": "Compuware",
+      "website": "http://www.compuware.com",
       "position": "Business Intelligence Consultant",
       "startDate": "2005-05",
       "endDate": "2006-07",
@@ -77,6 +79,7 @@
     },
     {
       "company": "DRS Power & Control Technologies",
+      "website": "http://www.drs.com/",
       "position": "Systems Analyst",
       "startDate": "2001-08",
       "endDate": "2005-08",
