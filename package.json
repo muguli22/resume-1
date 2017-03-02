@@ -10,7 +10,7 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
         "validate": "hackmyresume VALIDATE ./src/resume.json",
-        "build": "hackmyresume BUILD src/resume.json TO README.md && hackmyresume BUILD src/resume.json TO out/mikeacord_resume.doc out/mikeacord_resume.pdf -t positive --pdf phantom",
+        "build": "hackmyresume BUILD src/resume.json TO README.md && hackmyresume BUILD src/resume.json TO out/mikeacord_resume.doc -t compact",
         "build:html": "hackmyresume BUILD src/resume.json TO out/resume.json && node src/buildhtml.js"
     },
     "author": "Mike Acord",
