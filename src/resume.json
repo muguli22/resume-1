@@ -67,8 +67,9 @@
                 ]
             },
             {
-                "employer": "Insurance Company",
-                "position": "Consultant",
+                "employer": "Security Health Plan",
+                "url": "https://www.securityhealth.org/",
+                "position": "Data Warehouse Developer, Data Architect",
                 "start": "2016-02",
                 "summary": "Designed and developed new data warehouse",
                 "keywords": ["Agile", "AWS", "SQL Server", "Redshift", "TSQL", "Data Warehousing", "ETL", "SSIS", "Power Designer"],
@@ -77,8 +78,9 @@
                 ]
             },
             {
-                "employer": "Medical Outcome Reporting Company",
-                "position": "Consultant",
+                "employer": "QM2 Solutions",
+                "url": "http://qm2solutions.com/",
+                "position": "Technical Lead, Architect",
                 "start": "2015-07",
                 "end": "2016-02",
                 "summary": "Led team to develop a flexible interview building and reporting application",
@@ -89,8 +91,9 @@
                 ]
             },
             {
-                "employer": "Insurance Company",
-                "position": "Consultant",
+                "employer": "Security Health Plan",
+                "url": "https://www.securityhealth.org/",
+                "position": "Data Warehouse Developer, Data Architect",
                 "start": "2014-07",
                 "end": "2015-06",
                 "summary": "Designed and developed new data warehouse",
@@ -101,8 +104,9 @@
                 ]
             },
             {
-                "employer": "Student Management System Company",
-                "position": "Consultant",
+                "employer": "Skyward",
+                "url": "https://www.skyward.com/",
+                "position": "Technical Lead, Architect",
                 "summary": "Team lead and architect for a custom-built reporting module to a Student Management System",
                 "start": "2013-07",
                 "end": "2014-06",
@@ -113,8 +117,9 @@
                 ]
             },
             {
-                "employer": "Sporting Vehicle Dealership Software Company",
+                "employer": "Dominion Enterprises",
                 "position": "Consultant",
+                "url": "https://www.dominionenterprises.com/",
                 "summary": "Developed company's next-generation dealership showcase website",
                 "start": "2012-10",
                 "end": "2013-06",
@@ -149,7 +154,7 @@
                 "position": "Business Intelligence Consultant",
                 "summary": "Senior BI Consultant building data integration solutions",
                 "start": "2006-08",
-                "end": "2008-04",
+                "end": "2008-05",
                 "keywords": ["SSIS", "SQL Server", "ASP.Net", "C#", "Reporting Services", "TSQL"],
                 "highlights": ["Designed and developed data migration strategy from legacy system using Integration Services",
                     "Created real-time data integration from new web application back to legacy mainframe",
@@ -202,7 +207,7 @@
 
             {
                 "institution": "University of Wisconsin-Milwaukee",
-                "title": "MS in Management-Electronic Business",
+                "title": "M.S. in Management-Electronic Business",
                 "url": "http://www.uwm.edu/",
                 "start": "2002-08",
                 "end": "2003-12"
@@ -210,7 +215,7 @@
 
             {
                 "institution": "Milwaukee School of Engineering",
-                "title": "BS in Business and Computer Systems, International Business",
+                "title": "B.S. in Business and Computer Systems, International Business",
                 "url": "http://www.msoe.edu",
                 "start": "1998-08",
                 "end": "2002-05"
