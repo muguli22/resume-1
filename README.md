@@ -28,34 +28,34 @@ Building leading-edge solutions for clients
   - Developed continuous deployment of internal applications using TeamCity and Octopus Deploy
   - Introduced and administered common team tools, including TFS, Slack and a team Wiki
 
-### *Consultant*, Insurance Company (2016-02 — Present)
+### *Data Warehouse Developer, Data Architect*, [Security Health Plan](https://www.securityhealth.org/) (2016-02 — Present)
 
 Designed and developed new data warehouse
   - Modeled Data Warehouse (DW)
   - Built ETL routines to load data into the DW from multiple data sources
 
-### *Consultant*, Medical Outcome Reporting Company (2015-07 — 2016-02)
+### *Technical Lead, Architect*, [QM2 Solutions](http://qm2solutions.com/) (2015-07 — 2016-02)
 
 Led team to develop a flexible interview building and reporting application
   - Designed and implemented custom interview building designer
   - Designed and built flexible reporting of interview responses
   - Implemented continuous integration and deployment pipeline using TeamCity and Octopus Deploy
 
-### *Consultant*, Insurance Company (2014-07 — 2015-06)
+### *Data Warehouse Developer, Data Architect*, [Security Health Plan](https://www.securityhealth.org/) (2014-07 — 2015-06)
 
 Designed and developed new data warehouse
   - Modeled Operational Store (ODS)
   - Developed ETL templates for incrementally loading data
   - Built ETL routines to load data into the ODS from multiple data sources
 
-### *Consultant*, Student Management System Company (2013-07 — 2014-06)
+### *Technical Lead, Architect*, [Skyward](https://www.skyward.com/) (2013-07 — 2014-06)
 
 Team lead and architect for a custom-built reporting module to a Student Management System
   - Designed and developed streaming report execution engine
   - Led team of developers building simple but powerful web-based WYSIWYG report editor
   - Developed report rendering engine to allow delivery of reports in multiple formats
 
-### *Consultant*, Sporting Vehicle Dealership Software Company (2012-10 — 2013-06)
+### *Consultant*, [Dominion Enterprises](https://www.dominionenterprises.com/) (2012-10 — 2013-06)
 
 Developed company's next-generation dealership showcase website
   - Developed Azure storage services to save and retrieve custom images
@@ -74,7 +74,7 @@ Designed and developed custom .Net, Business Intelligence and SharePoint solutio
   - Designed and developed a data warehouse on SQL Server database and Analysis Services
   - Implemented numerous SharePoint installations, upgrades and custom development projects
 
-### *Business Intelligence Consultant*, [Fujitsu Consulting](http://www.fujitsu.com) (2006-08 — 2008-04)
+### *Business Intelligence Consultant*, [Fujitsu Consulting](http://www.fujitsu.com) (2006-08 — 2008-05)
 
 Senior BI Consultant building data integration solutions
   - Designed and developed data migration strategy from legacy system using Integration Services

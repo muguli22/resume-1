@@ -69,7 +69,7 @@
             {
                 "employer": "Security Health Plan",
                 "url": "https://www.securityhealth.org/",
-                "position": "Data Warehouse Developer, Data Architect",
+                "position": "Data Warehouse Developer, Data Architect, Consultant",
                 "start": "2016-02",
                 "summary": "Designed and developed new data warehouse",
                 "keywords": ["Agile", "AWS", "SQL Server", "Redshift", "TSQL", "Data Warehousing", "ETL", "SSIS", "Power Designer"],
@@ -80,7 +80,7 @@
             {
                 "employer": "QM2 Solutions",
                 "url": "http://qm2solutions.com/",
-                "position": "Technical Lead, Architect",
+                "position": "Technical Lead, Architect, Consultant",
                 "start": "2015-07",
                 "end": "2016-02",
                 "summary": "Led team to develop a flexible interview building and reporting application",
@@ -93,7 +93,7 @@
             {
                 "employer": "Security Health Plan",
                 "url": "https://www.securityhealth.org/",
-                "position": "Data Warehouse Developer, Data Architect",
+                "position": "Data Warehouse Developer, Data Architect, Consultant",
                 "start": "2014-07",
                 "end": "2015-06",
                 "summary": "Designed and developed new data warehouse",
@@ -106,7 +106,7 @@
             {
                 "employer": "Skyward",
                 "url": "https://www.skyward.com/",
-                "position": "Technical Lead, Architect",
+                "position": "Technical Lead, Architect, Consultant",
                 "summary": "Team lead and architect for a custom-built reporting module to a Student Management System",
                 "start": "2013-07",
                 "end": "2014-06",
@@ -118,7 +118,7 @@
             },
             {
                 "employer": "Dominion Enterprises",
-                "position": "Consultant",
+                "position": "Full Stack Deveoper, Consultant",
                 "url": "https://www.dominionenterprises.com/",
                 "summary": "Developed company's next-generation dealership showcase website",
                 "start": "2012-10",

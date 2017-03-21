@@ -1,3 +1,1878 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?mso-application progid="Word.Document"?>
-<w:wordDocument xmlns:aml="http://schemas.microsoft.com/aml/2001/core" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" xmlns:mo="http://schemas.microsoft.com/office/mac/office/2008/main" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mv="urn:schemas-microsoft-com:mac:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.microsoft.com/office/word/2003/wordml" xmlns:wx="http://schemas.microsoft.com/office/word/2003/auxHint" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wsp="http://schemas.microsoft.com/office/word/2003/wordml/sp2" xmlns:sl="http://schemas.microsoft.com/schemaLibrary/2003/core" w:macrosPresent="no" w:embeddedObjPresent="no" w:ocxPresent="no" xml:space="preserve"><w:ignoreSubtree w:val="http://schemas.microsoft.com/office/word/2003/wordml/sp2"/><o:DocumentProperties><o:Title>Resume for Michael Acord</o:Title><o:Author>Michael Acord</o:Author><o:Keywords>resume;CV</o:Keywords><o:LastAuthor>Michael Acord</o:LastAuthor><o:Revision>2</o:Revision><o:TotalTime>69</o:TotalTime><o:Created>2015-12-16T17:38:00Z</o:Created><o:LastSaved>2017-03-18T01:33:00Z</o:LastSaved><o:Pages>2</o:Pages><o:Words>762</o:Words><o:Characters>4346</o:Characters><o:Lines>36</o:Lines><o:Paragraphs>10</o:Paragraphs><o:CharactersWithSpaces>5098</o:CharactersWithSpaces><o:Version>15</o:Version></o:DocumentProperties><w:fonts><w:defaultFonts w:ascii="Calibri" w:fareast="Calibri" w:h-ansi="Calibri" w:cs="Calibri"/><w:font w:name="Courier New"><w:panose-1 w:val="02070309020205020404"/><w:charset w:val="00"/><w:family w:val="auto"/><w:pitch w:val="variable"/><w:sig w:usb-0="E0002AFF" w:usb-1="C0007843" w:usb-2="00000009" w:usb-3="00000000" w:csb-0="000001FF" w:csb-1="00000000"/></w:font><w:font w:name="Symbol"><w:panose-1 w:val="05050102010706020507"/><w:charset w:val="02"/><w:family w:val="auto"/><w:pitch w:val="variable"/><w:sig w:usb-0="00000000" w:usb-1="10000000" w:usb-2="00000000" w:usb-3="00000000" w:csb-0="80000000" w:csb-1="00000000"/></w:font><w:font w:name="Cambria Math"><w:panose-1 w:val="02040503050406030204"/><w:charset w:val="01"/><w:family w:val="Roman"/><w:notTrueType/><w:pitch w:val="variable"/></w:font><w:font w:name="Calibri"><w:panose-1 w:val="020F0502020204030204"/><w:charset w:val="00"/><w:family w:val="auto"/><w:pitch w:val="variable"/><w:sig w:usb-0="E00002FF" w:usb-1="4000ACFF" w:usb-2="00000001" w:usb-3="00000000" w:csb-0="0000019F" w:csb-1="00000000"/></w:font><w:font w:name="Marlett"><w:panose-1 w:val="00000000000000000000"/><w:charset w:val="02"/><w:family w:val="Roman"/><w:notTrueType/><w:pitch w:val="default"/></w:font></w:fonts><w:lists><w:listDef w:listDefId="0"><w:lsid w:val="602C53DD"/><w:plt w:val="HybridMultilevel"/><w:tmpl w:val="61849B8C"/><w:lvl w:ilvl="0" w:tplc="DD7ED086"><w:start w:val="1"/><w:nfc w:val="23"/><w:lvlText w:val="•"/><w:lvlJc w:val="left"/><w:pPr><w:ind w:left="720" w:hanging="360"/></w:pPr><w:rPr><w:rFonts w:ascii="Calibri" w:h-ansi="Calibri" w:hint="default"/></w:rPr></w:lvl><w:lvl w:ilvl="1" w:tplc="04090003" w:tentative="on"><w:start w:val="1"/><w:nfc w:val="23"/><w:lvlText w:val="o"/><w:lvlJc w:val="left"/><w:pPr><w:ind w:left="1440" w:hanging="360"/></w:pPr><w:rPr><w:rFonts w:ascii="Courier New" w:h-ansi="Courier New" w:cs="Courier New" w:hint="default"/></w:rPr></w:lvl><w:lvl w:ilvl="2" w:tplc="04090005" w:tentative="on"><w:start w:val="1"/><w:nfc w:val="23"/><w:lvlText w:val=""/><w:lvlJc w:val="left"/><w:pPr><w:ind w:left="2160" w:hanging="360"/></w:pPr><w:rPr><w:rFonts w:ascii="Marlett" w:h-ansi="Marlett" w:hint="default"/></w:rPr></w:lvl><w:lvl w:ilvl="3" w:tplc="04090001" w:tentative="on"><w:start w:val="1"/><w:nfc w:val="23"/><w:lvlText w:val=""/><w:lvlJc w:val="left"/><w:pPr><w:ind w:left="2880" w:hanging="360"/></w:pPr><w:rPr><w:rFonts w:ascii="Symbol" w:h-ansi="Symbol" w:hint="default"/></w:rPr></w:lvl><w:lvl w:ilvl="4" w:tplc="04090003" w:tentative="on"><w:start w:val="1"/><w:nfc w:val="23"/><w:lvlText w:val="o"/><w:lvlJc w:val="left"/><w:pPr><w:ind w:left="3600" w:hanging="360"/></w:pPr><w:rPr><w:rFonts w:ascii="Courier New" w:h-ansi="Courier New" w:cs="Courier New" w:hint="default"/></w:rPr></w:lvl><w:lvl w:ilvl="5" w:tplc="04090005" w:tentative="on"><w:start w:val="1"/><w:nfc w:val="23"/><w:lvlText w:val=""/><w:lvlJc w:val="left"/><w:pPr><w:ind w:left="4320" w:hanging="360"/></w:pPr><w:rPr><w:rFonts w:ascii="Marlett" w:h-ansi="Marlett" w:hint="default"/></w:rPr></w:lvl><w:lvl w:ilvl="6" w:tplc="04090001" w:tentative="on"><w:start w:val="1"/><w:nfc w:val="23"/><w:lvlText w:val=""/><w:lvlJc w:val="left"/><w:pPr><w:ind w:left="5040" w:hanging="360"/></w:pPr><w:rPr><w:rFonts w:ascii="Symbol" w:h-ansi="Symbol" w:hint="default"/></w:rPr></w:lvl><w:lvl w:ilvl="7" w:tplc="04090003" w:tentative="on"><w:start w:val="1"/><w:nfc w:val="23"/><w:lvlText w:val="o"/><w:lvlJc w:val="left"/><w:pPr><w:ind w:left="5760" w:hanging="360"/></w:pPr><w:rPr><w:rFonts w:ascii="Courier New" w:h-ansi="Courier New" w:cs="Courier New" w:hint="default"/></w:rPr></w:lvl><w:lvl w:ilvl="8" w:tplc="04090005" w:tentative="on"><w:start w:val="1"/><w:nfc w:val="23"/><w:lvlText w:val=""/><w:lvlJc w:val="left"/><w:pPr><w:ind w:left="6480" w:hanging="360"/></w:pPr><w:rPr><w:rFonts w:ascii="Marlett" w:h-ansi="Marlett" w:hint="default"/></w:rPr></w:lvl></w:listDef><w:list w:ilfo="1"><w:ilst w:val="0"/></w:list></w:lists><w:styles><w:versionOfBuiltInStylenames w:val="8"/><w:latentStyles w:defLockedState="off" w:latentStyleCount="382"><w:lsdException w:name="Normal"/><w:lsdException w:name="heading 1"/><w:lsdException w:name="heading 2"/><w:lsdException w:name="heading 3"/><w:lsdException w:name="heading 4"/><w:lsdException w:name="heading 5"/><w:lsdException w:name="heading 6"/><w:lsdException w:name="heading 7"/><w:lsdException w:name="heading 8"/><w:lsdException w:name="heading 9"/><w:lsdException w:name="index 1"/><w:lsdException w:name="index 2"/><w:lsdException w:name="index 3"/><w:lsdException w:name="index 4"/><w:lsdException w:name="index 5"/><w:lsdException w:name="index 6"/><w:lsdException w:name="index 7"/><w:lsdException w:name="index 8"/><w:lsdException w:name="index 9"/><w:lsdException w:name="toc 1"/><w:lsdException w:name="toc 2"/><w:lsdException w:name="toc 3"/><w:lsdException w:name="toc 4"/><w:lsdException w:name="toc 5"/><w:lsdException w:name="toc 6"/><w:lsdException w:name="toc 7"/><w:lsdException w:name="toc 8"/><w:lsdException w:name="toc 9"/><w:lsdException w:name="Normal Indent"/><w:lsdException w:name="footnote text"/><w:lsdException w:name="annotation text"/><w:lsdException w:name="header"/><w:lsdException w:name="footer"/><w:lsdException w:name="index heading"/><w:lsdException w:name="caption"/><w:lsdException w:name="table of figures"/><w:lsdException w:name="envelope address"/><w:lsdException w:name="envelope return"/><w:lsdException w:name="footnote reference"/><w:lsdException w:name="annotation reference"/><w:lsdException w:name="line number"/><w:lsdException w:name="page number"/><w:lsdException w:name="endnote reference"/><w:lsdException w:name="endnote text"/><w:lsdException w:name="table of authorities"/><w:lsdException w:name="macro"/><w:lsdException w:name="toa heading"/><w:lsdException w:name="List"/><w:lsdException w:name="List Bullet"/><w:lsdException w:name="List Number"/><w:lsdException w:name="List 2"/><w:lsdException w:name="List 3"/><w:lsdException w:name="List 4"/><w:lsdException w:name="List 5"/><w:lsdException w:name="List Bullet 2"/><w:lsdException w:name="List Bullet 3"/><w:lsdException w:name="List Bullet 4"/><w:lsdException w:name="List Bullet 5"/><w:lsdException w:name="List Number 2"/><w:lsdException w:name="List Number 3"/><w:lsdException w:name="List Number 4"/><w:lsdException w:name="List Number 5"/><w:lsdException w:name="Title"/><w:lsdException w:name="Closing"/><w:lsdException w:name="Signature"/><w:lsdException w:name="Default Paragraph Font"/><w:lsdException w:name="Body Text"/><w:lsdException w:name="Body Text Indent"/><w:lsdException w:name="List Continue"/><w:lsdException w:name="List Continue 2"/><w:lsdException w:name="List Continue 3"/><w:lsdException w:name="List Continue 4"/><w:lsdException w:name="List Continue 5"/><w:lsdException w:name="Message Header"/><w:lsdException w:name="Subtitle"/><w:lsdException w:name="Salutation"/><w:lsdException w:name="Date"/><w:lsdException w:name="Body Text First Indent"/><w:lsdException w:name="Body Text First Indent 2"/><w:lsdException w:name="Note Heading"/><w:lsdException w:name="Body Text 2"/><w:lsdException w:name="Body Text 3"/><w:lsdException w:name="Body Text Indent 2"/><w:lsdException w:name="Body Text Indent 3"/><w:lsdException w:name="Block Text"/><w:lsdException w:name="Hyperlink"/><w:lsdException w:name="FollowedHyperlink"/><w:lsdException w:name="Strong"/><w:lsdException w:name="Emphasis"/><w:lsdException w:name="Document Map"/><w:lsdException w:name="Plain Text"/><w:lsdException w:name="E-mail Signature"/><w:lsdException w:name="HTML Top of Form"/><w:lsdException w:name="HTML Bottom of Form"/><w:lsdException w:name="Normal (Web)"/><w:lsdException w:name="HTML Acronym"/><w:lsdException w:name="HTML Address"/><w:lsdException w:name="HTML Cite"/><w:lsdException w:name="HTML Code"/><w:lsdException w:name="HTML Definition"/><w:lsdException w:name="HTML Keyboard"/><w:lsdException w:name="HTML Preformatted"/><w:lsdException w:name="HTML Sample"/><w:lsdException w:name="HTML Typewriter"/><w:lsdException w:name="HTML Variable"/><w:lsdException w:name="Normal Table"/><w:lsdException w:name="annotation subject"/><w:lsdException w:name="No List"/><w:lsdException w:name="Outline List 1"/><w:lsdException w:name="Outline List 2"/><w:lsdException w:name="Outline List 3"/><w:lsdException w:name="Table Simple 1"/><w:lsdException w:name="Table Simple 2"/><w:lsdException w:name="Table Simple 3"/><w:lsdException w:name="Table Classic 1"/><w:lsdException w:name="Table Classic 2"/><w:lsdException w:name="Table Classic 3"/><w:lsdException w:name="Table Classic 4"/><w:lsdException w:name="Table Colorful 1"/><w:lsdException w:name="Table Colorful 2"/><w:lsdException w:name="Table Colorful 3"/><w:lsdException w:name="Table Columns 1"/><w:lsdException w:name="Table Columns 2"/><w:lsdException w:name="Table Columns 3"/><w:lsdException w:name="Table Columns 4"/><w:lsdException w:name="Table Columns 5"/><w:lsdException w:name="Table Grid 1"/><w:lsdException w:name="Table Grid 2"/><w:lsdException w:name="Table Grid 3"/><w:lsdException w:name="Table Grid 4"/><w:lsdException w:name="Table Grid 5"/><w:lsdException w:name="Table Grid 6"/><w:lsdException w:name="Table Grid 7"/><w:lsdException w:name="Table Grid 8"/><w:lsdException w:name="Table List 1"/><w:lsdException w:name="Table List 2"/><w:lsdException w:name="Table List 3"/><w:lsdException w:name="Table List 4"/><w:lsdException w:name="Table List 5"/><w:lsdException w:name="Table List 6"/><w:lsdException w:name="Table List 7"/><w:lsdException w:name="Table List 8"/><w:lsdException w:name="Table 3D effects 1"/><w:lsdException w:name="Table 3D effects 2"/><w:lsdException w:name="Table 3D effects 3"/><w:lsdException w:name="Table Contemporary"/><w:lsdException w:name="Table Elegant"/><w:lsdException w:name="Table Professional"/><w:lsdException w:name="Table Subtle 1"/><w:lsdException w:name="Table Subtle 2"/><w:lsdException w:name="Table Web 1"/><w:lsdException w:name="Table Web 2"/><w:lsdException w:name="Table Web 3"/><w:lsdException w:name="Balloon Text"/><w:lsdException w:name="Table Grid"/><w:lsdException w:name="Table Theme"/><w:lsdException w:name="Note Level 1"/><w:lsdException w:name="Note Level 2"/><w:lsdException w:name="Note Level 3"/><w:lsdException w:name="Note Level 4"/><w:lsdException w:name="Note Level 5"/><w:lsdException w:name="Note Level 6"/><w:lsdException w:name="Note Level 7"/><w:lsdException w:name="Note Level 8"/><w:lsdException w:name="Note Level 9"/><w:lsdException w:name="Placeholder Text"/><w:lsdException w:name="No Spacing"/><w:lsdException w:name="Light Shading"/><w:lsdException w:name="Light List"/><w:lsdException w:name="Light Grid"/><w:lsdException w:name="Medium Shading 1"/><w:lsdException w:name="Medium Shading 2"/><w:lsdException w:name="Medium List 1"/><w:lsdException w:name="Medium List 2"/><w:lsdException w:name="Medium Grid 1"/><w:lsdException w:name="Medium Grid 2"/><w:lsdException w:name="Medium Grid 3"/><w:lsdException w:name="Dark List"/><w:lsdException w:name="Colorful Shading"/><w:lsdException w:name="Colorful List"/><w:lsdException w:name="Colorful Grid"/><w:lsdException w:name="Light Shading Accent 1"/><w:lsdException w:name="Light List Accent 1"/><w:lsdException w:name="Light Grid Accent 1"/><w:lsdException w:name="Medium Shading 1 Accent 1"/><w:lsdException w:name="Medium Shading 2 Accent 1"/><w:lsdException w:name="Medium List 1 Accent 1"/><w:lsdException w:name="Revision"/><w:lsdException w:name="List Paragraph"/><w:lsdException w:name="Quote"/><w:lsdException w:name="Intense Quote"/><w:lsdException w:name="Medium List 2 Accent 1"/><w:lsdException w:name="Medium Grid 1 Accent 1"/><w:lsdException w:name="Medium Grid 2 Accent 1"/><w:lsdException w:name="Medium Grid 3 Accent 1"/><w:lsdException w:name="Dark List Accent 1"/><w:lsdException w:name="Colorful Shading Accent 1"/><w:lsdException w:name="Colorful List Accent 1"/><w:lsdException w:name="Colorful Grid Accent 1"/><w:lsdException w:name="Light Shading Accent 2"/><w:lsdException w:name="Light List Accent 2"/><w:lsdException w:name="Light Grid Accent 2"/><w:lsdException w:name="Medium Shading 1 Accent 2"/><w:lsdException w:name="Medium Shading 2 Accent 2"/><w:lsdException w:name="Medium List 1 Accent 2"/><w:lsdException w:name="Medium List 2 Accent 2"/><w:lsdException w:name="Medium Grid 1 Accent 2"/><w:lsdException w:name="Medium Grid 2 Accent 2"/><w:lsdException w:name="Medium Grid 3 Accent 2"/><w:lsdException w:name="Dark List Accent 2"/><w:lsdException w:name="Colorful Shading Accent 2"/><w:lsdException w:name="Colorful List Accent 2"/><w:lsdException w:name="Colorful Grid Accent 2"/><w:lsdException w:name="Light Shading Accent 3"/><w:lsdException w:name="Light List Accent 3"/><w:lsdException w:name="Light Grid Accent 3"/><w:lsdException w:name="Medium Shading 1 Accent 3"/><w:lsdException w:name="Medium Shading 2 Accent 3"/><w:lsdException w:name="Medium List 1 Accent 3"/><w:lsdException w:name="Medium List 2 Accent 3"/><w:lsdException w:name="Medium Grid 1 Accent 3"/><w:lsdException w:name="Medium Grid 2 Accent 3"/><w:lsdException w:name="Medium Grid 3 Accent 3"/><w:lsdException w:name="Dark List Accent 3"/><w:lsdException w:name="Colorful Shading Accent 3"/><w:lsdException w:name="Colorful List Accent 3"/><w:lsdException w:name="Colorful Grid Accent 3"/><w:lsdException w:name="Light Shading Accent 4"/><w:lsdException w:name="Light List Accent 4"/><w:lsdException w:name="Light Grid Accent 4"/><w:lsdException w:name="Medium Shading 1 Accent 4"/><w:lsdException w:name="Medium Shading 2 Accent 4"/><w:lsdException w:name="Medium List 1 Accent 4"/><w:lsdException w:name="Medium List 2 Accent 4"/><w:lsdException w:name="Medium Grid 1 Accent 4"/><w:lsdException w:name="Medium Grid 2 Accent 4"/><w:lsdException w:name="Medium Grid 3 Accent 4"/><w:lsdException w:name="Dark List Accent 4"/><w:lsdException w:name="Colorful Shading Accent 4"/><w:lsdException w:name="Colorful List Accent 4"/><w:lsdException w:name="Colorful Grid Accent 4"/><w:lsdException w:name="Light Shading Accent 5"/><w:lsdException w:name="Light List Accent 5"/><w:lsdException w:name="Light Grid Accent 5"/><w:lsdException w:name="Medium Shading 1 Accent 5"/><w:lsdException w:name="Medium Shading 2 Accent 5"/><w:lsdException w:name="Medium List 1 Accent 5"/><w:lsdException w:name="Medium List 2 Accent 5"/><w:lsdException w:name="Medium Grid 1 Accent 5"/><w:lsdException w:name="Medium Grid 2 Accent 5"/><w:lsdException w:name="Medium Grid 3 Accent 5"/><w:lsdException w:name="Dark List Accent 5"/><w:lsdException w:name="Colorful Shading Accent 5"/><w:lsdException w:name="Colorful List Accent 5"/><w:lsdException w:name="Colorful Grid Accent 5"/><w:lsdException w:name="Light Shading Accent 6"/><w:lsdException w:name="Light List Accent 6"/><w:lsdException w:name="Light Grid Accent 6"/><w:lsdException w:name="Medium Shading 1 Accent 6"/><w:lsdException w:name="Medium Shading 2 Accent 6"/><w:lsdException w:name="Medium List 1 Accent 6"/><w:lsdException w:name="Medium List 2 Accent 6"/><w:lsdException w:name="Medium Grid 1 Accent 6"/><w:lsdException w:name="Medium Grid 2 Accent 6"/><w:lsdException w:name="Medium Grid 3 Accent 6"/><w:lsdException w:name="Dark List Accent 6"/><w:lsdException w:name="Colorful Shading Accent 6"/><w:lsdException w:name="Colorful List Accent 6"/><w:lsdException w:name="Colorful Grid Accent 6"/><w:lsdException w:name="Subtle Emphasis"/><w:lsdException w:name="Intense Emphasis"/><w:lsdException w:name="Subtle Reference"/><w:lsdException w:name="Intense Reference"/><w:lsdException w:name="Book Title"/><w:lsdException w:name="Bibliography"/><w:lsdException w:name="TOC Heading"/><w:lsdException w:name="Plain Table 1"/><w:lsdException w:name="Plain Table 2"/><w:lsdException w:name="Plain Table 3"/><w:lsdException w:name="Plain Table 4"/><w:lsdException w:name="Plain Table 5"/><w:lsdException w:name="Grid Table Light"/><w:lsdException w:name="Grid Table 1 Light"/><w:lsdException w:name="Grid Table 2"/><w:lsdException w:name="Grid Table 3"/><w:lsdException w:name="Grid Table 4"/><w:lsdException w:name="Grid Table 5 Dark"/><w:lsdException w:name="Grid Table 6 Colorful"/><w:lsdException w:name="Grid Table 7 Colorful"/><w:lsdException w:name="Grid Table 1 Light Accent 1"/><w:lsdException w:name="Grid Table 2 Accent 1"/><w:lsdException w:name="Grid Table 3 Accent 1"/><w:lsdException w:name="Grid Table 4 Accent 1"/><w:lsdException w:name="Grid Table 5 Dark Accent 1"/><w:lsdException w:name="Grid Table 6 Colorful Accent 1"/><w:lsdException w:name="Grid Table 7 Colorful Accent 1"/><w:lsdException w:name="Grid Table 1 Light Accent 2"/><w:lsdException w:name="Grid Table 2 Accent 2"/><w:lsdException w:name="Grid Table 3 Accent 2"/><w:lsdException w:name="Grid Table 4 Accent 2"/><w:lsdException w:name="Grid Table 5 Dark Accent 2"/><w:lsdException w:name="Grid Table 6 Colorful Accent 2"/><w:lsdException w:name="Grid Table 7 Colorful Accent 2"/><w:lsdException w:name="Grid Table 1 Light Accent 3"/><w:lsdException w:name="Grid Table 2 Accent 3"/><w:lsdException w:name="Grid Table 3 Accent 3"/><w:lsdException w:name="Grid Table 4 Accent 3"/><w:lsdException w:name="Grid Table 5 Dark Accent 3"/><w:lsdException w:name="Grid Table 6 Colorful Accent 3"/><w:lsdException w:name="Grid Table 7 Colorful Accent 3"/><w:lsdException w:name="Grid Table 1 Light Accent 4"/><w:lsdException w:name="Grid Table 2 Accent 4"/><w:lsdException w:name="Grid Table 3 Accent 4"/><w:lsdException w:name="Grid Table 4 Accent 4"/><w:lsdException w:name="Grid Table 5 Dark Accent 4"/><w:lsdException w:name="Grid Table 6 Colorful Accent 4"/><w:lsdException w:name="Grid Table 7 Colorful Accent 4"/><w:lsdException w:name="Grid Table 1 Light Accent 5"/><w:lsdException w:name="Grid Table 2 Accent 5"/><w:lsdException w:name="Grid Table 3 Accent 5"/><w:lsdException w:name="Grid Table 4 Accent 5"/><w:lsdException w:name="Grid Table 5 Dark Accent 5"/><w:lsdException w:name="Grid Table 6 Colorful Accent 5"/><w:lsdException w:name="Grid Table 7 Colorful Accent 5"/><w:lsdException w:name="Grid Table 1 Light Accent 6"/><w:lsdException w:name="Grid Table 2 Accent 6"/><w:lsdException w:name="Grid Table 3 Accent 6"/><w:lsdException w:name="Grid Table 4 Accent 6"/><w:lsdException w:name="Grid Table 5 Dark Accent 6"/><w:lsdException w:name="Grid Table 6 Colorful Accent 6"/><w:lsdException w:name="Grid Table 7 Colorful Accent 6"/><w:lsdException w:name="List Table 1 Light"/><w:lsdException w:name="List Table 2"/><w:lsdException w:name="List Table 3"/><w:lsdException w:name="List Table 4"/><w:lsdException w:name="List Table 5 Dark"/><w:lsdException w:name="List Table 6 Colorful"/><w:lsdException w:name="List Table 7 Colorful"/><w:lsdException w:name="List Table 1 Light Accent 1"/><w:lsdException w:name="List Table 2 Accent 1"/><w:lsdException w:name="List Table 3 Accent 1"/><w:lsdException w:name="List Table 4 Accent 1"/><w:lsdException w:name="List Table 5 Dark Accent 1"/><w:lsdException w:name="List Table 6 Colorful Accent 1"/><w:lsdException w:name="List Table 7 Colorful Accent 1"/><w:lsdException w:name="List Table 1 Light Accent 2"/><w:lsdException w:name="List Table 2 Accent 2"/><w:lsdException w:name="List Table 3 Accent 2"/><w:lsdException w:name="List Table 4 Accent 2"/><w:lsdException w:name="List Table 5 Dark Accent 2"/><w:lsdException w:name="List Table 6 Colorful Accent 2"/><w:lsdException w:name="List Table 7 Colorful Accent 2"/><w:lsdException w:name="List Table 1 Light Accent 3"/><w:lsdException w:name="List Table 2 Accent 3"/><w:lsdException w:name="List Table 3 Accent 3"/><w:lsdException w:name="List Table 4 Accent 3"/><w:lsdException w:name="List Table 5 Dark Accent 3"/><w:lsdException w:name="List Table 6 Colorful Accent 3"/><w:lsdException w:name="List Table 7 Colorful Accent 3"/><w:lsdException w:name="List Table 1 Light Accent 4"/><w:lsdException w:name="List Table 2 Accent 4"/><w:lsdException w:name="List Table 3 Accent 4"/><w:lsdException w:name="List Table 4 Accent 4"/><w:lsdException w:name="List Table 5 Dark Accent 4"/><w:lsdException w:name="List Table 6 Colorful Accent 4"/><w:lsdException w:name="List Table 7 Colorful Accent 4"/><w:lsdException w:name="List Table 1 Light Accent 5"/><w:lsdException w:name="List Table 2 Accent 5"/><w:lsdException w:name="List Table 3 Accent 5"/><w:lsdException w:name="List Table 4 Accent 5"/><w:lsdException w:name="List Table 5 Dark Accent 5"/><w:lsdException w:name="List Table 6 Colorful Accent 5"/><w:lsdException w:name="List Table 7 Colorful Accent 5"/><w:lsdException w:name="List Table 1 Light Accent 6"/><w:lsdException w:name="List Table 2 Accent 6"/><w:lsdException w:name="List Table 3 Accent 6"/><w:lsdException w:name="List Table 4 Accent 6"/><w:lsdException w:name="List Table 5 Dark Accent 6"/><w:lsdException w:name="List Table 6 Colorful Accent 6"/><w:lsdException w:name="List Table 7 Colorful Accent 6"/><w:lsdException w:name="Mention"/><w:lsdException w:name="Smart Hyperlink"/></w:latentStyles><w:style w:type="paragraph" w:default="on" w:styleId="Normal"><w:name w:val="Normal"/><w:rsid w:val="002743C8"/><w:pPr><w:jc w:val="both"/></w:pPr><w:rPr><wx:font wx:val="Calibri"/><w:sz-cs w:val="24"/><w:lang w:val="EN-US" w:fareast="EN-US" w:bidi="AR-SA"/></w:rPr></w:style><w:style w:type="paragraph" w:styleId="Heading1"><w:name w:val="heading 1"/><wx:uiName wx:val="Heading 1"/><w:basedOn w:val="Normal"/><w:link w:val="Heading1Char"/><w:rsid w:val="00505903"/><w:pPr><w:pBdr><w:top w:val="single" w:sz="6" wx:bdrwidth="15" w:space="1" w:color="EEEEEE"/></w:pBdr><w:spacing w:before="100" w:before-autospacing="on"/><w:outlineLvl w:val="0"/></w:pPr><w:rPr><wx:font wx:val="Calibri"/><w:color w:val="AEAAAA"/><w:kern w:val="36"/><w:sz-cs w:val="20"/></w:rPr></w:style><w:style w:type="paragraph" w:styleId="Heading2"><w:name w:val="heading 2"/><wx:uiName wx:val="Heading 2"/><w:basedOn w:val="Normal"/><w:link w:val="Heading2Char"/><w:rsid w:val="00505903"/><w:pPr><w:spacing w:before="120"/><w:outlineLvl w:val="1"/></w:pPr><w:rPr><wx:font wx:val="Calibri"/><w:b/><w:b-cs/><w:caps/><w:sz-cs w:val="36"/></w:rPr></w:style><w:style w:type="paragraph" w:styleId="Heading3"><w:name w:val="heading 3"/><wx:uiName wx:val="Heading 3"/><w:basedOn w:val="Normal"/><w:link w:val="Heading3Char"/><w:rsid w:val="001B7422"/><w:pPr><w:spacing w:before="240" w:after="100" w:after-autospacing="on"/><w:outlineLvl w:val="2"/></w:pPr><w:rPr><wx:font wx:val="Calibri"/><w:b/><w:b-cs/></w:rPr></w:style><w:style w:type="character" w:default="on" w:styleId="DefaultParagraphFont"><w:name w:val="Default Paragraph Font"/></w:style><w:style w:type="table" w:default="on" w:styleId="TableNormal"><w:name w:val="Normal Table"/><wx:uiName wx:val="Table Normal"/><w:rPr><wx:font wx:val="Calibri"/><w:lang w:val="EN-US" w:fareast="EN-US" w:bidi="AR-SA"/></w:rPr><w:tblPr><w:tblInd w:w="0" w:type="dxa"/><w:tblCellMar><w:top w:w="0" w:type="dxa"/><w:left w:w="108" w:type="dxa"/><w:bottom w:w="0" w:type="dxa"/><w:right w:w="108" w:type="dxa"/></w:tblCellMar></w:tblPr></w:style><w:style w:type="list" w:default="on" w:styleId="NoList"><w:name w:val="No List"/></w:style><w:style w:type="character" w:styleId="Hyperlink"><w:name w:val="Hyperlink"/><w:rsid w:val="001B7422"/><w:rPr><w:strike w:val="off"/><w:dstrike w:val="off"/><w:color w:val="0064BD"/><w:u w:val="none"/><w:effect w:val="none"/></w:rPr></w:style><w:style w:type="character" w:styleId="FollowedHyperlink"><w:name w:val="FollowedHyperlink"/><w:rsid w:val="001B7422"/><w:rPr><w:strike w:val="off"/><w:dstrike w:val="off"/><w:color w:val="7B0796"/><w:u w:val="none"/><w:effect w:val="none"/></w:rPr></w:style><w:style w:type="character" w:styleId="Heading2Char"><w:name w:val="Heading 2 Char"/><w:link w:val="Heading2"/><w:rsid w:val="00505903"/><w:rPr><w:rFonts w:ascii="Calibri" w:h-ansi="Calibri"/><w:b/><w:b-cs/><w:caps/><w:sz-cs w:val="36"/></w:rPr></w:style><w:style w:type="character" w:styleId="Heading3Char"><w:name w:val="Heading 3 Char"/><w:link w:val="Heading3"/><w:rsid w:val="001B7422"/><w:rPr><w:rFonts w:ascii="Calibri" w:fareast="Calibri" w:h-ansi="Calibri" w:cs="Calibri"/><w:color w:val="1F4D78"/><w:sz w:val="20"/><w:sz-cs w:val="20"/></w:rPr></w:style><w:style w:type="paragraph" w:styleId="NormalWeb"><w:name w:val="Normal (Web)"/><w:basedOn w:val="Normal"/><w:rsid w:val="001B7422"/><w:pPr><w:spacing w:before="100" w:before-autospacing="on" w:after="100" w:after-autospacing="on"/></w:pPr><w:rPr><wx:font wx:val="Calibri"/></w:rPr></w:style><w:style w:type="character" w:styleId="Heading1Char"><w:name w:val="Heading 1 Char"/><w:link w:val="Heading1"/><w:rsid w:val="00505903"/><w:rPr><w:rFonts w:ascii="Calibri" w:h-ansi="Calibri"/><w:color w:val="AEAAAA"/><w:kern w:val="36"/><w:sz w:val="20"/><w:sz-cs w:val="20"/></w:rPr></w:style><w:style w:type="character" w:styleId="Strong"><w:name w:val="Strong"/><w:rsid w:val="001B7422"/><w:rPr><w:b/><w:b-cs/></w:rPr></w:style><w:style w:type="character" w:styleId="Emphasis"><w:name w:val="Emphasis"/><w:rsid w:val="001B7422"/><w:rPr><w:i/><w:i-cs/></w:rPr></w:style><w:style w:type="character" w:styleId="tenure"><w:name w:val="tenure"/><w:basedOn w:val="DefaultParagraphFont"/><w:rsid w:val="001B7422"/></w:style><w:style w:type="paragraph" w:styleId="Title"><w:name w:val="Title"/><w:basedOn w:val="Normal"/><w:next w:val="Normal"/><w:link w:val="TitleChar"/><w:rsid w:val="002D3B7B"/><w:pPr><w:contextualSpacing/></w:pPr><w:rPr><wx:font wx:val="Calibri"/><w:b/><w:spacing w:val="-10"/><w:kern w:val="28"/><w:sz-cs w:val="20"/></w:rPr></w:style><w:style w:type="character" w:styleId="TitleChar"><w:name w:val="Title Char"/><w:link w:val="Title"/><w:rsid w:val="002D3B7B"/><w:rPr><w:rFonts w:ascii="Calibri" w:h-ansi="Calibri"/><w:spacing w:val="-10"/><w:kern w:val="28"/><w:sz w:val="20"/><w:sz-cs w:val="20"/></w:rPr></w:style><w:style w:type="paragraph" w:styleId="ListParagraph"><w:name w:val="List Paragraph"/><w:basedOn w:val="Normal"/><w:rsid w:val="00C146CA"/><w:pPr><w:ind w:left="720"/><w:contextualSpacing/></w:pPr><w:rPr><wx:font wx:val="Calibri"/></w:rPr></w:style><w:style w:type="paragraph" w:styleId="Summary"><w:name w:val="Summary"/><w:basedOn w:val="Normal"/><w:link w:val="SummaryChar"/><w:rsid w:val="00A210E1"/><w:pPr><w:spacing w:before="120"/></w:pPr><w:rPr><wx:font wx:val="Calibri"/><w:color w:val="767171"/></w:rPr></w:style><w:style w:type="character" w:styleId="SummaryChar"><w:name w:val="Summary Char"/><w:link w:val="Summary"/><w:rsid w:val="00A210E1"/><w:rPr><w:rFonts w:ascii="Calibri" w:h-ansi="Calibri"/><w:sz w:val="24"/><w:sz-cs w:val="24"/></w:rPr></w:style></w:styles><w:docPr><w:view w:val="print"/><w:zoom w:percent="98"/><w:doNotEmbedSystemFonts/><w:defaultTabStop w:val="720"/><w:characterSpacingControl w:val="DontCompress"/><w:webPageEncoding w:val="unicode"/><w:optimizeForBrowser/><w:allowPNG/><w:doNotSaveWebPagesAsSingleFile/><w:savePreviewPicture/><w:validateAgainstSchema/><w:saveInvalidXML w:val="off"/><w:ignoreMixedContent w:val="off"/><w:alwaysShowPlaceholderText w:val="off"/><w:compat><w:breakWrappedTables/></w:compat><wsp:rsids><wsp:rsidRoot wsp:val="00C146CA"/><wsp:rsid wsp:val="000A3AF0"/><wsp:rsid wsp:val="001B7422"/><wsp:rsid wsp:val="002126D5"/><wsp:rsid wsp:val="002743C8"/><wsp:rsid wsp:val="002865F0"/><wsp:rsid wsp:val="002D3B7B"/><wsp:rsid wsp:val="00397D4D"/><wsp:rsid wsp:val="00437135"/><wsp:rsid wsp:val="00505903"/><wsp:rsid wsp:val="00606071"/><wsp:rsid wsp:val="006C2CFB"/><wsp:rsid wsp:val="00771B3E"/><wsp:rsid wsp:val="007D096C"/><wsp:rsid wsp:val="009452CA"/><wsp:rsid wsp:val="00A210E1"/><wsp:rsid wsp:val="00B43FDC"/><wsp:rsid wsp:val="00C07E43"/><wsp:rsid wsp:val="00C146CA"/><wsp:rsid wsp:val="00C77315"/><wsp:rsid wsp:val="00CD3781"/><wsp:rsid wsp:val="00E578D4"/><wsp:rsid wsp:val="00EA0B64"/><wsp:rsid wsp:val="00F02ACB"/><wsp:rsid wsp:val="00FE101B"/></wsp:rsids></w:docPr><w:body><wx:sect><w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="007D096C" wsp:rsidP="00C146CA"><w:pPr><w:pStyle w:val="Title"/><w:tabs><w:tab w:val="right" w:pos="9360"/></w:tabs></w:pPr><w:r><w:t>Michael Acord</w:t></w:r><w:r><w:tab/></w:r><w:hlink w:dest="mailto:acordmike@gmail.com"><w:r wsp:rsidRPr="003876BF"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>acordmike@gmail.com</w:t></w:r></w:hlink><w:r><w:t> - </w:t></w:r><w:r wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0"><w:t>1-920-224-4584</w:t></w:r><w:r><w:t> - </w:t></w:r><w:hlink w:dest="https://www.mikeacord.com"><w:r wsp:rsidRPr="003876BF"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>www.mikeacord.com</w:t></w:r></w:hlink></w:p><w:p wsp:rsidR="002126D5" wsp:rsidRDefault="00F02ACB"><w:r><w:t>Senior full-stack software engineer with 14 years' experience developing leading-edge technologies. Passionate developer with demonstrated leadership abilities and excellent communication skills. Expert in all aspects of the software life cycle, from speci</w:t></w:r><w:r><w:t>fication through analysis and design, to testing maintenance and evaluation of the product.</w:t></w:r></w:p><wx:sub-section><wx:pBdrGroup><wx:borders><wx:top wx:val="solid" wx:bdrwidth="15" wx:space="1" wx:color="EEEEEE"/></wx:borders><w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA"><w:pPr><w:pStyle w:val="Heading1"/></w:pPr><w:r wsp:rsidRPr="00C146CA"><w:t>SKILLS</w:t></w:r></w:p></wx:pBdrGroup><w:tbl><w:tblPr><w:tblW w:w="0" w:type="auto"/><w:tblLook w:val="04A0"/></w:tblPr><w:tblGrid><w:gridCol w:w="2687"/><w:gridCol w:w="6889"/></w:tblGrid><w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33"><w:tc><w:tcPr><w:tcW w:w="3000" w:type="dxa"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/></w:tcPr><w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00F02ACB" wsp:rsidP="00427ECC"><w:r><w:t>Web:</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW w:w="8000" w:type="dxa"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/></w:tcPr><w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00F02ACB" wsp:rsidP="00427ECC"><w:r><w:t>JavaScript, HTML 5, CSS, LAMP, MVC, REST, CSS</w:t></w:r></w:p></w:tc></w:tr><w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33"><w:tc><w:tcPr><w:tcW w:w="3000" w:type="dxa"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/></w:tcPr><w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00F02ACB" wsp:rsidP="00427ECC"><w:r><w:t>JavaScript:</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW w:w="8000" w:type="dxa"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/></w:tcPr><w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00F02ACB" wsp:rsidP="00427ECC"><w:r><w:t>Angular.js, jQuery, Backbone.js</w:t></w:r></w:p></w:tc></w:tr><w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33"><w:tc><w:tcPr><w:tcW w:w="3000" w:type="dxa"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/></w:tcPr><w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00F02ACB" wsp:rsidP="00427ECC"><w:r><w:t>Database:</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW w:w="8000" w:type="dxa"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/></w:tcPr><w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00F02ACB" wsp:rsidP="00427ECC"><w:r><w:t>SQL Server, TSQL, Integration Services, Analysis S</w:t></w:r><w:r><w:t>ervices, Reporting Services</w:t></w:r></w:p></w:tc></w:tr><w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33"><w:tc><w:tcPr><w:tcW w:w="3000" w:type="dxa"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/></w:tcPr><w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00F02ACB" wsp:rsidP="00427ECC"><w:r><w:t>Cloud:</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW w:w="8000" w:type="dxa"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/></w:tcPr><w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00F02ACB" wsp:rsidP="00427ECC"><w:r><w:t>Azure</w:t></w:r></w:p></w:tc></w:tr><w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33"><w:tc><w:tcPr><w:tcW w:w="3000" w:type="dxa"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/></w:tcPr><w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00F02ACB" wsp:rsidP="00427ECC"><w:r><w:t>Project:</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW w:w="8000" w:type="dxa"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/></w:tcPr><w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00F02ACB" wsp:rsidP="00427ECC"><w:r><w:t>Agile, TFS</w:t></w:r></w:p></w:tc></w:tr><w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33"><w:tc><w:tcPr><w:tcW w:w="3000" w:type="dxa"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/></w:tcPr><w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00F02ACB" wsp:rsidP="00427ECC"><w:r><w:t>DevOps:</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW w:w="8000" w:type="dxa"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/></w:tcPr><w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00F02ACB" wsp:rsidP="00427ECC"><w:r><w:t>TFS, Team City, Octopus Deploy</w:t></w:r></w:p></w:tc></w:tr><w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33"><w:tc><w:tcPr><w:tcW w:w="3000" w:type="dxa"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/></w:tcPr><w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00F02ACB" wsp:rsidP="00427ECC"><w:r><w:t>SharePoint:</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW w:w="8000" w:type="dxa"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/></w:tcPr><w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00F02ACB" wsp:rsidP="00427ECC"><w:r><w:t>Administration, Development, Office 365</w:t></w:r></w:p></w:tc></w:tr></w:tbl></wx:sub-section><wx:sub-section><wx:pBdrGroup><wx:borders><wx:top wx:val="solid" wx:bdrwidth="15" wx:space="1" wx:color="EEEEEE"/></wx:borders><w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA"><w:pPr><w:pStyle w:val="Heading1"/></w:pPr><w:r wsp:rsidRPr="00C146CA"><w:t>EMPLOYMENT</w:t></w:r></w:p></wx:pBdrGroup><wx:sub-section><w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00C146CA" wsp:rsidP="00E578D4"><w:pPr><w:pStyle w:val="Heading2"/><w:tabs><w:tab w:val="right" w:pos="9360"/></w:tabs></w:pPr><w:r wsp:rsidRPr="00C146CA"><w:t>Senior Solutions Architect, Consultant, </w:t></w:r><w:hlink w:dest="http://www.omniresources.com"><w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Omni Resources</w:t></w:r></w:hlink><w:r wsp:rsidR="00EA0B64"><w:tab/></w:r><w:r wsp:rsidRPr="00C146CA"><w:t>Jul 2012 — Present</w:t></w:r></w:p><w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA"><w:pPr><w:rPr><w:sz-cs w:val="20"/></w:rPr></w:pPr><w:r><w:t>Building leading-edge solutions for clients</w:t></w:r></w:p><w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA"><w:pPr><w:pStyle w:val="ListParagraph"/><w:listPr><w:ilvl w:val="0"/><w:ilfo w:val="1"/><wx:t wx:val="•"/><wx:font wx:val="Calibri"/></w:listPr><w:rPr><w:sz-cs w:val="20"/></w:rPr></w:pPr><w:r><w:t>Provided guidance and leadership to new employees</w:t></w:r></w:p><w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA"><w:pPr><w:pStyle w:val="ListParagraph"/><w:listPr><w:ilvl w:val="0"/><w:ilfo w:val="1"/><wx:t wx:val="•"/><wx:font wx:val="Calibri"/></w:listPr><w:rPr><w:sz-cs w:val="20"/></w:rPr></w:pPr><w:r><w:t>Implemented Office 365, saving Omni $5K/year in email hosting costs</w:t></w:r></w:p><w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA"><w:pPr><w:pStyle w:val="ListParagraph"/><w:listPr><w:ilvl w:val="0"/><w:ilfo w:val="1"/><wx:t wx:val="•"/><wx:font wx:val="Calibri"/></w:listPr><w:rPr><w:sz-cs w:val="20"/></w:rPr></w:pPr><w:r><w:t>Managed internal VMWare infrastructure</w:t></w:r></w:p><w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA"><w:pPr><w:pStyle w:val="ListParagraph"/><w:listPr><w:ilvl w:val="0"/><w:ilfo w:val="1"/><wx:t wx:val="•"/><wx:font wx:val="Calibri"/></w:listPr><w:rPr><w:sz-cs w:val="20"/></w:rPr></w:pPr><w:r><w:t>Lead development of internal project reporting application</w:t></w:r></w:p><w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA"><w:pPr><w:pStyle w:val="ListParagraph"/><w:listPr><w:ilvl w:val="0"/><w:ilfo w:val="1"/><wx:t wx:val="•"/><wx:font wx:val="Calibri"/></w:listPr><w:rPr><w:sz-cs w:val="20"/></w:rPr></w:pPr><w:r><w:t>Developed continuous deployment of internal applications using TeamCity and Octopus Deploy</w:t></w:r></w:p><w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA"><w:pPr><w:pStyle w:val="ListParagraph"/><w:listPr><w:ilvl w:val="0"/><w:ilfo w:val="1"/><wx:t wx:val="•"/><wx:font wx:val="Calibri"/></w:listPr><w:rPr><w:sz-cs w:val="20"/></w:rPr></w:pPr><w:r><w:t>Introduced and administered common team tools, including TFS, Slack and a team Wiki</w:t></w:r></w:p></wx:sub-section><wx:sub-section><w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00C146CA" wsp:rsidP="00E578D4"><w:pPr><w:pStyle w:val="Heading2"/><w:tabs><w:tab w:val="right" w:pos="9360"/></w:tabs></w:pPr><w:r wsp:rsidRPr="00C146CA"><w:t>Consultant, </w:t></w:r><w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071"><w:t>Insurance Company</w:t></w:r><w:r wsp:rsidR="00EA0B64"><w:tab/></w:r><w:r wsp:rsidRPr="00C146CA"><w:t>Feb 2016 — Present</w:t></w:r></w:p><w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA"><w:pPr><w:rPr><w:sz-cs w:val="20"/></w:rPr></w:pPr><w:r><w:t>Designed and developed new data warehouse</w:t></w:r></w:p><w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA"><w:pPr><w:pStyle w:val="ListParagraph"/><w:listPr><w:ilvl w:val="0"/><w:ilfo w:val="1"/><wx:t wx:val="•"/><wx:font wx:val="Calibri"/></w:listPr><w:rPr><w:sz-cs w:val="20"/></w:rPr></w:pPr><w:r><w:t>Modeled Data Warehouse (DW)</w:t></w:r></w:p><w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA"><w:pPr><w:pStyle w:val="ListParagraph"/><w:listPr><w:ilvl w:val="0"/><w:ilfo w:val="1"/><wx:t wx:val="•"/><wx:font wx:val="Calibri"/></w:listPr><w:rPr><w:sz-cs w:val="20"/></w:rPr></w:pPr><w:r><w:t>Built ETL routines to load data into the DW from multiple data sources</w:t></w:r></w:p></wx:sub-section><wx:sub-section><w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00C146CA" wsp:rsidP="00E578D4"><w:pPr><w:pStyle w:val="Heading2"/><w:tabs><w:tab w:val="right" w:pos="9360"/></w:tabs></w:pPr><w:r wsp:rsidRPr="00C146CA"><w:t>Consultant, </w:t></w:r><w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071"><w:t>Medical Outcome Reporting Company</w:t></w:r><w:r wsp:rsidR="00EA0B64"><w:tab/></w:r><w:r wsp:rsidRPr="00C146CA"><w:t>Jul 2015 — Feb 2016</w:t></w:r></w:p><w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA"><w:pPr><w:rPr><w:sz-cs w:val="20"/></w:rPr></w:pPr><w:r><w:t>Led team to develop a flexible interview building and reporting application</w:t></w:r></w:p><w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA"><w:pPr><w:pStyle w:val="ListParagraph"/><w:listPr><w:ilvl w:val="0"/><w:ilfo w:val="1"/><wx:t wx:val="•"/><wx:font wx:val="Calibri"/></w:listPr><w:rPr><w:sz-cs w:val="20"/></w:rPr></w:pPr><w:r><w:t>Designed and implemented custom interview building designer</w:t></w:r></w:p><w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA"><w:pPr><w:pStyle w:val="ListParagraph"/><w:listPr><w:ilvl w:val="0"/><w:ilfo w:val="1"/><wx:t wx:val="•"/><wx:font wx:val="Calibri"/></w:listPr><w:rPr><w:sz-cs w:val="20"/></w:rPr></w:pPr><w:r><w:t>Designed and built flexible reporting of interview responses</w:t></w:r></w:p><w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA"><w:pPr><w:pStyle w:val="ListParagraph"/><w:listPr><w:ilvl w:val="0"/><w:ilfo w:val="1"/><wx:t wx:val="•"/><wx:font wx:val="Calibri"/></w:listPr><w:rPr><w:sz-cs w:val="20"/></w:rPr></w:pPr><w:r><w:t>Implemented continuous integration and deployment pipeline using TeamCity and Octopus Deploy</w:t></w:r></w:p></wx:sub-section><wx:sub-section><w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00C146CA" wsp:rsidP="00E578D4"><w:pPr><w:pStyle w:val="Heading2"/><w:tabs><w:tab w:val="right" w:pos="9360"/></w:tabs></w:pPr><w:r wsp:rsidRPr="00C146CA"><w:t>Consultant, </w:t></w:r><w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071"><w:t>Insurance Company</w:t></w:r><w:r wsp:rsidR="00EA0B64"><w:tab/></w:r><w:r wsp:rsidRPr="00C146CA"><w:t>Jul 2014 — Jun 2015</w:t></w:r></w:p><w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA"><w:pPr><w:rPr><w:sz-cs w:val="20"/></w:rPr></w:pPr><w:r><w:t>Designed and developed new data warehouse</w:t></w:r></w:p><w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA"><w:pPr><w:pStyle w:val="ListParagraph"/><w:listPr><w:ilvl w:val="0"/><w:ilfo w:val="1"/><wx:t wx:val="•"/><wx:font wx:val="Calibri"/></w:listPr><w:rPr><w:sz-cs w:val="20"/></w:rPr></w:pPr><w:r><w:t>Modeled Operational Store (ODS)</w:t></w:r></w:p><w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA"><w:pPr><w:pStyle w:val="ListParagraph"/><w:listPr><w:ilvl w:val="0"/><w:ilfo w:val="1"/><wx:t wx:val="•"/><wx:font wx:val="Calibri"/></w:listPr><w:rPr><w:sz-cs w:val="20"/></w:rPr></w:pPr><w:r><w:t>Developed ETL templates for incrementally loading data</w:t></w:r></w:p><w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA"><w:pPr><w:pStyle w:val="ListParagraph"/><w:listPr><w:ilvl w:val="0"/><w:ilfo w:val="1"/><wx:t wx:val="•"/><wx:font wx:val="Calibri"/></w:listPr><w:rPr><w:sz-cs w:val="20"/></w:rPr></w:pPr><w:r><w:t>Built ETL routines to load data into the ODS from multiple data sources</w:t></w:r></w:p></wx:sub-section><wx:sub-section><w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00C146CA" wsp:rsidP="00E578D4"><w:pPr><w:pStyle w:val="Heading2"/><w:tabs><w:tab w:val="right" w:pos="9360"/></w:tabs></w:pPr><w:r wsp:rsidRPr="00C146CA"><w:t>Consultant, </w:t></w:r><w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071"><w:t>Student Management System Company</w:t></w:r><w:r wsp:rsidR="00EA0B64"><w:tab/></w:r><w:r wsp:rsidRPr="00C146CA"><w:t>Jul 2013 — Jun 2014</w:t></w:r></w:p><w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA"><w:pPr><w:rPr><w:sz-cs w:val="20"/></w:rPr></w:pPr><w:r><w:t>Team lead and architect for a custom-built reporting module to a Student Management System</w:t></w:r></w:p><w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA"><w:pPr><w:pStyle w:val="ListParagraph"/><w:listPr><w:ilvl w:val="0"/><w:ilfo w:val="1"/><wx:t wx:val="•"/><wx:font wx:val="Calibri"/></w:listPr><w:rPr><w:sz-cs w:val="20"/></w:rPr></w:pPr><w:r><w:t>Designed and developed streaming report execution engine</w:t></w:r></w:p><w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA"><w:pPr><w:pStyle w:val="ListParagraph"/><w:listPr><w:ilvl w:val="0"/><w:ilfo w:val="1"/><wx:t wx:val="•"/><wx:font wx:val="Calibri"/></w:listPr><w:rPr><w:sz-cs w:val="20"/></w:rPr></w:pPr><w:r><w:t>Led team of developers building simple but powerful web-based WYSIWYG report editor</w:t></w:r></w:p><w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA"><w:pPr><w:pStyle w:val="ListParagraph"/><w:listPr><w:ilvl w:val="0"/><w:ilfo w:val="1"/><wx:t wx:val="•"/><wx:font wx:val="Calibri"/></w:listPr><w:rPr><w:sz-cs w:val="20"/></w:rPr></w:pPr><w:r><w:t>Developed report rendering engine to allow delivery of reports in multiple formats</w:t></w:r></w:p></wx:sub-section><wx:sub-section><w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00C146CA" wsp:rsidP="00E578D4"><w:pPr><w:pStyle w:val="Heading2"/><w:tabs><w:tab w:val="right" w:pos="9360"/></w:tabs></w:pPr><w:r wsp:rsidRPr="00C146CA"><w:t>Consultant, </w:t></w:r><w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071"><w:t>Sporting Vehicle Dealership Software Company</w:t></w:r><w:r wsp:rsidR="00EA0B64"><w:tab/></w:r><w:r wsp:rsidRPr="00C146CA"><w:t>Oct 2012 — Jun 2013</w:t></w:r></w:p><w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA"><w:pPr><w:rPr><w:sz-cs w:val="20"/></w:rPr></w:pPr><w:r><w:t>Developed company's next-generation dealership showcase website</w:t></w:r></w:p><w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA"><w:pPr><w:pStyle w:val="ListParagraph"/><w:listPr><w:ilvl w:val="0"/><w:ilfo w:val="1"/><wx:t wx:val="•"/><wx:font wx:val="Calibri"/></w:listPr><w:rPr><w:sz-cs w:val="20"/></w:rPr></w:pPr><w:r><w:t>Developed Azure storage services to save and retrieve custom images</w:t></w:r></w:p><w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA"><w:pPr><w:pStyle w:val="ListParagraph"/><w:listPr><w:ilvl w:val="0"/><w:ilfo w:val="1"/><wx:t wx:val="•"/><wx:font wx:val="Calibri"/></w:listPr><w:rPr><w:sz-cs w:val="20"/></w:rPr></w:pPr><w:r><w:t>Designed and implemented common exception handling pattern</w:t></w:r></w:p><w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA"><w:pPr><w:pStyle w:val="ListParagraph"/><w:listPr><w:ilvl w:val="0"/><w:ilfo w:val="1"/><wx:t wx:val="•"/><wx:font wx:val="Calibri"/></w:listPr><w:rPr><w:sz-cs w:val="20"/></w:rPr></w:pPr><w:r><w:t>Maintained greater than 90% code coverage</w:t></w:r></w:p><w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA"><w:pPr><w:pStyle w:val="ListParagraph"/><w:listPr><w:ilvl w:val="0"/><w:ilfo w:val="1"/><wx:t wx:val="•"/><wx:font wx:val="Calibri"/></w:listPr><w:rPr><w:sz-cs w:val="20"/></w:rPr></w:pPr><w:r><w:t>Developed content modules for use in custom-build CMS System</w:t></w:r></w:p></wx:sub-section><wx:sub-section><w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00C146CA" wsp:rsidP="00E578D4"><w:pPr><w:pStyle w:val="Heading2"/><w:tabs><w:tab w:val="right" w:pos="9360"/></w:tabs></w:pPr><w:r wsp:rsidRPr="00C146CA"><w:t>SharePoint/Business Intelligence Technical Lead / Consultant, </w:t></w:r><w:hlink w:dest="http://www.hbs.net"><w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Heartland Business Systems (Avastone)</w:t></w:r></w:hlink><w:r wsp:rsidR="00EA0B64"><w:tab/></w:r><w:r wsp:rsidRPr="00C146CA"><w:t>Jun 2008 — Jun 2012</w:t></w:r></w:p><w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA"><w:pPr><w:rPr><w:sz-cs w:val="20"/></w:rPr></w:pPr><w:r><w:t>Designed and developed custom .Net, Business Intelligence and SharePoint solutions for businesses, managed technical consulting team</w:t></w:r></w:p><w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA"><w:pPr><w:pStyle w:val="ListParagraph"/><w:listPr><w:ilvl w:val="0"/><w:ilfo w:val="1"/><wx:t wx:val="•"/><wx:font wx:val="Calibri"/></w:listPr><w:rPr><w:sz-cs w:val="20"/></w:rPr></w:pPr><w:r><w:t>Managed team of SharePoint and BI Consultants</w:t></w:r></w:p><w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA"><w:pPr><w:pStyle w:val="ListParagraph"/><w:listPr><w:ilvl w:val="0"/><w:ilfo w:val="1"/><wx:t wx:val="•"/><wx:font wx:val="Calibri"/></w:listPr><w:rPr><w:sz-cs w:val="20"/></w:rPr></w:pPr><w:r><w:t>Developed school teacher evaluation system in SharePoint, .Net and JavaScript</w:t></w:r></w:p><w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA"><w:pPr><w:pStyle w:val="ListParagraph"/><w:listPr><w:ilvl w:val="0"/><w:ilfo w:val="1"/><wx:t wx:val="•"/><wx:font wx:val="Calibri"/></w:listPr><w:rPr><w:sz-cs w:val="20"/></w:rPr></w:pPr><w:r><w:t>Created health reporting and analytics system in ASP.Net MVC</w:t></w:r></w:p><w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA"><w:pPr><w:pStyle w:val="ListParagraph"/><w:listPr><w:ilvl w:val="0"/><w:ilfo w:val="1"/><wx:t wx:val="•"/><wx:font wx:val="Calibri"/></w:listPr><w:rPr><w:sz-cs w:val="20"/></w:rPr></w:pPr><w:r><w:t>Designed and created school district website in SharePoint</w:t></w:r></w:p><w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA"><w:pPr><w:pStyle w:val="ListParagraph"/><w:listPr><w:ilvl w:val="0"/><w:ilfo w:val="1"/><wx:t wx:val="•"/><wx:font wx:val="Calibri"/></w:listPr><w:rPr><w:sz-cs w:val="20"/></w:rPr></w:pPr><w:r><w:t>Developed new product workflow application in InfoPath</w:t></w:r></w:p><w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA"><w:pPr><w:pStyle w:val="ListParagraph"/><w:listPr><w:ilvl w:val="0"/><w:ilfo w:val="1"/><wx:t wx:val="•"/><wx:font wx:val="Calibri"/></w:listPr><w:rPr><w:sz-cs w:val="20"/></w:rPr></w:pPr><w:r><w:t>Designed and developed a data warehouse on SQL Server database and Analysis Services</w:t></w:r></w:p><w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA"><w:pPr><w:pStyle w:val="ListParagraph"/><w:listPr><w:ilvl w:val="0"/><w:ilfo w:val="1"/><wx:t wx:val="•"/><wx:font wx:val="Calibri"/></w:listPr><w:rPr><w:sz-cs w:val="20"/></w:rPr></w:pPr><w:r><w:t>Implemented numerous SharePoint installations, upgrades and custom development projects</w:t></w:r></w:p></wx:sub-section><wx:sub-section><w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00C146CA" wsp:rsidP="00E578D4"><w:pPr><w:pStyle w:val="Heading2"/><w:tabs><w:tab w:val="right" w:pos="9360"/></w:tabs></w:pPr><w:r wsp:rsidRPr="00C146CA"><w:t>Business Intelligence Consultant, </w:t></w:r><w:hlink w:dest="http://www.fujitsu.com"><w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Fujitsu Consulting</w:t></w:r></w:hlink><w:r wsp:rsidR="00EA0B64"><w:tab/></w:r><w:r wsp:rsidRPr="00C146CA"><w:t>Aug 2006 — </w:t></w:r><w:r wsp:rsidR="00C07E43"><w:t>MAY</w:t></w:r><w:r wsp:rsidRPr="00C146CA"><w:t> 2008</w:t></w:r></w:p><w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA"><w:pPr><w:rPr><w:sz-cs w:val="20"/></w:rPr></w:pPr><w:r><w:t>Senior BI Consultant building data integration solutions</w:t></w:r></w:p><w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA"><w:pPr><w:pStyle w:val="ListParagraph"/><w:listPr><w:ilvl w:val="0"/><w:ilfo w:val="1"/><wx:t wx:val="•"/><wx:font wx:val="Calibri"/></w:listPr><w:rPr><w:sz-cs w:val="20"/></w:rPr></w:pPr><w:r><w:t>Designed and developed data migration strategy from legacy system using Integration Services</w:t></w:r></w:p><w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA"><w:pPr><w:pStyle w:val="ListParagraph"/><w:listPr><w:ilvl w:val="0"/><w:ilfo w:val="1"/><wx:t wx:val="•"/><wx:font wx:val="Calibri"/></w:listPr><w:rPr><w:sz-cs w:val="20"/></w:rPr></w:pPr><w:r><w:t>Created real-time data integration from new web application back to legacy mainframe</w:t></w:r></w:p><w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA"><w:pPr><w:pStyle w:val="ListParagraph"/><w:listPr><w:ilvl w:val="0"/><w:ilfo w:val="1"/><wx:t wx:val="•"/><wx:font wx:val="Calibri"/></w:listPr><w:rPr><w:sz-cs w:val="20"/></w:rPr></w:pPr><w:r><w:t>Developed reporting services reports</w:t></w:r></w:p><w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA"><w:pPr><w:pStyle w:val="ListParagraph"/><w:listPr><w:ilvl w:val="0"/><w:ilfo w:val="1"/><wx:t wx:val="•"/><wx:font wx:val="Calibri"/></w:listPr><w:rPr><w:sz-cs w:val="20"/></w:rPr></w:pPr><w:r><w:t>Designed and optimized data access strategy</w:t></w:r></w:p></wx:sub-section><wx:sub-section><w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00C146CA" wsp:rsidP="00E578D4"><w:pPr><w:pStyle w:val="Heading2"/><w:tabs><w:tab w:val="right" w:pos="9360"/></w:tabs></w:pPr><w:r wsp:rsidRPr="00C146CA"><w:t>Business Intelligence Consultant, </w:t></w:r><w:hlink w:dest="http://www.compuware.com"><w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Compuware</w:t></w:r></w:hlink><w:r wsp:rsidR="00EA0B64"><w:tab/></w:r><w:r wsp:rsidRPr="00C146CA"><w:t>May 2005 — Jul 2006</w:t></w:r></w:p><w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA"><w:pPr><w:rPr><w:sz-cs w:val="20"/></w:rPr></w:pPr><w:r><w:t>SQL Server development consulting</w:t></w:r></w:p><w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA"><w:pPr><w:pStyle w:val="ListParagraph"/><w:listPr><w:ilvl w:val="0"/><w:ilfo w:val="1"/><wx:t wx:val="•"/><wx:font wx:val="Calibri"/></w:listPr><w:rPr><w:sz-cs w:val="20"/></w:rPr></w:pPr><w:r><w:t>Developed and optimized SQL Server applications</w:t></w:r></w:p><w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA"><w:pPr><w:pStyle w:val="ListParagraph"/><w:listPr><w:ilvl w:val="0"/><w:ilfo w:val="1"/><wx:t wx:val="•"/><wx:font wx:val="Calibri"/></w:listPr><w:rPr><w:sz-cs w:val="20"/></w:rPr></w:pPr><w:r><w:t>Developed bill of materials cost reporting application in MS Access</w:t></w:r></w:p><w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA"><w:pPr><w:pStyle w:val="ListParagraph"/><w:listPr><w:ilvl w:val="0"/><w:ilfo w:val="1"/><wx:t wx:val="•"/><wx:font wx:val="Calibri"/></w:listPr><w:rPr><w:sz-cs w:val="20"/></w:rPr></w:pPr><w:r><w:t>Developed Crystal Reports</w:t></w:r></w:p></wx:sub-section><wx:sub-section><w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00C146CA" wsp:rsidP="00E578D4"><w:pPr><w:pStyle w:val="Heading2"/><w:tabs><w:tab w:val="right" w:pos="9360"/></w:tabs></w:pPr><w:r wsp:rsidRPr="00C146CA"><w:t>Systems Analyst, </w:t></w:r><w:hlink w:dest="http://www.drs.com/"><w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>DRS Power and Control Technologies</w:t></w:r></w:hlink><w:r wsp:rsidR="00EA0B64"><w:tab/></w:r><w:r wsp:rsidRPr="00C146CA"><w:t>Aug 2001 — Aug 2005</w:t></w:r></w:p><w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA"><w:pPr><w:rPr><w:sz-cs w:val="20"/></w:rPr></w:pPr><w:r><w:t>Internal application development and support</w:t></w:r></w:p><w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA"><w:pPr><w:pStyle w:val="ListParagraph"/><w:listPr><w:ilvl w:val="0"/><w:ilfo w:val="1"/><wx:t wx:val="•"/><wx:font wx:val="Calibri"/></w:listPr><w:rPr><w:sz-cs w:val="20"/></w:rPr></w:pPr><w:r><w:t>Created an Operational Data Store from mainframe data</w:t></w:r></w:p><w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA"><w:pPr><w:pStyle w:val="ListParagraph"/><w:listPr><w:ilvl w:val="0"/><w:ilfo w:val="1"/><wx:t wx:val="•"/><wx:font wx:val="Calibri"/></w:listPr><w:rPr><w:sz-cs w:val="20"/></w:rPr></w:pPr><w:r><w:t>Created Crystal Reports to the analyze business data</w:t></w:r></w:p><w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA"><w:pPr><w:pStyle w:val="ListParagraph"/><w:listPr><w:ilvl w:val="0"/><w:ilfo w:val="1"/><wx:t wx:val="•"/><wx:font wx:val="Calibri"/></w:listPr><w:rPr><w:sz-cs w:val="20"/></w:rPr></w:pPr><w:r><w:t>Led cross-functional, multi-site teams to facilitate and improve business processes</w:t></w:r></w:p><w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA"><w:pPr><w:pStyle w:val="ListParagraph"/><w:listPr><w:ilvl w:val="0"/><w:ilfo w:val="1"/><wx:t wx:val="•"/><wx:font wx:val="Calibri"/></w:listPr><w:rPr><w:sz-cs w:val="20"/></w:rPr></w:pPr><w:r><w:t>Gathered and analyzed business requirements</w:t></w:r></w:p></wx:sub-section></wx:sub-section><wx:sub-section><wx:pBdrGroup><wx:borders><wx:top wx:val="solid" wx:bdrwidth="15" wx:space="1" wx:color="EEEEEE"/></wx:borders><w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA"><w:pPr><w:pStyle w:val="Heading1"/></w:pPr><w:r wsp:rsidRPr="00C146CA"><w:t>GOVERNANCE</w:t></w:r></w:p></wx:pBdrGroup><wx:sub-section><w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00C146CA" wsp:rsidP="00E578D4"><w:pPr><w:pStyle w:val="Heading2"/><w:tabs><w:tab w:val="right" w:pos="9360"/></w:tabs></w:pPr><w:r wsp:rsidRPr="00C146CA"><w:t>Board Member, </w:t></w:r><w:hlink w:dest="http://appletondaycare.com"><w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Celebration Childrens Center</w:t></w:r></w:hlink><w:r wsp:rsidR="00EA0B64"><w:tab/></w:r><w:r wsp:rsidRPr="00C146CA"><w:t>2014-08 — 2016-08</w:t></w:r></w:p></wx:sub-section></wx:sub-section><wx:sub-section><wx:pBdrGroup><wx:borders><wx:top wx:val="solid" wx:bdrwidth="15" wx:space="1" wx:color="EEEEEE"/></wx:borders><w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA"><w:pPr><w:pStyle w:val="Heading1"/></w:pPr><w:r wsp:rsidRPr="00C146CA"><w:t>EDUCATION</w:t></w:r></w:p></wx:pBdrGroup><wx:sub-section><w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="002126D5" wsp:rsidP="00E578D4"><w:pPr><w:pStyle w:val="Heading2"/><w:tabs><w:tab w:val="right" w:pos="9360"/></w:tabs></w:pPr><w:hlink w:dest="http://www.uwm.edu/"><w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>University of Wisconsin-Milwaukee</w:t></w:r></w:hlink><w:r wsp:rsidR="00C07E43" wsp:rsidRPr="00F02ACB"><w:rPr><w:rStyle w:val="Hyperlink"/><w:color w:val="000000"/></w:rPr><w:t>, M.S. Business</w:t></w:r><w:r wsp:rsidR="00EA0B64"><w:tab/></w:r><w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA"><w:t>2002 — 2003</w:t></w:r></w:p></wx:sub-section><wx:sub-section><w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="002126D5" wsp:rsidP="00E578D4"><w:pPr><w:pStyle w:val="Heading2"/><w:tabs><w:tab w:val="right" w:pos="9360"/></w:tabs></w:pPr><w:hlink w:dest="http://www.msoe.edu"><w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071"><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>Milwaukee School of Engineering</w:t></w:r></w:hlink><w:r wsp:rsidR="00C07E43" wsp:rsidRPr="00F02ACB"><w:rPr><w:rStyle w:val="Hyperlink"/><w:color w:val="000000"/></w:rPr><w:t>, b.S. mis</w:t></w:r><w:r wsp:rsidR="00EA0B64"><w:tab/></w:r><w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA"><w:t>1998 — 2002</w:t></w:r></w:p></wx:sub-section></wx:sub-section><w:sectPr wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidSect="001B7422"><w:pgSz w:w="12240" w:h="15840"/><w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="720" w:footer="720" w:gutter="0"/><w:cols w:space="720"/><w:docGrid w:line-pitch="360"/></w:sectPr></wx:sect></w:body></w:wordDocument>
+<w:wordDocument xmlns:aml="http://schemas.microsoft.com/aml/2001/core" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.microsoft.com/office/word/2003/wordml" xmlns:wx="http://schemas.microsoft.com/office/word/2003/auxHint" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wsp="http://schemas.microsoft.com/office/word/2003/wordml/sp2" xmlns:sl="http://schemas.microsoft.com/schemaLibrary/2003/core" w:macrosPresent="no" w:embeddedObjPresent="no" w:ocxPresent="no" xml:space="preserve">
+  <w:ignoreSubtree w:val="http://schemas.microsoft.com/office/word/2003/wordml/sp2"/>
+  <o:DocumentProperties>
+    <o:Title>Resume for Michael Acord</o:Title>
+    <o:Author>Michael Acord</o:Author>
+    <o:Keywords>resume;CV</o:Keywords>
+    <o:LastAuthor>Michael Acord</o:LastAuthor>
+    <o:Revision>1</o:Revision>
+    <o:TotalTime>60</o:TotalTime>
+    <o:Created>2015-12-16T17:38:00Z</o:Created>
+    <o:LastSaved>2015-12-16T18:32:00Z</o:LastSaved>
+    <o:Pages>1</o:Pages>
+    <o:Words>241</o:Words>
+    <o:Characters>1379</o:Characters>
+    <o:Lines>11</o:Lines>
+    <o:Paragraphs>3</o:Paragraphs>
+    <o:CharactersWithSpaces>1617</o:CharactersWithSpaces>
+    <o:Version>15</o:Version>
+  </o:DocumentProperties>
+  
+  <w:fonts>
+    <w:defaultFonts w:ascii="Calibri" w:fareast="Calibri" w:h-ansi="Calibri" w:cs="Calibri"/>
+  
+  
+    <w:font w:name="Calibri">
+      <w:panose-1 w:val="02020603050405020304"/>
+      <w:charset w:val="00"/>
+      <w:family w:val="Roman"/>
+      <w:pitch w:val="variable"/>
+      <w:sig w:usb-0="E0002AFF" w:usb-1="C0007841" w:usb-2="00000009" w:usb-3="00000000" w:csb-0="000001FF" w:csb-1="00000000"/>
+    </w:font>
+  
+  
+    <w:font w:name="Calibri">
+      <w:panose-1 w:val="020F0502020204030204"/>
+      <w:charset w:val="00"/>
+      <w:family w:val="Swiss"/>
+      <w:pitch w:val="variable"/>
+      <w:sig w:usb-0="A00002EF" w:usb-1="4000207B" w:usb-2="00000000" w:usb-3="00000000" w:csb-0="0000009F" w:csb-1="00000000"/>
+    </w:font>
+  
+  </w:fonts>
+  <w:lists>
+    <w:listDef w:listDefId="1">
+      <w:lsid w:val="602C53DD"/>
+      <w:plt w:val="HybridMultilevel"/>
+      <w:tmpl w:val="61849B8C"/>
+      <w:lvl w:ilvl="0" w:tplc="DD7ED086">
+        <w:start w:val="1"/>
+        <w:nfc w:val="23"/>
+        <w:lvlText w:val="•"/>
+        <w:lvlJc w:val="left"/>
+        <w:pPr>
+          <w:ind w:left="720" w:hanging="360"/>
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Calibri" w:h-ansi="Calibri" w:hint="default"/>
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="1" w:tplc="04090003" w:tentative="on">
+        <w:start w:val="1"/>
+        <w:nfc w:val="23"/>
+        <w:lvlText w:val="o"/>
+        <w:lvlJc w:val="left"/>
+        <w:pPr>
+          <w:ind w:left="1440" w:hanging="360"/>
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Courier New" w:h-ansi="Courier New" w:cs="Courier New" w:hint="default"/>
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="2" w:tplc="04090005" w:tentative="on">
+        <w:start w:val="1"/>
+        <w:nfc w:val="23"/>
+        <w:lvlText w:val=""/>
+        <w:lvlJc w:val="left"/>
+        <w:pPr>
+          <w:ind w:left="2160" w:hanging="360"/>
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Marlett" w:h-ansi="Marlett" w:hint="default"/>
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="3" w:tplc="04090001" w:tentative="on">
+        <w:start w:val="1"/>
+        <w:nfc w:val="23"/>
+        <w:lvlText w:val=""/>
+        <w:lvlJc w:val="left"/>
+        <w:pPr>
+          <w:ind w:left="2880" w:hanging="360"/>
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Symbol" w:h-ansi="Symbol" w:hint="default"/>
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="4" w:tplc="04090003" w:tentative="on">
+        <w:start w:val="1"/>
+        <w:nfc w:val="23"/>
+        <w:lvlText w:val="o"/>
+        <w:lvlJc w:val="left"/>
+        <w:pPr>
+          <w:ind w:left="3600" w:hanging="360"/>
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Courier New" w:h-ansi="Courier New" w:cs="Courier New" w:hint="default"/>
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="5" w:tplc="04090005" w:tentative="on">
+        <w:start w:val="1"/>
+        <w:nfc w:val="23"/>
+        <w:lvlText w:val=""/>
+        <w:lvlJc w:val="left"/>
+        <w:pPr>
+          <w:ind w:left="4320" w:hanging="360"/>
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Marlett" w:h-ansi="Marlett" w:hint="default"/>
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="6" w:tplc="04090001" w:tentative="on">
+        <w:start w:val="1"/>
+        <w:nfc w:val="23"/>
+        <w:lvlText w:val=""/>
+        <w:lvlJc w:val="left"/>
+        <w:pPr>
+          <w:ind w:left="5040" w:hanging="360"/>
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Symbol" w:h-ansi="Symbol" w:hint="default"/>
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="7" w:tplc="04090003" w:tentative="on">
+        <w:start w:val="1"/>
+        <w:nfc w:val="23"/>
+        <w:lvlText w:val="o"/>
+        <w:lvlJc w:val="left"/>
+        <w:pPr>
+          <w:ind w:left="5760" w:hanging="360"/>
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Courier New" w:h-ansi="Courier New" w:cs="Courier New" w:hint="default"/>
+        </w:rPr>
+      </w:lvl>
+      <w:lvl w:ilvl="8" w:tplc="04090005" w:tentative="on">
+        <w:start w:val="1"/>
+        <w:nfc w:val="23"/>
+        <w:lvlText w:val=""/>
+        <w:lvlJc w:val="left"/>
+        <w:pPr>
+          <w:ind w:left="6480" w:hanging="360"/>
+        </w:pPr>
+        <w:rPr>
+          <w:rFonts w:ascii="Marlett" w:h-ansi="Marlett" w:hint="default"/>
+        </w:rPr>
+      </w:lvl>
+    </w:listDef>
+    <w:list w:ilfo="1">
+      <w:ilst w:val="1"/>
+    </w:list>
+  </w:lists>
+  <w:styles>
+    <w:style w:type="paragraph" w:default="on" w:styleId="Normal">
+      <w:name w:val="Normal"/>
+      <w:rsid w:val="002743C8"/>
+      <w:rPr>
+        <w:rFonts w:ascii="Calibri" w:h-ansi="Calibri"/>
+        <wx:font wx:val="Calibri"/>
+        <w:sz-cs w:val="24"/>
+        <w:lang w:val="EN-US" w:fareast="EN-US" w:bidi="AR-SA"/>
+      </w:rPr>
+      <w:pPr>
+        <w:jc w:val="both"/>
+      </w:pPr>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="Heading1">
+      <w:name w:val="heading 1"/>
+      <wx:uiName wx:val="Heading 1"/>
+      <w:basedOn w:val="Normal"/>
+      <w:link w:val="Heading1Char"/>
+      <w:rsid w:val="00505903"/>
+      <w:pPr>
+        <w:spacing w:before="100" w:before-autospacing="on"/>
+        <w:outlineLvl w:val="0"/>
+        <w:pBdr>
+          <w:top w:val="single" w:sz="6" w:space="1" w:color="EEEEEE" />
+        </w:pBdr>
+      </w:pPr>
+      <w:rPr>
+        <wx:font wx:val="Calibri"/>
+        <w:rFonts w:ascii="Calibri" w:h-ansi="Calibri"/>
+        <w:color w:val="AEAAAA"/>
+        <w:kern w:val="36"/>
+        <w:sz w:val="20"/>
+        <w:sz-cs w:val="20"/>
+      </w:rPr>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="Heading2">
+      <w:name w:val="heading 2"/>
+      <wx:uiName wx:val="Heading 2"/>
+      <w:basedOn w:val="Normal"/>
+      <w:link w:val="Heading2Char"/>
+      <w:rsid w:val="00505903"/>
+      <w:pPr>
+        <w:spacing w:before="120"/>
+        <w:outlineLvl w:val="1"/>
+      </w:pPr>
+      <w:rPr>
+        <wx:font wx:val="Calibri"/>
+        <w:rFonts w:ascii="Calibri" w:h-ansi="Calibri"/>
+        <w:b/>
+        <w:b-cs/>
+        <w:caps/>
+        <w:sz-cs w:val="36"/>
+      </w:rPr>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="Heading3">
+      <w:name w:val="heading 3"/>
+      <wx:uiName wx:val="Heading 3"/>
+      <w:basedOn w:val="Normal"/>
+      <w:link w:val="Heading3Char"/>
+      <w:rsid w:val="001B7422"/>
+      <w:pPr>
+        <w:spacing w:before="240" w:after="100" w:after-autospacing="on"/>
+        <w:outlineLvl w:val="2"/>
+      </w:pPr>
+      <w:rPr>
+        <wx:font wx:val="Calibri"/>
+        <w:b/>
+        <w:b-cs/>
+      </w:rPr>
+    </w:style>
+    <w:style w:type="character" w:default="on" w:styleId="DefaultParagraphFont">
+      <w:name w:val="Default Paragraph Font"/>
+    </w:style>
+    <w:style w:type="table" w:default="on" w:styleId="TableNormal">
+      <w:name w:val="Normal Table"/>
+      <wx:uiName wx:val="Table Normal"/>
+      <w:rPr>
+        <wx:font wx:val="Calibri"/>
+        <w:lang w:val="EN-US" w:fareast="EN-US" w:bidi="AR-SA"/>
+      </w:rPr>
+      <w:tblPr>
+        <w:tblInd w:w="0" w:type="dxa"/>
+        <w:tblCellMar>
+          <w:top w:w="0" w:type="dxa"/>
+          <w:left w:w="108" w:type="dxa"/>
+          <w:bottom w:w="0" w:type="dxa"/>
+          <w:right w:w="108" w:type="dxa"/>
+        </w:tblCellMar>
+      </w:tblPr>
+    </w:style>
+    <w:style w:type="list" w:default="on" w:styleId="NoList">
+      <w:name w:val="No List"/>
+    </w:style>
+    <w:style w:type="character" w:styleId="Hyperlink">
+      <w:name w:val="Hyperlink"/>
+      <w:rsid w:val="001B7422"/>
+      <w:rPr>
+        <w:strike w:val="off"/>
+        <w:dstrike w:val="off"/>
+        <w:color w:val="0064BD"/>
+        <w:u w:val="none"/>
+        <w:effect w:val="none"/>
+      </w:rPr>
+    </w:style>
+    <w:style w:type="character" w:styleId="FollowedHyperlink">
+      <w:name w:val="FollowedHyperlink"/>
+      <w:rsid w:val="001B7422"/>
+      <w:rPr>
+        <w:strike w:val="off"/>
+        <w:dstrike w:val="off"/>
+        <w:color w:val="7B0796"/>
+        <w:u w:val="none"/>
+        <w:effect w:val="none"/>
+      </w:rPr>
+    </w:style>
+    <w:style w:type="character" w:styleId="Heading2Char">
+      <w:name w:val="Heading 2 Char"/>
+      <w:link w:val="Heading2"/>
+      <w:rsid w:val="00505903"/>
+      <w:rPr>
+        <wx:font wx:val="Calibri"/>
+        <w:rFonts w:ascii="Calibri" w:h-ansi="Calibri"/>
+        <w:b/>
+        <w:b-cs/>
+        <w:caps/>
+        <w:sz-cs w:val="36"/>
+      </w:rPr>
+    </w:style>
+    <w:style w:type="character" w:styleId="Heading3Char">
+      <w:name w:val="Heading 3 Char"/>
+      <w:link w:val="Heading3"/>
+      <w:rsid w:val="001B7422"/>
+      <w:rPr>
+        <w:rFonts w:ascii="Calibri" w:fareast="Calibri" w:h-ansi="Calibri" w:cs="Calibri"/>
+        <w:color w:val="1F4D78"/>
+        <w:sz w:val="20"/>
+        <w:sz-cs w:val="20"/>
+      </w:rPr>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="NormalWeb">
+      <w:name w:val="Normal (Web)"/>
+      <w:basedOn w:val="Normal"/>
+      <w:rsid w:val="001B7422"/>
+      <w:pPr>
+        <w:spacing w:before="100" w:before-autospacing="on" w:after="100" w:after-autospacing="on"/>
+        <w:jc w:val="both"/>
+      </w:pPr>
+      <w:rPr>
+        <wx:font wx:val="Calibri"/>
+      </w:rPr>
+    </w:style>
+    <w:style w:type="character" w:styleId="Heading1Char">
+      <w:name w:val="Heading 1 Char"/>
+      <w:link w:val="Heading1"/>
+      <w:rsid w:val="00505903"/>
+      <w:rPr>
+        <wx:font wx:val="Calibri"/>
+        <w:rFonts w:ascii="Calibri" w:h-ansi="Calibri"/>
+        <w:color w:val="AEAAAA"/>
+        <w:kern w:val="36"/>
+        <w:sz w:val="20"/>
+        <w:sz-cs w:val="20"/>
+      </w:rPr>
+    </w:style>
+    <w:style w:type="character" w:styleId="Strong">
+      <w:name w:val="Strong"/>
+      <w:rsid w:val="001B7422"/>
+      <w:rPr>
+        <w:b/>
+        <w:b-cs/>
+      </w:rPr>
+    </w:style>
+    <w:style w:type="character" w:styleId="Emphasis">
+      <w:name w:val="Emphasis"/>
+      <w:rsid w:val="001B7422"/>
+      <w:rPr>
+        <w:i/>
+        <w:i-cs/>
+      </w:rPr>
+    </w:style>
+    <w:style w:type="character" w:styleId="tenure">
+      <w:name w:val="tenure"/>
+      <w:basedOn w:val="DefaultParagraphFont"/>
+      <w:rsid w:val="001B7422"/>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="Title">
+      <w:name w:val="Title"/>
+      <w:basedOn w:val="Normal"/>
+      <w:next w:val="Normal"/>
+      <w:link w:val="TitleChar"/>
+      <w:rsid w:val="002D3B7B"/>
+      <w:pPr>
+        <w:contextualSpacing/>
+      </w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="Calibri" w:h-ansi="Calibri"/>
+        <wx:font wx:val="Calibri"/>
+        <w:b/>
+        <w:spacing w:val="-10"/>
+        <w:kern w:val="28"/>
+        <w:sz w:val="20"/>
+        <w:sz-cs w:val="20"/>
+      </w:rPr>
+    </w:style>
+    <w:style w:type="character" w:styleId="TitleChar">
+      <w:name w:val="Title Char"/>
+      <w:link w:val="Title"/>
+      <w:rsid w:val="002D3B7B"/>
+      <w:rPr>
+        <w:rFonts w:ascii="Calibri" w:h-ansi="Calibri"/>
+        <w:spacing w:val="-10"/>
+        <w:kern w:val="28"/>
+        <w:sz w:val="20"/>
+        <w:sz-cs w:val="20"/>
+      </w:rPr>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="ListParagraph">
+      <w:name w:val="List Paragraph"/>
+      <w:basedOn w:val="Normal"/>
+      <w:rsid w:val="00C146CA"/>
+      <w:pPr>
+        <w:ind w:left="720"/>
+        <w:contextualSpacing/>
+      </w:pPr>
+      <w:rPr>
+        <wx:font wx:val="Calibri"/>
+      </w:rPr>
+    </w:style>
+    <w:style w:type="paragraph" w:styleId="Summary">
+      <w:name w:val="Summary"/>
+      <w:basedOn w:val="Normal"/>
+      <w:link w:val="SummaryChar"/>
+      <w:rsid w:val="00A210E1"/>
+      <w:pPr>
+        <w:spacing w:before="120"/>
+      </w:pPr>
+      <w:rPr>
+        <wx:font wx:val="Calibri"/>
+        <w:color w:val="767171"/>
+      </w:rPr>
+    </w:style>
+    <w:style w:type="character" w:styleId="SummaryChar">
+      <w:name w:val="Summary Char"/>
+      <w:link w:val="Summary"/>
+      <w:rsid w:val="00A210E1"/>
+      <w:rPr>
+        <w:rFonts w:ascii="Calibri" w:h-ansi="Calibri"/>
+        <w:sz-cs w:val="24"/>
+        <w:sz w:val="24"/>
+      </w:rPr>
+    </w:style>
+  </w:styles>
+  <w:docPr>
+    <w:view w:val="print"/>
+    <w:zoom w:percent="98"/>
+    <w:doNotEmbedSystemFonts/>
+    <w:defaultTabStop w:val="720"/>
+    <w:characterSpacingControl w:val="DontCompress"/>
+    <w:webPageEncoding w:val="unicode"/>
+    <w:optimizeForBrowser/>
+    <w:allowPNG/>
+    <w:validateAgainstSchema/>
+    <w:saveInvalidXML w:val="off"/>
+    <w:ignoreMixedContent w:val="off"/>
+    <w:alwaysShowPlaceholderText w:val="off"/>
+    <w:compat>
+      <w:breakWrappedTables/>
+    </w:compat>
+    <wsp:rsids>
+      <wsp:rsidRoot wsp:val="00C146CA"/>
+      <wsp:rsid wsp:val="000A3AF0"/>
+      <wsp:rsid wsp:val="001B7422"/>
+      <wsp:rsid wsp:val="002743C8"/>
+      <wsp:rsid wsp:val="002865F0"/>
+      <wsp:rsid wsp:val="002D3B7B"/>
+      <wsp:rsid wsp:val="00397D4D"/>
+      <wsp:rsid wsp:val="00437135"/>
+      <wsp:rsid wsp:val="00505903"/>
+      <wsp:rsid wsp:val="00606071"/>
+      <wsp:rsid wsp:val="006C2CFB"/>
+      <wsp:rsid wsp:val="00771B3E"/>
+      <wsp:rsid wsp:val="007D096C"/>
+      <wsp:rsid wsp:val="009452CA"/>
+      <wsp:rsid wsp:val="00A210E1"/>
+      <wsp:rsid wsp:val="00B43FDC"/>
+      <wsp:rsid wsp:val="00C146CA"/>
+      <wsp:rsid wsp:val="00C77315"/>
+      <wsp:rsid wsp:val="00CD3781"/>
+      <wsp:rsid wsp:val="00E578D4"/>
+      <wsp:rsid wsp:val="00EA0B64"/>
+      <wsp:rsid wsp:val="00FE101B"/>
+    </wsp:rsids>
+  </w:docPr>
+  <w:body>
+    <wx:sect>
+      <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="007D096C" wsp:rsidP="00C146CA">
+        <w:pPr>
+          <w:pStyle w:val="Title"/>
+          <w:tabs>
+            <w:tab w:val="right" w:pos="9360"/>
+          </w:tabs>
+        </w:pPr>
+        <w:r>
+          <w:t>Michael Acord</w:t>
+        </w:r>
+        <w:r>
+          <w:tab/>
+        </w:r>
+        <w:hlink w:dest="mailto:acordmike@gmail.com">
+          <w:r wsp:rsidRPr="003876BF">
+            <w:rPr>
+              <w:rStyle w:val="Hyperlink"/>
+              <w:sz-cs w:val="20"/>
+            </w:rPr>
+            <w:t>acordmike@gmail.com</w:t>
+          </w:r>
+        </w:hlink>
+        <w:r>
+          <w:rPr>
+            <w:sz-cs w:val="20"/>
+          </w:rPr>
+          <w:t> - </w:t>
+        </w:r>
+        <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0">
+          <w:rPr>
+            <w:sz-cs w:val="20"/>
+          </w:rPr>
+          <w:t>1-920-224-4584</w:t>
+        </w:r>
+        <w:r>
+          <w:rPr>
+            <w:sz-cs w:val="20"/>
+          </w:rPr>
+          <w:t> - </w:t>
+        </w:r>
+        <w:hlink w:dest="https://www.mikeacord.com">
+          <w:r wsp:rsidRPr="003876BF">
+            <w:rPr>
+              <w:rStyle w:val="Hyperlink"/>
+              <w:sz-cs w:val="20"/>
+            </w:rPr>
+            <w:t>www.mikeacord.com</w:t>
+          </w:r>
+        </w:hlink>
+      </w:p>
+      <w:p><w:r><w:rPr></w:rPr><w:t>Senior full-stack software engineer with 14 years' experience developing leading-edge technologies. Passionate developer with demonstrated leadership abilities and excellent communication skills. Expert in all aspects of the software life cycle, from specification through analysis and design, to testing maintenance and evaluation of the product.</w:t></w:r></w:p>
+      <wx:sub-section>
+  <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+    <w:pPr>
+      <w:pStyle w:val="Heading1"/>
+    </w:pPr>
+    <w:r wsp:rsidRPr="00C146CA">
+      <w:t>SKILLS</w:t>
+    </w:r>
+  </w:p>
+  <w:tbl>
+    <w:tblPr>
+      <w:tblW w:w="0" w:type="auto"/>
+      <w:tblLook w:val="04A0"/>
+    </w:tblPr>
+    <w:tblGrid>
+      <w:gridCol w:w="3000"/>
+      <w:gridCol w:w="8000"/>
+    </w:tblGrid>
+
+
+    <w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33">
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="3000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:t>Web:</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="8000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:t>JavaScript, HTML 5, CSS, LAMP, MVC, REST, CSS</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+    </w:tr>
+
+
+    <w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33">
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="3000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:t>JavaScript:</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="8000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:t>Angular.js, jQuery, Backbone.js</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+    </w:tr>
+
+
+    <w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33">
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="3000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:t>Database:</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="8000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:t>SQL Server, TSQL, Integration Services, Analysis Services, Reporting Services</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+    </w:tr>
+
+
+    <w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33">
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="3000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:t>Cloud:</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="8000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:t>Azure</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+    </w:tr>
+
+
+    <w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33">
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="3000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:t>Project:</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="8000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:t>Agile, TFS</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+    </w:tr>
+
+
+    <w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33">
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="3000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:t>DevOps:</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="8000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:t>TFS, Team City, Octopus Deploy</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+    </w:tr>
+
+
+    <w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33">
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="3000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:t>SharePoint:</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="8000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:t>Administration, Development, Office 365</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+    </w:tr>
+
+
+  </w:tbl>
+</wx:sub-section>
+
+      <wx:sub-section>
+
+  <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+    <w:pPr>
+      <w:pStyle w:val="Heading1"/>
+    </w:pPr>
+    <w:r wsp:rsidRPr="00C146CA">
+      <w:t>EMPLOYMENT</w:t>
+    </w:r>
+  </w:p>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:t>Senior Solutions Architect, Consultant, </w:t>
+      </w:r>
+      <w:hlink w:dest="http://www.omniresources.com">
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:rPr>
+            <w:rStyle w:val="Hyperlink"/>
+          </w:rPr>
+          <w:t>Omni Resources</w:t>
+        </w:r>
+      </w:hlink>
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>Jul 2012 — Present</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Building leading-edge solutions for clients</w:t></w:r>
+    </w:p>
+
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Provided guidance and leadership to new employees</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Implemented Office 365, saving Omni $5K/year in email hosting costs</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Managed internal VMWare infrastructure</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Lead development of internal project reporting application</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Developed continuous deployment of internal applications using TeamCity and Octopus Deploy</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Introduced and administered common team tools, including TFS, Slack and a team Wiki</w:t></w:r>
+    </w:p>
+
+  </wx:sub-section>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:t>Data Warehouse Developer, Data Architect, </w:t>
+      </w:r>
+      <w:hlink w:dest="https://www.securityhealth.org/">
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:rPr>
+            <w:rStyle w:val="Hyperlink"/>
+          </w:rPr>
+          <w:t>Security Health Plan</w:t>
+        </w:r>
+      </w:hlink>
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>Feb 2016 — Present</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Designed and developed new data warehouse</w:t></w:r>
+    </w:p>
+
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Modeled Data Warehouse (DW)</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Built ETL routines to load data into the DW from multiple data sources</w:t></w:r>
+    </w:p>
+
+  </wx:sub-section>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:t>Technical Lead, Architect, </w:t>
+      </w:r>
+      <w:hlink w:dest="http://qm2solutions.com/">
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:rPr>
+            <w:rStyle w:val="Hyperlink"/>
+          </w:rPr>
+          <w:t>QM2 Solutions</w:t>
+        </w:r>
+      </w:hlink>
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>Jul 2015 — Feb 2016</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Led team to develop a flexible interview building and reporting application</w:t></w:r>
+    </w:p>
+
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Designed and implemented custom interview building designer</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Designed and built flexible reporting of interview responses</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Implemented continuous integration and deployment pipeline using TeamCity and Octopus Deploy</w:t></w:r>
+    </w:p>
+
+  </wx:sub-section>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:t>Data Warehouse Developer, Data Architect, </w:t>
+      </w:r>
+      <w:hlink w:dest="https://www.securityhealth.org/">
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:rPr>
+            <w:rStyle w:val="Hyperlink"/>
+          </w:rPr>
+          <w:t>Security Health Plan</w:t>
+        </w:r>
+      </w:hlink>
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>Jul 2014 — Jun 2015</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Designed and developed new data warehouse</w:t></w:r>
+    </w:p>
+
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Modeled Operational Store (ODS)</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Developed ETL templates for incrementally loading data</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Built ETL routines to load data into the ODS from multiple data sources</w:t></w:r>
+    </w:p>
+
+  </wx:sub-section>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:t>Technical Lead, Architect, </w:t>
+      </w:r>
+      <w:hlink w:dest="https://www.skyward.com/">
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:rPr>
+            <w:rStyle w:val="Hyperlink"/>
+          </w:rPr>
+          <w:t>Skyward</w:t>
+        </w:r>
+      </w:hlink>
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>Jul 2013 — Jun 2014</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Team lead and architect for a custom-built reporting module to a Student Management System</w:t></w:r>
+    </w:p>
+
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Designed and developed streaming report execution engine</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Led team of developers building simple but powerful web-based WYSIWYG report editor</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Developed report rendering engine to allow delivery of reports in multiple formats</w:t></w:r>
+    </w:p>
+
+  </wx:sub-section>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:t>Consultant, </w:t>
+      </w:r>
+      <w:hlink w:dest="https://www.dominionenterprises.com/">
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:rPr>
+            <w:rStyle w:val="Hyperlink"/>
+          </w:rPr>
+          <w:t>Dominion Enterprises</w:t>
+        </w:r>
+      </w:hlink>
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>Oct 2012 — Jun 2013</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Developed company&apos;s next-generation dealership showcase website</w:t></w:r>
+    </w:p>
+
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Developed Azure storage services to save and retrieve custom images</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Designed and implemented common exception handling pattern</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Maintained greater than 90% code coverage</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Developed content modules for use in custom-build CMS System</w:t></w:r>
+    </w:p>
+
+  </wx:sub-section>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:t>SharePoint/Business Intelligence Technical Lead / Consultant, </w:t>
+      </w:r>
+      <w:hlink w:dest="http://www.hbs.net">
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:rPr>
+            <w:rStyle w:val="Hyperlink"/>
+          </w:rPr>
+          <w:t>Heartland Business Systems (Avastone)</w:t>
+        </w:r>
+      </w:hlink>
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>Jun 2008 — Jun 2012</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Designed and developed custom .Net, Business Intelligence and SharePoint solutions for businesses, managed technical consulting team</w:t></w:r>
+    </w:p>
+
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Managed team of SharePoint and BI Consultants</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Developed school teacher evaluation system in SharePoint, .Net and JavaScript</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Created health reporting and analytics system in ASP.Net MVC</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Designed and created school district website in SharePoint</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Developed new product workflow application in InfoPath</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Designed and developed a data warehouse on SQL Server database and Analysis Services</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Implemented numerous SharePoint installations, upgrades and custom development projects</w:t></w:r>
+    </w:p>
+
+  </wx:sub-section>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:t>Business Intelligence Consultant, </w:t>
+      </w:r>
+      <w:hlink w:dest="http://www.fujitsu.com">
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:rPr>
+            <w:rStyle w:val="Hyperlink"/>
+          </w:rPr>
+          <w:t>Fujitsu Consulting</w:t>
+        </w:r>
+      </w:hlink>
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>Aug 2006 — May 2008</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Senior BI Consultant building data integration solutions</w:t></w:r>
+    </w:p>
+
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Designed and developed data migration strategy from legacy system using Integration Services</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Created real-time data integration from new web application back to legacy mainframe</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Developed reporting services reports</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Designed and optimized data access strategy</w:t></w:r>
+    </w:p>
+
+  </wx:sub-section>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:t>Business Intelligence Consultant, </w:t>
+      </w:r>
+      <w:hlink w:dest="http://www.compuware.com">
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:rPr>
+            <w:rStyle w:val="Hyperlink"/>
+          </w:rPr>
+          <w:t>Compuware</w:t>
+        </w:r>
+      </w:hlink>
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>May 2005 — Jul 2006</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>SQL Server development consulting</w:t></w:r>
+    </w:p>
+
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Developed and optimized SQL Server applications</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Developed bill of materials cost reporting application in MS Access</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Developed Crystal Reports</w:t></w:r>
+    </w:p>
+
+  </wx:sub-section>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:t>Systems Analyst, </w:t>
+      </w:r>
+      <w:hlink w:dest="http://www.drs.com/">
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:rPr>
+            <w:rStyle w:val="Hyperlink"/>
+          </w:rPr>
+          <w:t>DRS Power and Control Technologies</w:t>
+        </w:r>
+      </w:hlink>
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>Aug 2001 — Aug 2005</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Internal application development and support</w:t></w:r>
+    </w:p>
+
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Created an Operational Data Store from mainframe data</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Created Crystal Reports to the analyze business data</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Led cross-functional, multi-site teams to facilitate and improve business processes</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Gathered and analyzed business requirements</w:t></w:r>
+    </w:p>
+
+  </wx:sub-section>
+
+
+</wx:sub-section>
+
+      
+      <wx:sub-section>
+
+  <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+    <w:pPr>
+      <w:pStyle w:val="Heading1"/>
+    </w:pPr>
+    <w:r wsp:rsidRPr="00C146CA">
+      <w:t>GOVERNANCE</w:t>
+    </w:r>
+  </w:p>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:t>Board Member, </w:t>
+      </w:r>
+
+      <w:hlink w:dest="http://appletondaycare.com">
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:rPr>
+            <w:rStyle w:val="Hyperlink"/>
+          </w:rPr>
+          <w:t>Celebration Childrens Center</w:t>
+        </w:r>
+      </w:hlink>
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>2014-08 — 2016-08</w:t>
+      </w:r>
+    </w:p>
+
+
+
+  </wx:sub-section>
+
+
+</wx:sub-section>
+
+      
+      <wx:sub-section>
+
+  <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+    <w:pPr>
+      <w:pStyle w:val="Heading1"/>
+    </w:pPr>
+    <w:r wsp:rsidRPr="00C146CA">
+      <w:t>EDUCATION</w:t>
+    </w:r>
+  </w:p>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      <w:hlink w:dest="http://www.uwm.edu/">
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:rPr>
+            <w:rStyle w:val="Hyperlink"/>
+          </w:rPr>
+          <w:t>University of Wisconsin-Milwaukee</w:t>
+        </w:r>
+      </w:hlink>
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>2002 — 2003</w:t>
+      </w:r>
+    </w:p>
+
+
+  </wx:sub-section>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      <w:hlink w:dest="http://www.msoe.edu">
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:rPr>
+            <w:rStyle w:val="Hyperlink"/>
+          </w:rPr>
+          <w:t>Milwaukee School of Engineering</w:t>
+        </w:r>
+      </w:hlink>
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>1998 — 2002</w:t>
+      </w:r>
+    </w:p>
+
+
+  </wx:sub-section>
+
+
+</wx:sub-section>
+
+      
+      
+      
+      
+      
+      
+      
+      <w:sectPr wsp:rsidR="00B43FDC" wsp:rsidRPr="000A3AF0" wsp:rsidSect="001B7422">
+        <w:pgSz w:w="12240" w:h="15840"/>
+        <w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="720" w:footer="720" w:gutter="0"/>
+        <w:cols w:space="720"/>
+        <w:docGrid w:line-pitch="360"/>
+      </w:sectPr>
+    </wx:sect>
+  </w:body>
+</w:wordDocument>
