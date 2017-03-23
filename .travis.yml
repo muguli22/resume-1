@@ -4,3 +4,7 @@ install:
 
 script:
   - npm build
+  
+cache:
+  directories:
+    - node_modules
