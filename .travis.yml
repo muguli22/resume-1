@@ -1,11 +1,9 @@
 language: node_js
-  - "4.0.0"
+  - 4
 install: 
-  - npm install
+  - npm install -g yarn && yarn
 
 script:
   - npm build
 
-cache:
-  directories:
-    - node_modules
+cache: yarn
