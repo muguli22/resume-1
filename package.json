@@ -1,7 +1,13 @@
 {
+    "author": "Mike Acord <acordmike@gmail.com>",
     "name": "mike.acord.resume",
     "version": "1.0.0",
+    "homepage": "https://www.mikeacord.com",
     "description": "Mike Acord's Resume",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/acordmike/resume.git"
+    },
     "dependencies": {
         "hackmyresume": "^1.8.0",
         "jsonresume-theme-eloquent": "^3.0.1"
@@ -13,6 +19,5 @@
         "build": "hackmyresume BUILD src/resume.json TO README.md && hackmyresume BUILD src/resume.json TO out/mikeacord_resume.doc -t compact",
         "build:html": "hackmyresume BUILD src/resume.json TO out/resume.json && node src/buildhtml.js"
     },
-    "author": "Mike Acord",
     "license": "ISC"
 }
