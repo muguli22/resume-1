@@ -8,7 +8,7 @@
     },
     "devDependencies": {},
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
+        "test": "hackmyresume VALIDATE ./src/resume.json",
         "validate": "hackmyresume VALIDATE ./src/resume.json",
         "build": "hackmyresume BUILD src/resume.json TO README.md && hackmyresume BUILD src/resume.json TO out/mikeacord_resume.doc -t compact",
         "build:html": "hackmyresume BUILD src/resume.json TO out/resume.json && node src/buildhtml.js"
