@@ -1,7 +1,10 @@
 language: node_js
 node_js:
   - "4"
+
+before-script: npm run validate
 script:
   - npm build
+  - npm run build:html
 
 cache: yarn
